@@ -1,0 +1,118 @@
+.title-container {
+    display: flex;
+    height: calc(100% - 40px);
+    padding: 80px 124px 64px 124px;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+}
+
+.main-title {
+    display: block;
+    max-width: calc(100vw - 500px);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+    line-height: 56px;
+    letter-spacing: 0px;
+    color: #1B2733;
+    margin: 0px;
+}
+
+.home-banner {
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 25%, rgba(0, 0, 0, 0) 95%), url(./images/banner-home.png);
+    background-position: center;
+    background-size: cover;
+    padding: 0 124px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+}
+
+.banner-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    max-width: 570px;
+}
+
+.banner-info-title {
+    font-size: 64px;
+    font-style: normal;
+    line-height: 72px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.banner-info-text {
+    font-size: 20px;
+    font-style: normal;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.home-buttons-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 148px 124px 148px 124px;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+.home-button {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #7070728c;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.home-button-title {
+    text-align: center;
+    color: #707072;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0px;
+}
+
+.home-button-text {
+    text-align: center;
+    color: #707072;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 36px;
+}
+
+.home-button-link {
+    cursor: pointer;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0070E0;
+    border-radius: 40px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0px;
+    max-width: fit-content;
+    padding: 12px 48px;
+    margin-bottom: 24px;
+    transition: background-color .3s;
+}
+
+.home-button-link:hover {
+    background-color: #0070e066;
+}
