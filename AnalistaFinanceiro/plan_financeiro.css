@@ -1,0 +1,125 @@
+.title-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    height: calc(100% - 40px);
+    padding: 80px 124px 64px 124px;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+}
+
+.main-title {
+    display: block;
+    max-width: calc(100vw - 500px);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    font-size: 48px;
+    font-style: normal;
+    line-height: 56px;
+    letter-spacing: 0px;
+    color: #1B2733;
+    margin: 0px;
+}
+
+.financial-analyst-container {
+    background-color: gray;
+    height: 100vh;
+}
+
+.subtitle {
+    display: block;
+    max-width: calc(100vw - 500px);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    font-size: 40px;
+    font-style: normal;
+    line-height: 48px;
+    letter-spacing: 0px;
+    color: #1B2733;
+    margin: 0px;
+}
+
+.pb-0 {
+    padding-bottom: 0px;
+}
+
+.description-container {
+    padding: 16px 124px 48px 124px;
+}
+
+h3 {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 28px;
+    letter-spacing: 0px;
+    color: #637282;
+    margin: 0px;
+}
+
+.date-selector {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
+.date-selector select {
+    appearance: none;
+    padding: 12px 40px 12px 24px;
+    border: 2px solid #0070E0;
+    border-radius: 30px;
+    min-width: 200px;
+    color: #0070E0;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.date-selector::after {
+    content: "▼";
+    font-size: 16px;
+    color: #0070E0;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.date-selector select:focus,
+.date-selector select:focus-visible {
+    border-color: #0070E0;
+    outline: none;
+    box-shadow: none;
+}
+
+.date-selector select:hover {
+    border-color: #0070e066;
+    color: #0070e066;
+}
+
+.date-selector:hover::after {
+    color: #0070e066;
+}
+
+.date-selector select option {
+    color: #0070E0;
+    background: #fff;
+}
+
+.date-selector select option:hover {
+    background: #d8e9ff;
+}
+
+.flow-chart-container {
+    background-color: #f9f9fc;
+    padding: 24px;
+    border-radius: 10px;
+}
