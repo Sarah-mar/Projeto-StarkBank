@@ -1,0 +1,151 @@
+id_despesa,fornecedor/categoria,data_vencimento,valor_devido,recorrencia,prioridade_pagamento,status_pagamento
+1,Consultoria Financeira,2023-12-12,21119.1,Único,4,Pendente
+2,Licenças GitHub,2024-11-01,15619.21,Único,3,Pago
+3,Azure,2024-03-06,1493.29,Mensal,5,Pendente
+4,Servidores Locais,2024-12-16,19809.79,Único,1,Pago
+5,Consultoria Financeira,2023-12-19,1850.22,Trimestral,2,Pendente
+6,Google Cloud,2025-07-03,20828.89,Mensal,1,Agendado
+7,Equipamentos TI,2025-07-19,20038.7,Mensal,4,Agendado
+8,Eventos Tech,2025-06-01,16026.83,Único,2,Pago
+9,Servidores Locais,2024-01-26,13084.46,Único,5,Pago
+10,Salários Devs,2025-05-28,4723.4,Trimestral,3,Agendado
+11,Serviços Jurídicos,2025-04-26,3449.64,Único,5,Pendente
+12,Eventos Tech,2025-09-03,15333.43,Mensal,5,Agendado
+13,Publicidade Online,2025-01-26,17070.96,Mensal,3,Pago
+14,Licenças GitHub,2024-05-01,22566.53,Mensal,2,Pago
+15,Licenças GitHub,2025-08-30,16356.25,Trimestral,4,Pago
+16,Ferramentas SaaS,2024-08-22,3292.84,Único,4,Pendente
+17,Publicidade Online,2024-04-09,1037.56,Mensal,4,Agendado
+18,Consultoria Financeira,2024-12-06,2622.96,Único,5,Agendado
+19,Equipe de Marketing,2025-06-17,14579.71,Mensal,5,Agendado
+20,Prestador Autônomo,2025-03-13,8503.15,Único,1,Agendado
+21,Azure,2024-12-25,4978.83,Trimestral,1,Pago
+22,Equipe de Marketing,2025-07-23,418.21,Único,2,Pago
+23,Ferramentas SaaS,2025-01-07,24300.87,Mensal,4,Pago
+24,Azure,2024-02-24,15152.75,Único,2,Pago
+25,Consultoria Financeira,2024-10-08,11087.44,Mensal,4,Pago
+26,Servidores Locais,2024-10-08,12063.87,Trimestral,2,Agendado
+27,Servidores Locais,2025-07-20,22962.43,Único,4,Pendente
+28,AWS,2024-03-11,21638.36,Único,3,Pendente
+29,Servidores Locais,2024-09-10,23035.25,Mensal,5,Pago
+30,Salários Devs,2025-08-01,16711.87,Único,4,Agendado
+31,Azure,2025-08-07,21047.34,Mensal,4,Pendente
+32,Prestador Autônomo,2025-05-05,581.08,Trimestral,1,Agendado
+33,Ferramentas SaaS,2024-03-16,16971.19,Trimestral,4,Agendado
+34,Azure,2025-07-24,7268.83,Trimestral,1,Pago
+35,Equipamentos TI,2025-01-03,14437.84,Trimestral,1,Pendente
+36,Google Cloud,2024-09-11,16001.91,Único,4,Pendente
+37,Publicidade Online,2025-02-08,17511.02,Mensal,5,Pago
+38,Ferramentas SaaS,2024-03-07,9960.92,Trimestral,1,Pago
+39,Publicidade Online,2024-05-16,7885.4,Mensal,2,Pago
+40,Serviços Jurídicos,2024-07-19,12573.0,Mensal,4,Pendente
+41,Licenças GitHub,2023-12-23,10642.47,Mensal,4,Agendado
+42,Equipe de Marketing,2025-06-27,7595.24,Único,1,Pendente
+43,Café e Escritório,2025-05-27,10764.92,Único,4,Pendente
+44,Equipe de Marketing,2025-05-13,13831.26,Mensal,5,Pendente
+45,Azure,2025-03-24,10830.95,Único,4,Pendente
+46,Café e Escritório,2025-03-06,24602.33,Mensal,4,Pago
+47,Licenças GitHub,2025-09-24,8859.61,Trimestral,4,Agendado
+48,Café e Escritório,2024-08-31,4129.32,Único,4,Pago
+49,Servidores Locais,2025-03-23,19493.95,Mensal,5,Agendado
+50,Equipamentos TI,2024-05-03,10227.01,Trimestral,2,Pendente
+51,Equipe de Marketing,2025-08-14,9382.41,Trimestral,3,Pago
+52,Equipe de Marketing,2024-09-27,9050.65,Trimestral,2,Pago
+53,Serviços Jurídicos,2025-09-12,13064.23,Trimestral,2,Agendado
+54,Google Cloud,2024-01-20,4552.9,Mensal,1,Pendente
+55,Equipamentos TI,2024-07-24,5660.2,Mensal,1,Agendado
+56,Licenças GitHub,2024-08-06,14948.65,Mensal,2,Pago
+57,Ferramentas SaaS,2024-10-23,15567.24,Mensal,1,Pendente
+58,Serviços Jurídicos,2025-05-03,6740.18,Trimestral,5,Pago
+59,Ferramentas SaaS,2025-07-04,24115.09,Mensal,2,Pendente
+60,Salários Devs,2025-03-19,5309.31,Trimestral,5,Agendado
+61,AWS,2024-04-18,11346.56,Único,4,Pendente
+62,Azure,2024-11-19,2205.57,Mensal,2,Pago
+63,Café e Escritório,2025-01-25,4555.72,Trimestral,2,Agendado
+64,Salários Devs,2024-06-15,16952.87,Único,5,Pago
+65,Serviços Jurídicos,2025-03-31,11779.87,Único,1,Pago
+66,Google Cloud,2025-07-12,594.62,Único,5,Agendado
+67,Equipe de Marketing,2025-04-18,22618.27,Único,1,Pendente
+68,Consultoria Financeira,2025-07-25,81.38,Mensal,1,Agendado
+69,Ferramentas SaaS,2024-07-28,19967.33,Único,2,Agendado
+70,Prestador Autônomo,2025-06-28,11446.75,Trimestral,4,Agendado
+71,Azure,2025-01-18,18292.93,Trimestral,5,Pago
+72,Equipamentos TI,2025-01-23,12993.56,Único,4,Pendente
+73,Azure,2024-03-10,10663.16,Mensal,1,Pago
+74,Equipe de Marketing,2025-06-12,20204.9,Mensal,5,Pago
+75,Salários Devs,2025-01-17,4438.73,Único,4,Agendado
+76,Ferramentas SaaS,2024-10-18,3689.61,Mensal,3,Agendado
+77,Publicidade Online,2024-06-05,18695.1,Único,2,Pago
+78,Equipamentos TI,2024-12-04,18751.42,Único,4,Pago
+79,Google Cloud,2024-11-24,7360.32,Único,3,Pendente
+80,Equipe de Marketing,2025-04-08,13926.78,Mensal,1,Pendente
+81,AWS,2025-10-13,24609.49,Trimestral,1,Pendente
+82,Google Cloud,2024-05-10,1673.77,Único,1,Agendado
+83,Licenças GitHub,2025-03-31,15193.37,Trimestral,3,Agendado
+84,Eventos Tech,2024-04-02,5854.0,Mensal,1,Pago
+85,Serviços Jurídicos,2025-10-22,12195.1,Mensal,2,Agendado
+86,Equipamentos TI,2024-11-07,15477.49,Mensal,4,Pago
+87,Prestador Autônomo,2025-09-27,21568.76,Mensal,4,Agendado
+88,Google Cloud,2024-06-11,12474.99,Único,2,Pago
+89,Equipamentos TI,2024-10-15,20567.17,Trimestral,1,Pendente
+90,Licenças GitHub,2025-02-09,2518.28,Trimestral,5,Pago
+91,AWS,2025-07-06,10331.4,Trimestral,4,Pago
+92,Consultoria Financeira,2025-08-24,7601.63,Trimestral,5,Pendente
+93,Licenças GitHub,2024-03-02,8186.73,Trimestral,3,Pendente
+94,Serviços Jurídicos,2024-10-22,13373.96,Único,4,Pago
+95,Equipe de Marketing,2025-03-12,2312.91,Único,1,Pendente
+96,Ferramentas SaaS,2025-01-07,18823.19,Único,4,Pendente
+97,Publicidade Online,2025-03-14,18197.94,Mensal,2,Agendado
+98,Salários Devs,2025-01-15,14831.02,Mensal,1,Pendente
+99,Licenças GitHub,2024-10-26,6611.98,Único,2,Agendado
+100,Equipe de Marketing,2024-01-18,7145.29,Trimestral,4,Pendente
+101,Prestador Autônomo,2025-03-27,1496.65,Trimestral,4,Pago
+102,Equipamentos TI,2025-03-17,19453.0,Mensal,4,Agendado
+103,Google Cloud,2024-05-25,6878.72,Único,1,Agendado
+104,Publicidade Online,2023-12-13,11539.61,Mensal,2,Pago
+105,Ferramentas SaaS,2025-08-13,1997.75,Trimestral,1,Pendente
+106,Licenças GitHub,2025-01-17,23989.08,Único,2,Agendado
+107,Ferramentas SaaS,2024-08-24,10805.63,Mensal,2,Agendado
+108,Equipe de Marketing,2025-06-16,3664.23,Único,2,Agendado
+109,Eventos Tech,2024-09-02,3291.21,Mensal,2,Pago
+110,Ferramentas SaaS,2024-10-16,4743.3,Trimestral,5,Pendente
+111,Café e Escritório,2024-06-16,2379.12,Trimestral,3,Pendente
+112,Licenças GitHub,2024-09-02,18126.26,Mensal,3,Agendado
+113,Publicidade Online,2024-10-17,10703.54,Mensal,3,Pago
+114,Consultoria Financeira,2024-03-03,8246.79,Único,1,Pago
+115,AWS,2024-04-01,4080.63,Único,4,Pendente
+116,Prestador Autônomo,2024-12-03,12625.41,Trimestral,2,Agendado
+117,Publicidade Online,2025-05-13,23800.71,Trimestral,5,Pendente
+118,Publicidade Online,2023-12-15,24811.34,Trimestral,4,Pendente
+119,Prestador Autônomo,2025-02-22,10008.98,Mensal,3,Pago
+120,Eventos Tech,2024-06-05,18214.19,Único,1,Agendado
+121,Café e Escritório,2025-08-21,8935.79,Único,3,Pendente
+122,Serviços Jurídicos,2024-02-10,21146.31,Único,1,Agendado
+123,AWS,2025-01-09,2534.07,Trimestral,4,Pago
+124,Equipamentos TI,2024-03-23,5990.36,Mensal,4,Agendado
+125,Azure,2024-03-01,16273.81,Mensal,2,Agendado
+126,Salários Devs,2025-07-18,6389.52,Único,4,Pendente
+127,Salários Devs,2023-12-25,12316.34,Único,4,Agendado
+128,Salários Devs,2025-02-18,24358.46,Mensal,1,Pendente
+129,Equipamentos TI,2025-05-26,12298.41,Mensal,2,Pendente
+130,Consultoria Financeira,2024-10-02,7873.81,Único,3,Pago
+131,Licenças GitHub,2025-08-09,9567.77,Único,4,Pago
+132,Salários Devs,2025-05-09,10648.3,Trimestral,2,Pago
+133,Eventos Tech,2024-07-08,20578.18,Único,3,Agendado
+134,Café e Escritório,2025-04-12,20730.13,Trimestral,1,Pendente
+135,Salários Devs,2024-01-22,11271.16,Único,3,Agendado
+136,Azure,2025-05-02,24638.45,Trimestral,3,Pendente
+137,Google Cloud,2024-07-21,7470.18,Trimestral,4,Pendente
+138,Café e Escritório,2025-09-10,5768.33,Trimestral,2,Agendado
+139,Eventos Tech,2024-11-23,17269.03,Trimestral,1,Pago
+140,Consultoria Financeira,2025-07-03,22052.47,Único,3,Pendente
+141,Equipe de Marketing,2024-04-10,8164.17,Único,5,Agendado
+142,Equipamentos TI,2024-03-20,12638.03,Trimestral,4,Pago
+143,Equipamentos TI,2025-09-08,8848.61,Único,1,Pendente
+144,AWS,2025-07-09,23569.18,Único,3,Pago
+145,Café e Escritório,2024-08-19,18789.06,Único,3,Pago
+146,Eventos Tech,2024-12-09,3365.75,Único,3,Agendado
+147,Azure,2024-06-15,7376.43,Mensal,3,Agendado
+148,Google Cloud,2024-02-20,17426.24,Único,5,Pendente
+149,AWS,2024-10-11,22393.02,Único,5,Pago
+150,Azure,2024-02-17,3780.07,Trimestral,1,Pago
