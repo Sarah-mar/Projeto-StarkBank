@@ -85,9 +85,15 @@ document.getElementById("income-statement-overlay-button").onclick = function ()
 	document.getElementById("income-statement-overlay").classList.remove("hidden-income-statement-overlay");
 };
 
-document.getElementById("income-statement-overlay").onclick = function () {
-	this.classList.add("hidden-income-statement-overlay");
+document.getElementById("income-statement-overlay-close").onclick = function () {
+	document.getElementById("income-statement-overlay").classList.add("hidden-income-statement-overlay");
 };
+
+document.body.addEventListener("keydown", (e) => {
+	if (e.key === "Escape") {
+		document.getElementById("income-statement-overlay").classList.add("hidden-income-statement-overlay");
+	}
+})
 
 const headRow = document.getElementById("income-statement-table-header");
 
