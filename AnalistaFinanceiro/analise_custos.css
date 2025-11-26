@@ -122,7 +122,32 @@ h3 {
 }
 
 .income-statement-table-container {
-    height: 200px;
-    width: 400px;
+    height: fit-content;
+    width: fit-content;
     background-color: #f9f9fc;
+    padding: 32px;
+}
+
+#income-statement-table {
+    color: #1B2733;
+    width: 100%;
+    font-size: 12px;
+    border: 1px solid #63728286;
+    border-collapse: collapse;
+    line-height: 20px;
+    padding: 24px;
+}
+
+#income-statement-table th,
+#income-statement-table td {
+    border: 1px solid #63728286;
+    padding: 10px;
+    text-align: center;
+}
+
+#income-statement-table-header {
+    background-color: #63728286;
+    color: #FFFFFF;
+    font-weight: 400;
+
 }
