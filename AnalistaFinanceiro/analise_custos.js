@@ -2,6 +2,7 @@
 //Gráfico interativo da Demonstração de Resultados
 const ctx = document.getElementById("income-statement-chart");
 
+//pega os últimos 12 meses para gerar o gráfico
 function getLast12Months() {
 	const monthNames = [
 		"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
@@ -21,17 +22,15 @@ function getLast12Months() {
 
 const labels = getLast12Months()
 
-//criar gráfico com despesas e receitas
 
+//Cria o gráfico com despesas e receitas
 async function generateChart() {
-	const responseGanhos = await fetch("http://127.0.0.1:5000/api/ganhos");
-	const responseGastos = await fetch("http://127.0.0.1:5000/api/gastos");
+	const response = await fetch("http://127.0.0.1:5000/api/grafico_DRE");
 
-	const jsonGanhos = await responseGanhos.json()
-	const jsonGastos = await responseGastos.json()
+	const json = await response.json()
 
-	const receitas = jsonGanhos.map(j => j.receita)
-	const despesas = jsonGastos.map(j => j.despesa)
+	const receitas = json.receitas.map(r => r.receita_bruta)
+	const despesas = json.despesas.map(d => d.despesa_bruta)
 
 	if (receitas.length && despesas.length) {
 		new Chart(ctx, {
@@ -101,35 +100,73 @@ async function generateChart() {
 
 generateChart()
 
+
+// Abre e fecha a overlay (DRE detalhada)
 document.getElementById("income-statement-overlay-button").onclick = function () {
 	document.getElementById("income-statement-overlay").classList.remove("hidden-income-statement-overlay");
+	document.body.style.overflow = "hidden"
 };
 
 document.getElementById("income-statement-overlay-close").onclick = function () {
 	document.getElementById("income-statement-overlay").classList.add("hidden-income-statement-overlay");
+	document.body.style.overflow = "auto"
 };
 
 document.body.addEventListener("keydown", (e) => {
 	if (e.key === "Escape") {
 		document.getElementById("income-statement-overlay").classList.add("hidden-income-statement-overlay");
+		document.body.style.overflow = "auto"
 	}
 })
 
-const headRow = document.getElementById("income-statement-table-header");
+// Cria a tabela de DRE detalhada
+async function fetchTable() {
+	const response = await fetch("http://127.0.0.1:5000/api/tabela_DRE")
 
-labels.forEach(column => {
-	const th = document.createElement("th");
-	th.textContent = column;
-	headRow.appendChild(th);
-});
+	const json = await response.json()
 
+	const receitaBruta = json.receitaBruta.map(rb => rb.receita_bruta);
+	const custos = json.custos.map(c => c.custos);
+	const lucroBruto = json.lucroBruto.map(lb => lb.lucro_bruto);
+	const despesasOperacionais = json.despesasOperacionais.map(d => d.despesas_operacionais);
+	const lucroLiquido = json.lucroLiquido.map(ll => ll.lucro_liquido);
 
-const firstRow = document.getElementById("lucro-bruto-valores")
+	const receitaBrutaRow = document.getElementById("gross-income-values");
+	const custosRow = document.getElementById("cost-values");
+	const lucroBrutoRow = document.getElementById("gross-profit-values");
+	const despesasOperacionaisRow = document.getElementById("operational-expenses-values");
+	const lucroLiquidoRow = document.getElementById("net-profit-values");
 
-valores = [12, 32, 42, 12, 31, 41, 41, 12]
+	fillTable(receitaBruta, receitaBrutaRow);
+	fillTable(custos, custosRow);
+	fillTable(lucroBruto, lucroBrutoRow);
+	fillTable(despesasOperacionais, despesasOperacionaisRow);
+	fillTable(lucroLiquido, lucroLiquidoRow);
+}
 
-valores.forEach(column => {
-	const th = document.createElement("th");
-	th.textContent = column;
-	firstRow.appendChild(th);
-});
+function fillTable(valores, row) {
+	valores.forEach(column => {
+		const th = document.createElement("td");
+		th.textContent = toCurrency(column);
+		row.appendChild(th);
+	});
+}
+
+function fillTableHeader() {
+	const headRow = document.getElementById("income-statement-table-header");
+	labels.forEach(column => {
+		const th = document.createElement("th");
+		th.textContent = column;
+		headRow.appendChild(th);
+	});
+}
+
+function toCurrency(value) {
+	return new Intl.NumberFormat('pt-BR', {
+		style: 'currency',
+		currency: 'BRL'
+	}).format(value);
+}
+
+fillTableHeader()
+fetchTable()

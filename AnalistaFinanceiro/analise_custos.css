@@ -84,6 +84,7 @@ h3 {
 }
 
 .loading {
+    color: #637282;
     height: 320px;
     width: 320px;
     animation: spin 1.3s infinite;
@@ -118,7 +119,7 @@ h3 {
 .income-statement-overlay {
     position: fixed;
     inset: 0;
-    background-color: rgba(255, 255, 255, 0.889);
+    background-color: rgba(255, 255, 255, 0.899);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -127,6 +128,10 @@ h3 {
     z-index: 999;
     transition: opacity .3s;
     opacity: 1;
+    max-width: 100vw;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: auto;
 }
 
 .hidden-income-statement-overlay {
@@ -145,7 +150,10 @@ h3 {
     background-color: #f9f9fc;
     border-radius: 20px;
     padding: 32px 32px 32px 32px;
+    max-width: 100vw;
+    max-height: 100vh;
 }
+
 
 .income-statement-table-container-header {
     display: flex;
@@ -153,6 +161,8 @@ h3 {
     height: 100%;
     width: 100%;
     justify-content: space-between;
+    max-width: 100vw;
+    max-height: 100vh;
 }
 
 .income-statement-table-container-title {
@@ -172,7 +182,7 @@ h3 {
 
 #income-statement-table {
     color: #1B2733;
-    width: 100%;
+    width: max-content;
     font-size: 12px;
     border: 1px solid #63728286;
     border-collapse: collapse;
@@ -185,6 +195,12 @@ h3 {
     border: 1px solid #63728286;
     padding: 24px 12px;
     text-align: center;
+}
+
+#operational-expenses-values th,
+#operational-expenses-values td {
+    border-bottom-color: #445669d7;
+    border-bottom-width: 2px;
 }
 
 #income-statement-table-header {

@@ -1,7 +1,9 @@
 import pandas as pd
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 def dre_to_mensal(dre, valor_final):
     mensal = dre.groupby(dre['data_vencimento'].dt.to_period('M'))['valor'].sum().reset_index()
@@ -110,6 +112,25 @@ def get_lucro_bruto():
 @app.route('/api/lucro_liquido', methods=['GET'])
 def get_lucro_liquido():
     return jsonify(lucro_liquido.to_dict(orient='records'))
+
+@app.route('/api/grafico_DRE', methods=['GET'])
+def get_grafico_DRE():
+    grafico_DRE_data = {
+        "receitas": receita_bruta.to_dict(orient='records'),
+        "despesas": despesa_bruta.to_dict(orient='records'),
+    }
+    return jsonify(grafico_DRE_data)
+
+@app.route('/api/tabela_DRE', methods=['GET'])
+def get_tabela_DRE():
+    tabela_DRE_data = {
+        "receitaBruta": receita_bruta.to_dict(orient='records'),
+        "custos": custos.to_dict(orient='records'),
+        "lucroBruto": lucro_bruto.to_dict(orient='records'),
+        "despesasOperacionais": despesas_operacionais.to_dict(orient='records'),
+        "lucroLiquido": lucro_liquido.to_dict(orient='records'),
+    }
+    return jsonify(tabela_DRE_data)
 
 # Execução do Servidor
 if __name__ == '__main__':
