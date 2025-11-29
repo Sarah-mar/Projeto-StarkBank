@@ -23,77 +23,83 @@ const labels = getLast12Months()
 
 //criar gráfico com despesas e receitas
 
-const receitas = [];
-fetch("http://localhost:5000/api/ganhos").then((response) => {
-	response.json().then((json) => {
-		for (let i = 0; i <= 11; i++) {
-			receitas.push(json.i['mês'])
-		}
-	})
-	console.log(receitas)
-})
+async function generateChart() {
+	const responseGanhos = await fetch("http://127.0.0.1:5000/api/ganhos");
+	const responseGastos = await fetch("http://127.0.0.1:5000/api/gastos");
 
-new Chart(ctx, {
-	type: "bar",
-	data: {
-		labels: labels,
-		datasets: [
-			{
-				label: "Receitas",
-				data: [-20, 0, 30, 50, 45, -20, 70, 43, 12, 31, 31, 21],
-				backgroundColor: "#637282b9"
+	const jsonGanhos = await responseGanhos.json()
+	const jsonGastos = await responseGastos.json()
+
+	const receitas = jsonGanhos.map(j => j.receita)
+	const despesas = jsonGastos.map(j => j.despesa)
+
+	if (receitas.length && despesas.length) {
+		new Chart(ctx, {
+			type: "bar",
+			data: {
+				labels: labels,
+				datasets: [
+					{
+						label: "Receitas",
+						data: receitas,
+						backgroundColor: "#637282b9"
+					},
+					{
+						label: "Despesas",
+						data: despesas,
+						backgroundColor: "rgba(247, 109, 153, 0.95)"
+					}
+				]
 			},
-			{
-				label: "Despesas",
-				data: [-100, 30, -90, 85, 140, 50, 140, 31, 31, 31, 21, 11],
-				backgroundColor: "rgba(247, 109, 153, 0.95)"
-			}
-		]
-	},
-	options: {
-		responsive: true,
-		plugins: {
-			legend: {
-				labels: {
-					usePointStyle: true,
-					pointStyle: 'circle',
-					padding: 20,
-					font: {
-						size: 14
+			options: {
+				responsive: true,
+				plugins: {
+					legend: {
+						labels: {
+							usePointStyle: true,
+							pointStyle: 'circle',
+							padding: 20,
+							font: {
+								size: 14
+							}
+						},
+						position: "top"
+					},
+					tooltip: {
+						callbacks: {
+							label: function (context) {
+								const valor = context.raw;
+								return context.dataset.label + ": " + valor.toLocaleString("pt-BR", {
+									style: "currency",
+									currency: "BRL"
+								});
+							}
+						}
 					}
 				},
-				position: "top"
-			},
-			tooltip: {
-				callbacks: {
-					label: function (context) {
-						const valor = context.raw;
-						return context.dataset.label + ": " + valor.toLocaleString("pt-BR", {
-							style: "currency",
-							currency: "BRL"
-						});
+				scales: {
+					x: {
+						stacked: false
+					},
+					y: {
+						stacked: false,
+						ticks: {
+							callback: function (valor) {
+								return valor.toLocaleString("pt-BR", {
+									style: "currency",
+									currency: "BRL"
+								});
+							}
+						}
 					}
 				}
 			}
-		},
-		scales: {
-			x: {
-				stacked: false
-			},
-			y: {
-				stacked: false,
-				ticks: {
-					callback: function (valor) {
-						return valor.toLocaleString("pt-BR", {
-							style: "currency",
-							currency: "BRL"
-						});
-					}
-				}
-			}
-		}
+		});
+		document.querySelector(".loading").style.display = "none";
 	}
-});
+}
+
+generateChart()
 
 document.getElementById("income-statement-overlay-button").onclick = function () {
 	document.getElementById("income-statement-overlay").classList.remove("hidden-income-statement-overlay");
