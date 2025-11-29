@@ -1,0 +1,1719 @@
+id_transacao,nome_cliente,data_emissao,data_vencimento,valor,meio_pagamento,recorrencia,elegivel_antecipacao,tipo_cliente
+645e30cb,Alves e Filhos,2023-01-08,2023-01-08,208.78,Cartão de Crédito,Anual,True,Novo/Avulso
+bbb309aa,da Cruz,2023-01-03,2023-02-02,1740.24,Pix,Avulso,False,Novo/Avulso
+de20c321,Carvalho Sousa S/A,2023-01-17,2023-02-16,370.18,Boleto,Mensal,True,Novo/Avulso
+0bea0c8d,Alves e Filhos,2023-01-23,2023-02-22,208.78,Cartão de Crédito,Anual,False,Recorrente
+93c33779,Carvalho Sousa S/A,2023-01-08,2023-01-23,370.18,Boleto,Mensal,False,Recorrente
+a4aa0c27,Pastor - ME,2023-01-23,2023-02-07,165.27,Boleto,Avulso,False,Novo/Avulso
+adbde6a9,Alves S/A,2023-01-04,2023-01-04,655.99,Cartão de Crédito,Mensal,False,Novo/Avulso
+2097576e,da Conceição Montenegro - EI,2023-01-09,2023-01-09,2141.61,Pix,Mensal,False,Novo/Avulso
+371c7410,Alves e Filhos,2023-03-27,2023-04-26,208.78,Cartão de Crédito,Anual,False,Recorrente
+ee50c6d6,Carvalho Sousa S/A,2023-03-19,2023-03-19,370.18,Boleto,Mensal,True,Recorrente
+3c5088d6,Alves S/A,2023-03-02,2023-04-01,655.99,Cartão de Crédito,Mensal,True,Recorrente
+e30f9788,da Conceição Montenegro - EI,2023-03-25,2023-04-09,2141.61,Pix,Mensal,True,Recorrente
+69ad7234,Novais S.A.,2023-03-09,2023-03-24,2186.24,Cartão de Crédito,Avulso,False,Novo/Avulso
+5eb1d074,Câmara,2023-03-09,2023-04-08,984.89,Pix,Mensal,True,Novo/Avulso
+7ab27cc5,Pastor,2023-03-08,2023-03-08,552.18,Pix,Anual,False,Novo/Avulso
+3818f9fc,Alves e Filhos,2023-04-25,2023-04-25,208.78,Cartão de Crédito,Anual,True,Recorrente
+046271cc,Carvalho Sousa S/A,2023-04-27,2023-04-27,370.18,Boleto,Mensal,False,Recorrente
+f26aa5aa,Alves S/A,2023-04-13,2023-04-28,655.99,Cartão de Crédito,Mensal,True,Recorrente
+7fe32fe1,da Conceição Montenegro - EI,2023-04-07,2023-05-07,2141.61,Pix,Mensal,False,Recorrente
+1214ff21,Câmara,2023-04-07,2023-05-07,984.89,Pix,Mensal,False,Recorrente
+7d795be6,Pastor,2023-04-13,2023-05-13,552.18,Pix,Anual,False,Recorrente
+2ae91ac0,Abreu,2023-04-18,2023-05-18,478.13,Pix,Mensal,False,Novo/Avulso
+c1eb4417,Sampaio Lima Ltda.,2023-04-13,2023-04-28,1156.82,Pix,Avulso,True,Novo/Avulso
+f8ce6137,Cassiano,2023-04-03,2023-04-03,475.08,Cartão de Crédito,Avulso,True,Novo/Avulso
+1013c695,Alves e Filhos,2023-05-09,2023-06-08,208.78,Cartão de Crédito,Anual,True,Recorrente
+a84e7d39,Carvalho Sousa S/A,2023-05-22,2023-06-21,370.18,Boleto,Mensal,True,Recorrente
+1b11d724,Alves S/A,2023-05-22,2023-06-21,655.99,Cartão de Crédito,Mensal,False,Recorrente
+533f8334,da Conceição Montenegro - EI,2023-05-25,2023-06-24,2141.61,Pix,Mensal,False,Recorrente
+71e3ebcf,Câmara,2023-05-04,2023-05-19,984.89,Pix,Mensal,False,Recorrente
+50901976,Pastor,2023-05-06,2023-05-21,552.18,Pix,Anual,True,Recorrente
+83864090,Abreu,2023-05-31,2023-06-30,478.13,Pix,Mensal,False,Recorrente
+789f77c2,Teixeira Fernandes S/A,2023-05-30,2023-05-30,1940.61,Pix,Avulso,False,Novo/Avulso
+c6cdb32e,Garcia S/A,2023-05-05,2023-05-20,1343.01,Boleto,Avulso,True,Novo/Avulso
+701b8160,Ferreira,2023-05-30,2023-05-30,1979.77,Pix,Anual,False,Novo/Avulso
+096043b7,Alves e Filhos,2023-05-03,2023-05-03,208.78,Cartão de Crédito,Anual,False,Recorrente
+1bdb5db1,Carvalho Sousa S/A,2023-05-27,2023-05-27,370.18,Boleto,Mensal,True,Recorrente
+79a074d6,Alves S/A,2023-05-05,2023-06-04,655.99,Cartão de Crédito,Mensal,False,Recorrente
+9fe569dd,da Conceição Montenegro - EI,2023-05-31,2023-06-30,2141.61,Pix,Mensal,True,Recorrente
+8915b6cf,Câmara,2023-05-09,2023-06-08,984.89,Pix,Mensal,False,Recorrente
+7f1495ce,Pastor,2023-05-31,2023-05-31,552.18,Pix,Anual,True,Recorrente
+21619b4f,Abreu,2023-05-23,2023-06-07,478.13,Pix,Mensal,False,Recorrente
+4ae0df86,Ferreira,2023-05-22,2023-06-21,1979.77,Pix,Anual,False,Recorrente
+605058c4,Aparecida,2023-05-08,2023-05-08,1366.3,Boleto,Mensal,True,Novo/Avulso
+7c165ec3,Nascimento,2023-05-19,2023-05-19,1532.53,Boleto,Mensal,True,Novo/Avulso
+4cb12cf9,Garcia S/A,2023-05-03,2023-05-03,1633.09,Boleto,Mensal,False,Novo/Avulso
+0d6bfb13,Alves e Filhos,2023-06-04,2023-07-04,208.78,Cartão de Crédito,Anual,False,Recorrente
+ebd7aea4,Carvalho Sousa S/A,2023-06-12,2023-06-27,370.18,Boleto,Mensal,False,Recorrente
+76e01a0c,Alves S/A,2023-06-15,2023-07-15,655.99,Cartão de Crédito,Mensal,True,Recorrente
+ba13ee8b,da Conceição Montenegro - EI,2023-06-22,2023-07-22,2141.61,Pix,Mensal,True,Recorrente
+0109740d,Câmara,2023-06-02,2023-06-17,984.89,Pix,Mensal,False,Recorrente
+093f30a7,Pastor,2023-06-26,2023-06-26,552.18,Pix,Anual,True,Recorrente
+1ea25ae5,Abreu,2023-06-07,2023-06-07,478.13,Pix,Mensal,False,Recorrente
+702b59e2,Ferreira,2023-06-05,2023-06-20,1979.77,Pix,Anual,True,Recorrente
+68c02bef,Aparecida,2023-06-09,2023-06-24,1366.3,Boleto,Mensal,True,Recorrente
+75a78705,Nascimento,2023-06-28,2023-06-28,1532.53,Boleto,Mensal,False,Recorrente
+7c9c0b5f,Garcia S/A,2023-06-26,2023-07-26,1633.09,Boleto,Mensal,True,Recorrente
+5b1e5d38,Pires,2023-06-03,2023-06-03,2498.31,Boleto,Mensal,True,Novo/Avulso
+c1adf431,Oliveira,2023-06-29,2023-06-29,1281.19,Cartão de Crédito,Mensal,True,Novo/Avulso
+c70bbc2d,Santos Azevedo S/A,2023-06-30,2023-07-15,2465.48,Cartão de Crédito,Mensal,False,Novo/Avulso
+8ad01d8c,Alves e Filhos,2023-07-28,2023-08-27,208.78,Cartão de Crédito,Anual,True,Recorrente
+f668814c,Carvalho Sousa S/A,2023-07-02,2023-08-01,370.18,Boleto,Mensal,True,Recorrente
+06150f34,Alves S/A,2023-07-28,2023-07-28,655.99,Cartão de Crédito,Mensal,True,Recorrente
+8a7a075c,da Conceição Montenegro - EI,2023-07-20,2023-07-20,2141.61,Pix,Mensal,True,Recorrente
+0de7be34,Câmara,2023-07-13,2023-07-13,984.89,Pix,Mensal,True,Recorrente
+224b7b89,Pastor,2023-07-19,2023-08-18,552.18,Pix,Anual,True,Recorrente
+87fa4fbd,Abreu,2023-07-20,2023-07-20,478.13,Pix,Mensal,False,Recorrente
+07889b6c,Ferreira,2023-07-22,2023-08-21,1979.77,Pix,Anual,False,Recorrente
+0bad7eb8,Aparecida,2023-07-30,2023-08-14,1366.3,Boleto,Mensal,True,Recorrente
+2b4d78df,Nascimento,2023-07-22,2023-08-21,1532.53,Boleto,Mensal,False,Recorrente
+53a803d0,Garcia S/A,2023-07-08,2023-07-23,1633.09,Boleto,Mensal,False,Recorrente
+356fc258,Pires,2023-07-05,2023-08-04,2498.31,Boleto,Mensal,False,Recorrente
+83cb5199,Oliveira,2023-07-15,2023-07-30,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+aff52b6d,Santos Azevedo S/A,2023-07-01,2023-07-16,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+618e106a,Vargas da Rocha S/A,2023-07-05,2023-07-20,650.91,Cartão de Crédito,Mensal,True,Novo/Avulso
+2b56b7f3,Brito Garcia Ltda.,2023-07-15,2023-08-14,1018.39,Boleto,Avulso,False,Novo/Avulso
+5dc8777d,Porto,2023-07-17,2023-07-17,2470.0,Pix,Anual,False,Novo/Avulso
+511d0649,Castro,2023-07-09,2023-07-09,393.43,Boleto,Avulso,True,Novo/Avulso
+7162c79d,Alves e Filhos,2023-08-09,2023-08-09,208.78,Cartão de Crédito,Anual,False,Recorrente
+91a94084,Carvalho Sousa S/A,2023-08-18,2023-09-17,370.18,Boleto,Mensal,False,Recorrente
+b4ec07fb,Alves S/A,2023-08-18,2023-08-18,655.99,Cartão de Crédito,Mensal,True,Recorrente
+7e957a0f,da Conceição Montenegro - EI,2023-08-03,2023-09-02,2141.61,Pix,Mensal,True,Recorrente
+fa9d43e3,Câmara,2023-08-18,2023-08-18,984.89,Pix,Mensal,False,Recorrente
+b5df3bb5,Pastor,2023-08-19,2023-09-18,552.18,Pix,Anual,True,Recorrente
+b8dc5487,Abreu,2023-08-14,2023-08-14,478.13,Pix,Mensal,True,Recorrente
+98838e43,Ferreira,2023-08-10,2023-08-25,1979.77,Pix,Anual,True,Recorrente
+f777690a,Aparecida,2023-08-29,2023-09-13,1366.3,Boleto,Mensal,True,Recorrente
+f5fee9f0,Nascimento,2023-08-22,2023-08-22,1532.53,Boleto,Mensal,True,Recorrente
+84afac5f,Garcia S/A,2023-08-12,2023-09-11,1633.09,Boleto,Mensal,False,Recorrente
+60d57bd5,Pires,2023-08-20,2023-09-19,2498.31,Boleto,Mensal,True,Recorrente
+1d4497d8,Oliveira,2023-08-30,2023-08-30,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+a507e9c2,Santos Azevedo S/A,2023-08-26,2023-08-26,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+b09a3d7a,Vargas da Rocha S/A,2023-08-01,2023-08-01,650.91,Cartão de Crédito,Mensal,False,Recorrente
+cf2b4a20,Porto,2023-08-26,2023-09-10,2470.0,Pix,Anual,True,Recorrente
+1fe0343c,Fogaça,2023-08-13,2023-08-13,2000.33,Boleto,Mensal,False,Novo/Avulso
+409ebd32,Rios da Mata e Filhos,2023-08-12,2023-08-27,2068.98,Cartão de Crédito,Mensal,True,Novo/Avulso
+a951498c,Pereira e Filhos,2023-08-11,2023-08-26,1701.08,Cartão de Crédito,Mensal,True,Novo/Avulso
+a1156cce,Nascimento Siqueira S.A.,2023-08-17,2023-09-01,805.94,Pix,Avulso,False,Novo/Avulso
+98e1348d,Alves e Filhos,2023-09-24,2023-10-24,208.78,Cartão de Crédito,Anual,True,Recorrente
+291703d4,Carvalho Sousa S/A,2023-09-12,2023-09-27,370.18,Boleto,Mensal,True,Recorrente
+167fc3a5,Alves S/A,2023-09-22,2023-10-07,655.99,Cartão de Crédito,Mensal,False,Recorrente
+0fdb7748,da Conceição Montenegro - EI,2023-09-22,2023-09-22,2141.61,Pix,Mensal,False,Recorrente
+d2280e67,Câmara,2023-09-17,2023-10-02,984.89,Pix,Mensal,False,Recorrente
+b096336a,Pastor,2023-09-11,2023-09-26,552.18,Pix,Anual,False,Recorrente
+b8e9ef78,Abreu,2023-09-18,2023-09-18,478.13,Pix,Mensal,True,Recorrente
+c489eac8,Ferreira,2023-09-14,2023-10-14,1979.77,Pix,Anual,False,Recorrente
+f8097828,Aparecida,2023-09-22,2023-10-22,1366.3,Boleto,Mensal,True,Recorrente
+e3ad21f1,Nascimento,2023-09-20,2023-10-20,1532.53,Boleto,Mensal,False,Recorrente
+70bcf0bf,Garcia S/A,2023-09-13,2023-10-13,1633.09,Boleto,Mensal,True,Recorrente
+6f713026,Pires,2023-09-10,2023-09-25,2498.31,Boleto,Mensal,True,Recorrente
+80afd71b,Oliveira,2023-09-14,2023-10-14,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+e62c68a8,Santos Azevedo S/A,2023-09-15,2023-09-30,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+b4c3d845,Vargas da Rocha S/A,2023-09-22,2023-09-22,650.91,Cartão de Crédito,Mensal,False,Recorrente
+c9861556,Porto,2023-09-26,2023-10-26,2470.0,Pix,Anual,True,Recorrente
+d0259edc,Rios da Mata e Filhos,2023-09-22,2023-09-22,2068.98,Cartão de Crédito,Mensal,False,Recorrente
+6f315db8,Pereira e Filhos,2023-09-17,2023-10-17,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+5af49509,Martins Garcia Ltda.,2023-09-22,2023-10-07,2387.2,Boleto,Mensal,True,Novo/Avulso
+479f0db9,Rodrigues Duarte S/A,2023-09-08,2023-09-23,496.28,Boleto,Avulso,True,Novo/Avulso
+99a74b94,Andrade Dias - ME,2023-09-07,2023-10-07,2232.42,Pix,Mensal,False,Novo/Avulso
+4d377c78,Azevedo,2023-09-23,2023-09-23,723.36,Pix,Mensal,True,Novo/Avulso
+26ea2adb,Alves e Filhos,2023-10-28,2023-11-12,208.78,Cartão de Crédito,Anual,False,Recorrente
+dc017dbb,Carvalho Sousa S/A,2023-10-09,2023-10-09,370.18,Boleto,Mensal,False,Recorrente
+de75e892,Alves S/A,2023-10-25,2023-11-24,655.99,Cartão de Crédito,Mensal,False,Recorrente
+04c7dde8,da Conceição Montenegro - EI,2023-10-21,2023-10-21,2141.61,Pix,Mensal,False,Recorrente
+1c51de70,Câmara,2023-10-15,2023-10-15,984.89,Pix,Mensal,False,Recorrente
+f17e1047,Pastor,2023-10-08,2023-10-23,552.18,Pix,Anual,False,Recorrente
+721a5b18,Abreu,2023-10-11,2023-11-10,478.13,Pix,Mensal,True,Recorrente
+c30ec803,Ferreira,2023-10-05,2023-10-05,1979.77,Pix,Anual,True,Recorrente
+e7a9cd8e,Aparecida,2023-10-13,2023-11-12,1366.3,Boleto,Mensal,True,Recorrente
+321e95f3,Nascimento,2023-10-23,2023-10-23,1532.53,Boleto,Mensal,True,Recorrente
+5439c5db,Garcia S/A,2023-10-14,2023-10-29,1633.09,Boleto,Mensal,False,Recorrente
+f054c929,Pires,2023-10-18,2023-11-02,2498.31,Boleto,Mensal,False,Recorrente
+5273816e,Oliveira,2023-10-02,2023-10-02,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+56448845,Santos Azevedo S/A,2023-10-13,2023-11-12,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+087350d2,Vargas da Rocha S/A,2023-10-28,2023-11-27,650.91,Cartão de Crédito,Mensal,False,Recorrente
+a827e2f0,Porto,2023-10-16,2023-10-16,2470.0,Pix,Anual,False,Recorrente
+7c48005c,Rios da Mata e Filhos,2023-10-10,2023-10-25,2068.98,Cartão de Crédito,Mensal,False,Recorrente
+ed1a68eb,Pereira e Filhos,2023-10-18,2023-11-17,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+4626b312,Martins Garcia Ltda.,2023-10-16,2023-10-16,2387.2,Boleto,Mensal,False,Recorrente
+59595c21,Andrade Dias - ME,2023-10-14,2023-10-29,2232.42,Pix,Mensal,True,Recorrente
+520263a9,Azevedo,2023-10-13,2023-10-28,723.36,Pix,Mensal,False,Recorrente
+5b20d131,Nunes Silva Ltda.,2023-10-20,2023-11-19,2125.19,Boleto,Avulso,True,Novo/Avulso
+9b1e12b8,Rezende Monteiro - ME,2023-10-01,2023-10-01,1540.95,Pix,Avulso,False,Novo/Avulso
+dcdc7ee6,Casa Grande,2023-10-09,2023-10-24,1234.99,Boleto,Mensal,False,Novo/Avulso
+75799788,Carvalho,2023-10-09,2023-10-24,918.09,Cartão de Crédito,Mensal,False,Novo/Avulso
+64c9add3,Alves e Filhos,2023-11-25,2023-11-25,208.78,Cartão de Crédito,Anual,False,Recorrente
+32c367fb,Carvalho Sousa S/A,2023-11-04,2023-12-04,370.18,Boleto,Mensal,True,Recorrente
+7d23d01e,Alves S/A,2023-11-30,2023-12-15,655.99,Cartão de Crédito,Mensal,False,Recorrente
+17ba2e6c,da Conceição Montenegro - EI,2023-11-13,2023-12-13,2141.61,Pix,Mensal,True,Recorrente
+387d948d,Câmara,2023-11-03,2023-12-03,984.89,Pix,Mensal,True,Recorrente
+9b705a5d,Pastor,2023-11-04,2023-12-04,552.18,Pix,Anual,False,Recorrente
+b98f1f92,Abreu,2023-11-28,2023-12-28,478.13,Pix,Mensal,True,Recorrente
+015ffe9e,Ferreira,2023-11-26,2023-12-26,1979.77,Pix,Anual,True,Recorrente
+aed979b9,Aparecida,2023-11-12,2023-12-12,1366.3,Boleto,Mensal,False,Recorrente
+bfaebd55,Nascimento,2023-11-22,2023-12-07,1532.53,Boleto,Mensal,True,Recorrente
+c8e97b75,Garcia S/A,2023-11-17,2023-12-17,1633.09,Boleto,Mensal,False,Recorrente
+81daad46,Pires,2023-11-01,2023-11-16,2498.31,Boleto,Mensal,False,Recorrente
+92e9302f,Oliveira,2023-11-04,2023-11-19,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+396fa902,Santos Azevedo S/A,2023-11-21,2023-12-06,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+136edf96,Vargas da Rocha S/A,2023-11-14,2023-11-14,650.91,Cartão de Crédito,Mensal,False,Recorrente
+fd3f22ef,Porto,2023-11-20,2023-12-20,2470.0,Pix,Anual,False,Recorrente
+c3b207b2,Rios da Mata e Filhos,2023-11-15,2023-11-30,2068.98,Cartão de Crédito,Mensal,False,Recorrente
+0ab8fbe4,Pereira e Filhos,2023-11-11,2023-11-11,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+41b9e65e,Martins Garcia Ltda.,2023-11-09,2023-11-24,2387.2,Boleto,Mensal,True,Recorrente
+14979b82,Andrade Dias - ME,2023-11-25,2023-12-10,2232.42,Pix,Mensal,False,Recorrente
+1427ba87,Azevedo,2023-11-11,2023-11-11,723.36,Pix,Mensal,False,Recorrente
+954bd06e,Casa Grande,2023-11-28,2023-12-13,1234.99,Boleto,Mensal,True,Recorrente
+c576b9bb,Carvalho,2023-11-16,2023-11-16,918.09,Cartão de Crédito,Mensal,False,Recorrente
+1b442c9e,Souza Novais - EI,2023-11-23,2023-12-08,949.8,Pix,Avulso,True,Novo/Avulso
+13679eb2,Souza,2023-11-24,2023-12-09,598.98,Boleto,Anual,False,Novo/Avulso
+0d2fb008,Pacheco,2023-11-21,2023-12-21,714.76,Cartão de Crédito,Anual,False,Novo/Avulso
+7c3b9902,Fonseca,2023-11-08,2023-11-23,190.52,Cartão de Crédito,Mensal,True,Novo/Avulso
+4a846e40,Alves e Filhos,2023-12-01,2023-12-31,208.78,Cartão de Crédito,Anual,True,Recorrente
+b6ec73d0,Carvalho Sousa S/A,2023-12-09,2023-12-09,370.18,Boleto,Mensal,True,Recorrente
+d227a6d9,Alves S/A,2023-12-18,2024-01-02,655.99,Cartão de Crédito,Mensal,True,Recorrente
+bdaee6f1,da Conceição Montenegro - EI,2023-12-21,2024-01-05,2141.61,Pix,Mensal,True,Recorrente
+463b779b,Câmara,2023-12-28,2023-12-28,984.89,Pix,Mensal,False,Recorrente
+bcb14370,Pastor,2023-12-16,2023-12-31,552.18,Pix,Anual,False,Recorrente
+2145b9d0,Abreu,2023-12-11,2023-12-11,478.13,Pix,Mensal,True,Recorrente
+6fddb145,Ferreira,2023-12-09,2023-12-24,1979.77,Pix,Anual,True,Recorrente
+92849fb6,Aparecida,2023-12-27,2023-12-27,1366.3,Boleto,Mensal,False,Recorrente
+dd3b40cc,Nascimento,2023-12-16,2023-12-16,1532.53,Boleto,Mensal,True,Recorrente
+b3e80ae2,Garcia S/A,2023-12-05,2023-12-05,1633.09,Boleto,Mensal,False,Recorrente
+ec022829,Pires,2023-12-03,2023-12-03,2498.31,Boleto,Mensal,True,Recorrente
+c918de19,Oliveira,2023-12-18,2024-01-02,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+0d7df0bc,Santos Azevedo S/A,2023-12-25,2024-01-24,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+5a81215c,Vargas da Rocha S/A,2023-12-15,2023-12-30,650.91,Cartão de Crédito,Mensal,False,Recorrente
+cf926f68,Porto,2023-12-28,2024-01-27,2470.0,Pix,Anual,False,Recorrente
+028af18d,Rios da Mata e Filhos,2023-12-10,2024-01-09,2068.98,Cartão de Crédito,Mensal,True,Recorrente
+807302e5,Pereira e Filhos,2023-12-20,2024-01-19,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+53a14ed8,Martins Garcia Ltda.,2023-12-31,2023-12-31,2387.2,Boleto,Mensal,True,Recorrente
+7666875d,Andrade Dias - ME,2023-12-09,2024-01-08,2232.42,Pix,Mensal,True,Recorrente
+85008cb9,Azevedo,2023-12-06,2023-12-06,723.36,Pix,Mensal,True,Recorrente
+3ff293f7,Casa Grande,2023-12-18,2023-12-18,1234.99,Boleto,Mensal,True,Recorrente
+c7001253,Carvalho,2023-12-01,2023-12-16,918.09,Cartão de Crédito,Mensal,False,Recorrente
+93eeca8a,Souza,2023-12-23,2024-01-22,598.98,Boleto,Anual,False,Recorrente
+463d2aa3,Pacheco,2023-12-10,2023-12-10,714.76,Cartão de Crédito,Anual,True,Recorrente
+f02427d4,Fonseca,2023-12-10,2024-01-09,190.52,Cartão de Crédito,Mensal,False,Recorrente
+22bf4c59,Carvalho Moraes - ME,2023-12-08,2023-12-23,1216.97,Pix,Avulso,True,Novo/Avulso
+042af978,Sá S/A,2023-12-05,2023-12-20,1429.72,Pix,Mensal,True,Novo/Avulso
+2ef0969f,Cassiano e Filhos,2023-12-20,2024-01-19,539.92,Cartão de Crédito,Mensal,False,Novo/Avulso
+eec2d44f,Vieira Rodrigues - ME,2023-12-23,2024-01-07,1251.44,Cartão de Crédito,Mensal,False,Novo/Avulso
+7a777bed,Alves e Filhos,2024-01-11,2024-01-26,208.78,Cartão de Crédito,Anual,False,Recorrente
+c788408d,Carvalho Sousa S/A,2024-01-10,2024-02-09,370.18,Boleto,Mensal,False,Recorrente
+1c40386b,Alves S/A,2024-01-27,2024-02-26,655.99,Cartão de Crédito,Mensal,True,Recorrente
+cf531027,da Conceição Montenegro - EI,2024-01-15,2024-01-15,2141.61,Pix,Mensal,False,Recorrente
+5ac8f1a1,Câmara,2024-01-09,2024-01-24,984.89,Pix,Mensal,True,Recorrente
+17ae13c9,Pastor,2024-01-25,2024-02-09,552.18,Pix,Anual,True,Recorrente
+21f58965,Abreu,2024-01-22,2024-02-21,478.13,Pix,Mensal,False,Recorrente
+c6376f8a,Ferreira,2024-01-14,2024-01-14,1979.77,Pix,Anual,True,Recorrente
+145da7d4,Aparecida,2024-01-17,2024-02-01,1366.3,Boleto,Mensal,False,Recorrente
+9cac6b72,Nascimento,2024-01-21,2024-02-05,1532.53,Boleto,Mensal,True,Recorrente
+cc130572,Garcia S/A,2024-01-07,2024-01-22,1633.09,Boleto,Mensal,True,Recorrente
+0134a1f6,Pires,2024-01-30,2024-02-14,2498.31,Boleto,Mensal,False,Recorrente
+8f80a5e0,Oliveira,2024-01-29,2024-02-28,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+0bb9c33c,Santos Azevedo S/A,2024-01-04,2024-01-04,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+c5b0eda5,Vargas da Rocha S/A,2024-01-23,2024-01-23,650.91,Cartão de Crédito,Mensal,False,Recorrente
+3b0e6f83,Porto,2024-01-18,2024-01-18,2470.0,Pix,Anual,False,Recorrente
+c05570f9,Rios da Mata e Filhos,2024-01-03,2024-01-03,2068.98,Cartão de Crédito,Mensal,True,Recorrente
+310434d8,Pereira e Filhos,2024-01-15,2024-01-15,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+7553ffda,Martins Garcia Ltda.,2024-01-16,2024-02-15,2387.2,Boleto,Mensal,False,Recorrente
+7ad1a655,Andrade Dias - ME,2024-01-17,2024-02-16,2232.42,Pix,Mensal,False,Recorrente
+59f2d871,Azevedo,2024-01-14,2024-01-29,723.36,Pix,Mensal,False,Recorrente
+ea2b6409,Casa Grande,2024-01-08,2024-01-23,1234.99,Boleto,Mensal,True,Recorrente
+1cbd74ba,Carvalho,2024-01-13,2024-01-13,918.09,Cartão de Crédito,Mensal,True,Recorrente
+e9136a88,Souza,2024-01-28,2024-01-28,598.98,Boleto,Anual,False,Recorrente
+092f5506,Pacheco,2024-01-25,2024-02-09,714.76,Cartão de Crédito,Anual,False,Recorrente
+beec34ce,Fonseca,2024-01-30,2024-02-29,190.52,Cartão de Crédito,Mensal,False,Recorrente
+69e3b40a,Sá S/A,2024-01-27,2024-01-27,1429.72,Pix,Mensal,False,Recorrente
+93ab0ae5,Cassiano e Filhos,2024-01-24,2024-02-08,539.92,Cartão de Crédito,Mensal,False,Recorrente
+d7569e6e,Vieira Rodrigues - ME,2024-01-28,2024-01-28,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+a79a795d,Gomes - ME,2024-01-25,2024-02-24,961.04,Pix,Anual,False,Novo/Avulso
+e330b587,Moura,2024-01-23,2024-01-23,906.18,Boleto,Mensal,False,Novo/Avulso
+a52f3c41,Novaes,2024-01-11,2024-02-10,1972.53,Boleto,Mensal,False,Novo/Avulso
+cefcb74b,Rodrigues e Filhos,2024-01-22,2024-02-21,2056.81,Cartão de Crédito,Avulso,True,Novo/Avulso
+40c69dba,Alves e Filhos,2024-02-14,2024-02-14,208.78,Cartão de Crédito,Anual,True,Recorrente
+c83513fb,Carvalho Sousa S/A,2024-02-15,2024-02-15,370.18,Boleto,Mensal,False,Recorrente
+e1b149de,Alves S/A,2024-02-29,2024-02-29,655.99,Cartão de Crédito,Mensal,True,Recorrente
+6b8faf1a,da Conceição Montenegro - EI,2024-02-11,2024-02-11,2141.61,Pix,Mensal,False,Recorrente
+421cc28a,Câmara,2024-02-12,2024-02-27,984.89,Pix,Mensal,False,Recorrente
+cc931e4a,Pastor,2024-02-05,2024-02-05,552.18,Pix,Anual,False,Recorrente
+71f119a5,Abreu,2024-02-19,2024-03-20,478.13,Pix,Mensal,True,Recorrente
+55c96e30,Ferreira,2024-02-06,2024-02-06,1979.77,Pix,Anual,True,Recorrente
+996fb8e4,Aparecida,2024-02-20,2024-03-06,1366.3,Boleto,Mensal,True,Recorrente
+fc3a71fc,Nascimento,2024-02-16,2024-03-17,1532.53,Boleto,Mensal,True,Recorrente
+c51d94b9,Garcia S/A,2024-02-08,2024-02-23,1633.09,Boleto,Mensal,False,Recorrente
+0a9119e4,Pires,2024-02-15,2024-03-01,2498.31,Boleto,Mensal,True,Recorrente
+a3c63e57,Oliveira,2024-02-29,2024-03-15,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+7ac24e3f,Santos Azevedo S/A,2024-02-22,2024-03-23,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+9d15c238,Vargas da Rocha S/A,2024-02-03,2024-02-18,650.91,Cartão de Crédito,Mensal,False,Recorrente
+d9cd0922,Porto,2024-02-19,2024-03-05,2470.0,Pix,Anual,False,Recorrente
+2babbe0a,Rios da Mata e Filhos,2024-02-23,2024-03-09,2068.98,Cartão de Crédito,Mensal,False,Recorrente
+c9d7dbd3,Pereira e Filhos,2024-02-28,2024-03-14,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+09211a5e,Martins Garcia Ltda.,2024-02-13,2024-02-28,2387.2,Boleto,Mensal,True,Recorrente
+10493f20,Andrade Dias - ME,2024-02-08,2024-02-23,2232.42,Pix,Mensal,False,Recorrente
+66818ca4,Azevedo,2024-02-19,2024-03-05,723.36,Pix,Mensal,False,Recorrente
+0c0917e9,Casa Grande,2024-02-01,2024-03-02,1234.99,Boleto,Mensal,False,Recorrente
+54c99d86,Carvalho,2024-02-09,2024-02-09,918.09,Cartão de Crédito,Mensal,True,Recorrente
+500dc943,Souza,2024-02-20,2024-03-21,598.98,Boleto,Anual,False,Recorrente
+9597a61e,Pacheco,2024-02-27,2024-03-13,714.76,Cartão de Crédito,Anual,True,Recorrente
+4ce385f7,Fonseca,2024-02-20,2024-03-06,190.52,Cartão de Crédito,Mensal,True,Recorrente
+6f9dfc9c,Sá S/A,2024-02-21,2024-02-21,1429.72,Pix,Mensal,False,Recorrente
+08527624,Cassiano e Filhos,2024-02-22,2024-03-23,539.92,Cartão de Crédito,Mensal,True,Recorrente
+25e37025,Vieira Rodrigues - ME,2024-02-21,2024-02-21,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+fbb8316f,Gomes - ME,2024-02-10,2024-02-25,961.04,Pix,Anual,True,Recorrente
+44b79afb,Moura,2024-02-19,2024-03-05,906.18,Boleto,Mensal,True,Recorrente
+8543ba72,Novaes,2024-02-03,2024-02-18,1972.53,Boleto,Mensal,False,Recorrente
+709843e4,Rodrigues - EI,2024-02-26,2024-03-27,562.75,Boleto,Avulso,False,Novo/Avulso
+18bc4417,Vargas,2024-02-09,2024-02-24,2296.69,Boleto,Anual,False,Novo/Avulso
+807b20d5,Camargo,2024-02-15,2024-02-15,945.98,Boleto,Avulso,True,Novo/Avulso
+cb904acf,Lopes,2024-02-24,2024-03-25,680.19,Pix,Avulso,False,Novo/Avulso
+c30ad717,Marques Abreu e Filhos,2024-02-03,2024-02-18,2040.78,Cartão de Crédito,Avulso,True,Novo/Avulso
+7965e70a,Alves e Filhos,2024-03-29,2024-04-13,208.78,Cartão de Crédito,Anual,True,Recorrente
+43722284,Carvalho Sousa S/A,2024-03-27,2024-04-11,370.18,Boleto,Mensal,False,Recorrente
+9201cc26,Alves S/A,2024-03-31,2024-04-15,655.99,Cartão de Crédito,Mensal,True,Recorrente
+3728f02b,da Conceição Montenegro - EI,2024-03-23,2024-04-07,2141.61,Pix,Mensal,True,Recorrente
+32f0a9ec,Câmara,2024-03-15,2024-03-30,984.89,Pix,Mensal,True,Recorrente
+7c39ee4f,Pastor,2024-03-28,2024-04-12,552.18,Pix,Anual,True,Recorrente
+b3e000f8,Abreu,2024-03-22,2024-04-06,478.13,Pix,Mensal,False,Recorrente
+ebf8e325,Ferreira,2024-03-02,2024-03-17,1979.77,Pix,Anual,False,Recorrente
+d1316074,Aparecida,2024-03-07,2024-03-07,1366.3,Boleto,Mensal,False,Recorrente
+9b9db877,Nascimento,2024-03-03,2024-04-02,1532.53,Boleto,Mensal,True,Recorrente
+36d4f977,Garcia S/A,2024-03-21,2024-04-20,1633.09,Boleto,Mensal,True,Recorrente
+4a4d2ce6,Pires,2024-03-02,2024-03-17,2498.31,Boleto,Mensal,True,Recorrente
+bf85491d,Oliveira,2024-03-05,2024-04-04,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+c287c216,Santos Azevedo S/A,2024-03-03,2024-04-02,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+db6dfa3c,Vargas da Rocha S/A,2024-03-19,2024-03-19,650.91,Cartão de Crédito,Mensal,True,Recorrente
+d93bc2fc,Porto,2024-03-11,2024-03-11,2470.0,Pix,Anual,True,Recorrente
+9caf33d1,Rios da Mata e Filhos,2024-03-09,2024-03-09,2068.98,Cartão de Crédito,Mensal,True,Recorrente
+dc9f9ef8,Pereira e Filhos,2024-03-18,2024-04-02,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+107e7a92,Martins Garcia Ltda.,2024-03-04,2024-04-03,2387.2,Boleto,Mensal,True,Recorrente
+731e07e5,Andrade Dias - ME,2024-03-05,2024-03-05,2232.42,Pix,Mensal,False,Recorrente
+e7d0cb01,Azevedo,2024-03-26,2024-03-26,723.36,Pix,Mensal,False,Recorrente
+93ac1747,Casa Grande,2024-03-01,2024-03-01,1234.99,Boleto,Mensal,False,Recorrente
+0c085bde,Carvalho,2024-03-02,2024-03-02,918.09,Cartão de Crédito,Mensal,False,Recorrente
+03c240e4,Souza,2024-03-17,2024-03-17,598.98,Boleto,Anual,True,Recorrente
+bf579347,Pacheco,2024-03-16,2024-03-31,714.76,Cartão de Crédito,Anual,False,Recorrente
+31ba976c,Fonseca,2024-03-17,2024-04-16,190.52,Cartão de Crédito,Mensal,True,Recorrente
+ed9050f2,Sá S/A,2024-03-15,2024-04-14,1429.72,Pix,Mensal,True,Recorrente
+1e4feb4e,Cassiano e Filhos,2024-03-31,2024-04-30,539.92,Cartão de Crédito,Mensal,True,Recorrente
+931f0f18,Vieira Rodrigues - ME,2024-03-24,2024-04-23,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+d02d5bb5,Gomes - ME,2024-03-15,2024-04-14,961.04,Pix,Anual,True,Recorrente
+8f023dde,Moura,2024-03-02,2024-03-17,906.18,Boleto,Mensal,False,Recorrente
+83a4b8e2,Novaes,2024-03-14,2024-04-13,1972.53,Boleto,Mensal,True,Recorrente
+bf9994ca,Vargas,2024-03-16,2024-04-15,2296.69,Boleto,Anual,False,Recorrente
+a98b69e4,Montenegro,2024-03-05,2024-03-05,339.86,Pix,Mensal,True,Novo/Avulso
+38fb2ec0,Montenegro Caldeira e Filhos,2024-03-23,2024-04-07,1637.73,Pix,Mensal,False,Novo/Avulso
+965058a3,Porto,2024-03-17,2024-04-16,1396.81,Cartão de Crédito,Avulso,False,Novo/Avulso
+6ff9b465,Cassiano Freitas S.A.,2024-03-21,2024-04-20,1799.18,Pix,Mensal,True,Novo/Avulso
+b1a2aecd,Peixoto Ltda.,2024-03-11,2024-03-26,2237.01,Cartão de Crédito,Mensal,False,Novo/Avulso
+e3ba3e8d,Alves e Filhos,2024-04-25,2024-05-25,208.78,Cartão de Crédito,Anual,True,Recorrente
+20ec1ae0,Carvalho Sousa S/A,2024-04-20,2024-05-20,370.18,Boleto,Mensal,False,Recorrente
+6ce52153,Alves S/A,2024-04-01,2024-04-01,655.99,Cartão de Crédito,Mensal,False,Recorrente
+66d1c063,da Conceição Montenegro - EI,2024-04-23,2024-05-08,2141.61,Pix,Mensal,False,Recorrente
+08af6348,Câmara,2024-04-12,2024-04-12,984.89,Pix,Mensal,True,Recorrente
+37a55529,Pastor,2024-04-28,2024-04-28,552.18,Pix,Anual,False,Recorrente
+116a6c12,Abreu,2024-04-03,2024-04-03,478.13,Pix,Mensal,True,Recorrente
+b7c8feea,Ferreira,2024-04-03,2024-05-03,1979.77,Pix,Anual,True,Recorrente
+22760507,Aparecida,2024-04-13,2024-04-28,1366.3,Boleto,Mensal,False,Recorrente
+d554dad3,Nascimento,2024-04-11,2024-04-11,1532.53,Boleto,Mensal,False,Recorrente
+bab7a4e2,Garcia S/A,2024-04-10,2024-05-10,1633.09,Boleto,Mensal,False,Recorrente
+a3d18a97,Pires,2024-04-25,2024-05-25,2498.31,Boleto,Mensal,True,Recorrente
+2c5b8377,Oliveira,2024-04-29,2024-04-29,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+149e0de5,Santos Azevedo S/A,2024-04-06,2024-05-06,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+94de9e0b,Vargas da Rocha S/A,2024-04-22,2024-04-22,650.91,Cartão de Crédito,Mensal,False,Recorrente
+16e51ea3,Porto,2024-04-15,2024-05-15,2470.0,Pix,Anual,False,Recorrente
+81a75224,Rios da Mata e Filhos,2024-04-16,2024-05-16,2068.98,Cartão de Crédito,Mensal,False,Recorrente
+af6390c2,Pereira e Filhos,2024-04-14,2024-04-29,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+41972189,Martins Garcia Ltda.,2024-04-25,2024-05-25,2387.2,Boleto,Mensal,True,Recorrente
+57817594,Andrade Dias - ME,2024-04-12,2024-04-27,2232.42,Pix,Mensal,True,Recorrente
+fcfd6c41,Azevedo,2024-04-10,2024-05-10,723.36,Pix,Mensal,False,Recorrente
+858d3fb5,Casa Grande,2024-04-17,2024-05-17,1234.99,Boleto,Mensal,False,Recorrente
+1ed30c06,Carvalho,2024-04-02,2024-04-02,918.09,Cartão de Crédito,Mensal,False,Recorrente
+76de189b,Souza,2024-04-20,2024-04-20,598.98,Boleto,Anual,True,Recorrente
+e97b2c81,Pacheco,2024-04-07,2024-04-22,714.76,Cartão de Crédito,Anual,True,Recorrente
+770c256f,Fonseca,2024-04-25,2024-04-25,190.52,Cartão de Crédito,Mensal,False,Recorrente
+4c602a00,Sá S/A,2024-04-10,2024-04-25,1429.72,Pix,Mensal,True,Recorrente
+60f2cad4,Cassiano e Filhos,2024-04-01,2024-04-16,539.92,Cartão de Crédito,Mensal,False,Recorrente
+d7d0913a,Vieira Rodrigues - ME,2024-04-06,2024-04-06,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+f8126f32,Gomes - ME,2024-04-18,2024-05-18,961.04,Pix,Anual,True,Recorrente
+109b4dcb,Moura,2024-04-17,2024-05-17,906.18,Boleto,Mensal,False,Recorrente
+fd927e4d,Novaes,2024-04-03,2024-04-18,1972.53,Boleto,Mensal,True,Recorrente
+65af00c5,Vargas,2024-04-14,2024-04-14,2296.69,Boleto,Anual,False,Recorrente
+28dfb403,Montenegro,2024-04-30,2024-04-30,339.86,Pix,Mensal,False,Recorrente
+0eb678f6,Montenegro Caldeira e Filhos,2024-04-19,2024-05-04,1637.73,Pix,Mensal,False,Recorrente
+03477147,Cassiano Freitas S.A.,2024-04-23,2024-05-23,1799.18,Pix,Mensal,False,Recorrente
+fae9817b,Peixoto Ltda.,2024-04-10,2024-04-10,2237.01,Cartão de Crédito,Mensal,False,Recorrente
+7c3b1940,Almeida,2024-04-15,2024-05-15,913.21,Pix,Mensal,False,Novo/Avulso
+2498330f,Fonseca Ltda.,2024-04-14,2024-05-14,2134.54,Boleto,Mensal,False,Novo/Avulso
+fb37b08e,Araújo da Costa - EI,2024-04-24,2024-05-09,1080.05,Cartão de Crédito,Anual,True,Novo/Avulso
+ddcb009e,Barros e Filhos,2024-04-21,2024-04-21,545.11,Pix,Mensal,True,Novo/Avulso
+5ffb0226,Azevedo,2024-04-27,2024-05-27,971.03,Pix,Avulso,True,Novo/Avulso
+691c1383,Alves e Filhos,2024-05-11,2024-06-10,208.78,Cartão de Crédito,Anual,False,Recorrente
+57a08797,Carvalho Sousa S/A,2024-05-17,2024-05-17,370.18,Boleto,Mensal,True,Recorrente
+682adff3,Alves S/A,2024-05-15,2024-05-15,655.99,Cartão de Crédito,Mensal,False,Recorrente
+2e243972,da Conceição Montenegro - EI,2024-05-23,2024-05-23,2141.61,Pix,Mensal,True,Recorrente
+f8a02ad5,Câmara,2024-05-02,2024-05-02,984.89,Pix,Mensal,False,Recorrente
+8a157ff9,Pastor,2024-05-15,2024-06-14,552.18,Pix,Anual,True,Recorrente
+50ea11df,Abreu,2024-05-12,2024-05-27,478.13,Pix,Mensal,False,Recorrente
+771348d0,Ferreira,2024-05-13,2024-05-28,1979.77,Pix,Anual,False,Recorrente
+017b065f,Aparecida,2024-05-22,2024-06-21,1366.3,Boleto,Mensal,True,Recorrente
+0fe7042a,Nascimento,2024-05-26,2024-06-25,1532.53,Boleto,Mensal,False,Recorrente
+d1422e8d,Garcia S/A,2024-05-03,2024-05-18,1633.09,Boleto,Mensal,True,Recorrente
+883ba3a7,Pires,2024-05-18,2024-06-17,2498.31,Boleto,Mensal,False,Recorrente
+1da631a6,Oliveira,2024-05-10,2024-05-25,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+f8c1171a,Santos Azevedo S/A,2024-05-11,2024-05-11,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+bc2b1915,Vargas da Rocha S/A,2024-05-30,2024-06-14,650.91,Cartão de Crédito,Mensal,False,Recorrente
+1d804a65,Porto,2024-05-31,2024-06-30,2470.0,Pix,Anual,False,Recorrente
+f6553cd6,Rios da Mata e Filhos,2024-05-05,2024-06-04,2068.98,Cartão de Crédito,Mensal,True,Recorrente
+0e2650c7,Pereira e Filhos,2024-05-10,2024-06-09,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+2b3fe50f,Martins Garcia Ltda.,2024-05-21,2024-06-05,2387.2,Boleto,Mensal,True,Recorrente
+d3b3d540,Andrade Dias - ME,2024-05-22,2024-06-21,2232.42,Pix,Mensal,True,Recorrente
+976b0750,Azevedo,2024-05-21,2024-06-20,723.36,Pix,Mensal,False,Recorrente
+9ad6fd75,Casa Grande,2024-05-17,2024-06-01,1234.99,Boleto,Mensal,True,Recorrente
+46e5646c,Carvalho,2024-05-12,2024-05-27,918.09,Cartão de Crédito,Mensal,True,Recorrente
+7476d0cc,Souza,2024-05-31,2024-05-31,598.98,Boleto,Anual,False,Recorrente
+fdcd637a,Pacheco,2024-05-31,2024-06-15,714.76,Cartão de Crédito,Anual,True,Recorrente
+c13499f4,Fonseca,2024-05-08,2024-05-08,190.52,Cartão de Crédito,Mensal,True,Recorrente
+1ac87b69,Sá S/A,2024-05-03,2024-05-18,1429.72,Pix,Mensal,True,Recorrente
+4fb58fbe,Cassiano e Filhos,2024-05-17,2024-06-16,539.92,Cartão de Crédito,Mensal,True,Recorrente
+129e4850,Vieira Rodrigues - ME,2024-05-22,2024-06-06,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+b3f967f6,Gomes - ME,2024-05-20,2024-06-04,961.04,Pix,Anual,True,Recorrente
+398b2a36,Moura,2024-05-06,2024-05-06,906.18,Boleto,Mensal,True,Recorrente
+f7f08123,Novaes,2024-05-24,2024-06-08,1972.53,Boleto,Mensal,True,Recorrente
+a907dd7f,Vargas,2024-05-14,2024-05-29,2296.69,Boleto,Anual,True,Recorrente
+a19941aa,Montenegro,2024-05-15,2024-06-14,339.86,Pix,Mensal,False,Recorrente
+4be75243,Montenegro Caldeira e Filhos,2024-05-25,2024-06-24,1637.73,Pix,Mensal,False,Recorrente
+e4773072,Cassiano Freitas S.A.,2024-05-08,2024-06-07,1799.18,Pix,Mensal,True,Recorrente
+c964e612,Peixoto Ltda.,2024-05-10,2024-05-25,2237.01,Cartão de Crédito,Mensal,True,Recorrente
+b31d7bc8,Almeida,2024-05-12,2024-06-11,913.21,Pix,Mensal,False,Recorrente
+2d725a72,Fonseca Ltda.,2024-05-15,2024-05-30,2134.54,Boleto,Mensal,False,Recorrente
+710a3eec,Araújo da Costa - EI,2024-05-17,2024-06-16,1080.05,Cartão de Crédito,Anual,False,Recorrente
+5fc8f58d,Barros e Filhos,2024-05-31,2024-05-31,545.11,Pix,Mensal,True,Recorrente
+78a04a85,Cardoso Ribeiro - ME,2024-05-02,2024-06-01,475.24,Cartão de Crédito,Avulso,False,Novo/Avulso
+7abbc3c2,da Luz Moura - EI,2024-05-23,2024-06-22,1453.17,Boleto,Avulso,True,Novo/Avulso
+188a0b39,Cunha,2024-05-15,2024-06-14,1943.32,Cartão de Crédito,Mensal,True,Novo/Avulso
+3d74af82,Silva das Neves - ME,2024-05-27,2024-06-11,365.53,Boleto,Avulso,False,Novo/Avulso
+45312f0a,Macedo,2024-05-17,2024-06-01,1125.01,Cartão de Crédito,Avulso,True,Novo/Avulso
+04d4766c,Alves e Filhos,2024-06-12,2024-06-12,208.78,Cartão de Crédito,Anual,True,Recorrente
+2da632a0,Carvalho Sousa S/A,2024-06-13,2024-06-28,370.18,Boleto,Mensal,True,Recorrente
+e0d9a579,Alves S/A,2024-06-21,2024-07-06,655.99,Cartão de Crédito,Mensal,False,Recorrente
+f64a6f21,da Conceição Montenegro - EI,2024-06-09,2024-07-09,2141.61,Pix,Mensal,True,Recorrente
+e3ffb233,Câmara,2024-06-12,2024-06-12,984.89,Pix,Mensal,False,Recorrente
+adc25f1f,Pastor,2024-06-08,2024-07-08,552.18,Pix,Anual,True,Recorrente
+693ae219,Abreu,2024-06-25,2024-07-25,478.13,Pix,Mensal,False,Recorrente
+b3b6fb7b,Ferreira,2024-06-05,2024-06-05,1979.77,Pix,Anual,False,Recorrente
+ae2dc1ec,Aparecida,2024-06-18,2024-07-03,1366.3,Boleto,Mensal,True,Recorrente
+ffeee642,Nascimento,2024-06-27,2024-07-27,1532.53,Boleto,Mensal,False,Recorrente
+8def8b74,Garcia S/A,2024-06-23,2024-07-08,1633.09,Boleto,Mensal,True,Recorrente
+08245dfc,Pires,2024-06-26,2024-06-26,2498.31,Boleto,Mensal,True,Recorrente
+e1afb888,Oliveira,2024-06-23,2024-07-08,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+ada3157c,Santos Azevedo S/A,2024-06-10,2024-06-10,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+c7e2fe9a,Vargas da Rocha S/A,2024-06-26,2024-06-26,650.91,Cartão de Crédito,Mensal,True,Recorrente
+7fa7a62c,Porto,2024-06-11,2024-06-26,2470.0,Pix,Anual,False,Recorrente
+f1883763,Pereira e Filhos,2024-06-27,2024-07-27,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+e8a53f4e,Martins Garcia Ltda.,2024-06-09,2024-06-09,2387.2,Boleto,Mensal,True,Recorrente
+292b6f1e,Andrade Dias - ME,2024-06-10,2024-06-25,2232.42,Pix,Mensal,True,Recorrente
+d068b458,Azevedo,2024-06-28,2024-07-28,723.36,Pix,Mensal,False,Recorrente
+4debef30,Casa Grande,2024-06-09,2024-06-09,1234.99,Boleto,Mensal,False,Recorrente
+09432181,Carvalho,2024-06-14,2024-06-29,918.09,Cartão de Crédito,Mensal,False,Recorrente
+69cad26e,Souza,2024-06-29,2024-07-14,598.98,Boleto,Anual,False,Recorrente
+f67c3103,Pacheco,2024-06-06,2024-06-21,714.76,Cartão de Crédito,Anual,False,Recorrente
+ce678001,Fonseca,2024-06-12,2024-07-12,190.52,Cartão de Crédito,Mensal,False,Recorrente
+f45786ad,Sá S/A,2024-06-26,2024-06-26,1429.72,Pix,Mensal,False,Recorrente
+2cab50f2,Cassiano e Filhos,2024-06-03,2024-06-18,539.92,Cartão de Crédito,Mensal,True,Recorrente
+e0c1bc84,Vieira Rodrigues - ME,2024-06-18,2024-07-03,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+e23d3c49,Gomes - ME,2024-06-04,2024-06-04,961.04,Pix,Anual,False,Recorrente
+c7348c66,Moura,2024-06-22,2024-07-07,906.18,Boleto,Mensal,False,Recorrente
+e809e005,Novaes,2024-06-15,2024-07-15,1972.53,Boleto,Mensal,False,Recorrente
+711948ed,Vargas,2024-06-06,2024-07-06,2296.69,Boleto,Anual,False,Recorrente
+d991e27d,Montenegro,2024-06-12,2024-06-27,339.86,Pix,Mensal,True,Recorrente
+eb029537,Montenegro Caldeira e Filhos,2024-06-24,2024-07-09,1637.73,Pix,Mensal,False,Recorrente
+47518791,Cassiano Freitas S.A.,2024-06-09,2024-07-09,1799.18,Pix,Mensal,True,Recorrente
+eedbb52b,Almeida,2024-06-03,2024-07-03,913.21,Pix,Mensal,False,Recorrente
+a086a45a,Fonseca Ltda.,2024-06-12,2024-07-12,2134.54,Boleto,Mensal,True,Recorrente
+867bad7c,Araújo da Costa - EI,2024-06-01,2024-06-01,1080.05,Cartão de Crédito,Anual,False,Recorrente
+be967191,Barros e Filhos,2024-06-02,2024-06-02,545.11,Pix,Mensal,True,Recorrente
+5584f848,Cunha,2024-06-08,2024-07-08,1943.32,Cartão de Crédito,Mensal,False,Recorrente
+1321b504,Campos,2024-06-20,2024-06-20,2381.25,Boleto,Mensal,False,Novo/Avulso
+65736ca2,Câmara Azevedo Ltda.,2024-06-19,2024-06-19,1024.23,Boleto,Avulso,False,Novo/Avulso
+e9a99504,Pastor - EI,2024-06-04,2024-06-04,1676.47,Boleto,Mensal,True,Novo/Avulso
+4dda7b66,Pastor Câmara S/A,2024-06-04,2024-06-19,1059.42,Pix,Mensal,False,Novo/Avulso
+47ac7559,Santos e Filhos,2024-06-10,2024-07-10,654.24,Pix,Avulso,False,Novo/Avulso
+bd0a05b9,Alves e Filhos,2024-07-27,2024-08-26,208.78,Cartão de Crédito,Anual,True,Recorrente
+e8a25f6c,Carvalho Sousa S/A,2024-07-25,2024-07-25,370.18,Boleto,Mensal,False,Recorrente
+3b7e822a,Alves S/A,2024-07-17,2024-07-17,655.99,Cartão de Crédito,Mensal,True,Recorrente
+a4971890,da Conceição Montenegro - EI,2024-07-17,2024-07-17,2141.61,Pix,Mensal,False,Recorrente
+f905b442,Câmara,2024-07-06,2024-07-06,984.89,Pix,Mensal,False,Recorrente
+0d74e46d,Pastor,2024-07-30,2024-08-29,552.18,Pix,Anual,True,Recorrente
+daa41451,Abreu,2024-07-12,2024-08-11,478.13,Pix,Mensal,False,Recorrente
+e64e64f4,Ferreira,2024-07-28,2024-07-28,1979.77,Pix,Anual,False,Recorrente
+03718994,Aparecida,2024-07-07,2024-08-06,1366.3,Boleto,Mensal,False,Recorrente
+7331e0c8,Nascimento,2024-07-05,2024-08-04,1532.53,Boleto,Mensal,False,Recorrente
+562fdbbd,Garcia S/A,2024-07-20,2024-08-19,1633.09,Boleto,Mensal,True,Recorrente
+cd3b091c,Pires,2024-07-17,2024-08-16,2498.31,Boleto,Mensal,True,Recorrente
+0a16737c,Oliveira,2024-07-19,2024-08-18,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+ca7a731f,Santos Azevedo S/A,2024-07-06,2024-08-05,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+86ebe904,Vargas da Rocha S/A,2024-07-27,2024-08-26,650.91,Cartão de Crédito,Mensal,True,Recorrente
+a7fe27fa,Porto,2024-07-27,2024-07-27,2470.0,Pix,Anual,True,Recorrente
+c568c47a,Pereira e Filhos,2024-07-02,2024-08-01,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+26668945,Martins Garcia Ltda.,2024-07-21,2024-07-21,2387.2,Boleto,Mensal,False,Recorrente
+4da5c2d0,Andrade Dias - ME,2024-07-20,2024-08-19,2232.42,Pix,Mensal,True,Recorrente
+5d5f7e9d,Azevedo,2024-07-16,2024-08-15,723.36,Pix,Mensal,False,Recorrente
+d7b1eed6,Casa Grande,2024-07-21,2024-08-05,1234.99,Boleto,Mensal,False,Recorrente
+dabe9d95,Carvalho,2024-07-08,2024-08-07,918.09,Cartão de Crédito,Mensal,False,Recorrente
+1d59332d,Souza,2024-07-10,2024-07-25,598.98,Boleto,Anual,True,Recorrente
+204d632e,Pacheco,2024-07-23,2024-07-23,714.76,Cartão de Crédito,Anual,True,Recorrente
+1a45d5df,Fonseca,2024-07-15,2024-07-30,190.52,Cartão de Crédito,Mensal,False,Recorrente
+08a527b1,Sá S/A,2024-07-15,2024-07-15,1429.72,Pix,Mensal,False,Recorrente
+111ef98a,Cassiano e Filhos,2024-07-20,2024-07-20,539.92,Cartão de Crédito,Mensal,False,Recorrente
+35cd1091,Vieira Rodrigues - ME,2024-07-28,2024-08-27,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+8d4e2049,Gomes - ME,2024-07-24,2024-08-08,961.04,Pix,Anual,False,Recorrente
+31853712,Moura,2024-07-05,2024-07-20,906.18,Boleto,Mensal,True,Recorrente
+09d29da7,Novaes,2024-07-11,2024-07-11,1972.53,Boleto,Mensal,False,Recorrente
+1551ba1c,Vargas,2024-07-04,2024-07-19,2296.69,Boleto,Anual,False,Recorrente
+300e686a,Montenegro,2024-07-08,2024-07-08,339.86,Pix,Mensal,True,Recorrente
+07275c25,Montenegro Caldeira e Filhos,2024-07-02,2024-07-17,1637.73,Pix,Mensal,False,Recorrente
+bd7977f1,Cassiano Freitas S.A.,2024-07-28,2024-08-27,1799.18,Pix,Mensal,False,Recorrente
+2ee3e659,Almeida,2024-07-08,2024-07-08,913.21,Pix,Mensal,False,Recorrente
+5835bf8d,Fonseca Ltda.,2024-07-30,2024-08-29,2134.54,Boleto,Mensal,False,Recorrente
+b303f377,Araújo da Costa - EI,2024-07-07,2024-07-07,1080.05,Cartão de Crédito,Anual,False,Recorrente
+5567d294,Barros e Filhos,2024-07-17,2024-08-01,545.11,Pix,Mensal,False,Recorrente
+519d8fa6,Cunha,2024-07-29,2024-08-13,1943.32,Cartão de Crédito,Mensal,False,Recorrente
+425000e1,Campos,2024-07-01,2024-07-01,2381.25,Boleto,Mensal,False,Recorrente
+1539c31a,Pastor - EI,2024-07-17,2024-08-01,1676.47,Boleto,Mensal,True,Recorrente
+7fa3d14e,Pastor Câmara S/A,2024-07-07,2024-08-06,1059.42,Pix,Mensal,False,Recorrente
+754bfec9,da Conceição S/A,2024-07-29,2024-08-28,811.19,Pix,Mensal,False,Novo/Avulso
+ccfd59b3,Farias S/A,2024-07-14,2024-07-14,169.22,Boleto,Mensal,False,Novo/Avulso
+566028ef,da Mota Rios - ME,2024-07-02,2024-07-17,1945.06,Cartão de Crédito,Avulso,True,Novo/Avulso
+082392d0,Nogueira Cardoso e Filhos,2024-07-10,2024-07-10,607.44,Pix,Anual,False,Novo/Avulso
+f049bc71,da Cruz,2024-07-27,2024-08-26,1946.35,Cartão de Crédito,Anual,True,Novo/Avulso
+35fc7b24,Alves e Filhos,2024-08-13,2024-08-13,208.78,Cartão de Crédito,Anual,True,Recorrente
+a50109ea,Carvalho Sousa S/A,2024-08-02,2024-09-01,370.18,Boleto,Mensal,True,Recorrente
+466f6976,Alves S/A,2024-08-07,2024-08-07,655.99,Cartão de Crédito,Mensal,False,Recorrente
+15906ef6,da Conceição Montenegro - EI,2024-08-11,2024-08-26,2141.61,Pix,Mensal,True,Recorrente
+b9efaed1,Câmara,2024-08-14,2024-09-13,984.89,Pix,Mensal,True,Recorrente
+d567e50e,Pastor,2024-08-14,2024-09-13,552.18,Pix,Anual,False,Recorrente
+1d5a1cdf,Abreu,2024-08-28,2024-09-27,478.13,Pix,Mensal,True,Recorrente
+8b18c307,Ferreira,2024-08-23,2024-08-23,1979.77,Pix,Anual,True,Recorrente
+7dc731f2,Aparecida,2024-08-18,2024-09-02,1366.3,Boleto,Mensal,False,Recorrente
+680c578e,Nascimento,2024-08-17,2024-09-01,1532.53,Boleto,Mensal,False,Recorrente
+149dacb7,Garcia S/A,2024-08-31,2024-08-31,1633.09,Boleto,Mensal,False,Recorrente
+594ecbbe,Pires,2024-08-30,2024-09-29,2498.31,Boleto,Mensal,False,Recorrente
+629c63f5,Oliveira,2024-08-18,2024-09-02,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+81f418bf,Santos Azevedo S/A,2024-08-20,2024-09-04,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+5540be26,Vargas da Rocha S/A,2024-08-31,2024-08-31,650.91,Cartão de Crédito,Mensal,False,Recorrente
+c800007a,Porto,2024-08-18,2024-09-02,2470.0,Pix,Anual,True,Recorrente
+7dfef3e1,Pereira e Filhos,2024-08-31,2024-09-15,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+25983da6,Martins Garcia Ltda.,2024-08-23,2024-08-23,2387.2,Boleto,Mensal,False,Recorrente
+309c0ddf,Andrade Dias - ME,2024-08-11,2024-08-26,2232.42,Pix,Mensal,False,Recorrente
+2e99634f,Azevedo,2024-08-18,2024-09-17,723.36,Pix,Mensal,False,Recorrente
+7d9190c4,Casa Grande,2024-08-10,2024-08-10,1234.99,Boleto,Mensal,False,Recorrente
+4107e06c,Carvalho,2024-08-29,2024-09-13,918.09,Cartão de Crédito,Mensal,False,Recorrente
+4ef1c66a,Souza,2024-08-31,2024-08-31,598.98,Boleto,Anual,False,Recorrente
+8a61e6ef,Pacheco,2024-08-02,2024-08-17,714.76,Cartão de Crédito,Anual,True,Recorrente
+c59bef24,Fonseca,2024-08-12,2024-08-27,190.52,Cartão de Crédito,Mensal,False,Recorrente
+8243ba3c,Sá S/A,2024-08-24,2024-09-08,1429.72,Pix,Mensal,True,Recorrente
+c334f0a2,Cassiano e Filhos,2024-08-07,2024-09-06,539.92,Cartão de Crédito,Mensal,False,Recorrente
+cfbffcf8,Vieira Rodrigues - ME,2024-08-30,2024-09-29,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+f9632e9f,Moura,2024-08-05,2024-08-05,906.18,Boleto,Mensal,True,Recorrente
+d0c300f2,Novaes,2024-08-08,2024-08-08,1972.53,Boleto,Mensal,True,Recorrente
+43889da7,Vargas,2024-08-21,2024-08-21,2296.69,Boleto,Anual,True,Recorrente
+7fe9405a,Montenegro,2024-08-04,2024-08-19,339.86,Pix,Mensal,False,Recorrente
+3f5e4c8c,Montenegro Caldeira e Filhos,2024-08-23,2024-09-07,1637.73,Pix,Mensal,True,Recorrente
+5b0f15a7,Cassiano Freitas S.A.,2024-08-22,2024-08-22,1799.18,Pix,Mensal,True,Recorrente
+b4342a7f,Almeida,2024-08-31,2024-09-30,913.21,Pix,Mensal,True,Recorrente
+86c9c094,Fonseca Ltda.,2024-08-14,2024-09-13,2134.54,Boleto,Mensal,False,Recorrente
+88bb25b7,Araújo da Costa - EI,2024-08-16,2024-09-15,1080.05,Cartão de Crédito,Anual,True,Recorrente
+d074c664,Barros e Filhos,2024-08-25,2024-09-09,545.11,Pix,Mensal,False,Recorrente
+e0fd0ed0,Cunha,2024-08-10,2024-09-09,1943.32,Cartão de Crédito,Mensal,True,Recorrente
+354db9c4,Campos,2024-08-30,2024-08-30,2381.25,Boleto,Mensal,True,Recorrente
+b099c987,Pastor - EI,2024-08-18,2024-09-17,1676.47,Boleto,Mensal,True,Recorrente
+99b845dc,Pastor Câmara S/A,2024-08-30,2024-08-30,1059.42,Pix,Mensal,False,Recorrente
+97bbcc12,da Conceição S/A,2024-08-29,2024-08-29,811.19,Pix,Mensal,True,Recorrente
+610d7d75,Farias S/A,2024-08-27,2024-09-11,169.22,Boleto,Mensal,False,Recorrente
+0e7a250e,Nogueira Cardoso e Filhos,2024-08-06,2024-09-05,607.44,Pix,Anual,False,Recorrente
+628730c4,da Cruz,2024-08-29,2024-08-29,1946.35,Cartão de Crédito,Anual,True,Recorrente
+558e46ef,Jesus,2024-08-10,2024-08-25,1566.54,Cartão de Crédito,Mensal,False,Novo/Avulso
+dfe6b602,Brito Brito e Filhos,2024-08-15,2024-08-30,465.37,Pix,Avulso,True,Novo/Avulso
+ab50a229,Fogaça,2024-08-15,2024-09-14,927.11,Pix,Avulso,False,Novo/Avulso
+92687ff7,Jesus,2024-08-26,2024-09-10,183.1,Cartão de Crédito,Avulso,True,Novo/Avulso
+49bc9470,Siqueira,2024-08-27,2024-09-11,2161.94,Cartão de Crédito,Mensal,False,Novo/Avulso
+82baafa7,Rocha e Filhos,2024-08-05,2024-08-20,1722.75,Boleto,Mensal,False,Novo/Avulso
+15534ee1,Alves e Filhos,2024-09-22,2024-09-22,208.78,Cartão de Crédito,Anual,False,Recorrente
+91f374a0,Alves S/A,2024-09-03,2024-10-03,655.99,Cartão de Crédito,Mensal,False,Recorrente
+cbd57502,da Conceição Montenegro - EI,2024-09-26,2024-09-26,2141.61,Pix,Mensal,False,Recorrente
+986cde5a,Câmara,2024-09-05,2024-10-05,984.89,Pix,Mensal,False,Recorrente
+519311c7,Pastor,2024-09-15,2024-10-15,552.18,Pix,Anual,True,Recorrente
+373d308d,Abreu,2024-09-18,2024-10-03,478.13,Pix,Mensal,False,Recorrente
+4ad47721,Ferreira,2024-09-24,2024-09-24,1979.77,Pix,Anual,False,Recorrente
+e6d3bfd6,Aparecida,2024-09-09,2024-09-09,1366.3,Boleto,Mensal,True,Recorrente
+00afabcf,Nascimento,2024-09-19,2024-09-19,1532.53,Boleto,Mensal,True,Recorrente
+9bfe38ca,Garcia S/A,2024-09-14,2024-09-29,1633.09,Boleto,Mensal,True,Recorrente
+dc483c66,Pires,2024-09-18,2024-09-18,2498.31,Boleto,Mensal,True,Recorrente
+7d6b4638,Oliveira,2024-09-30,2024-10-15,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+6d0c46c1,Santos Azevedo S/A,2024-09-10,2024-09-25,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+4c030c1e,Vargas da Rocha S/A,2024-09-25,2024-09-25,650.91,Cartão de Crédito,Mensal,False,Recorrente
+f85ac139,Porto,2024-09-12,2024-09-27,2470.0,Pix,Anual,False,Recorrente
+ed7e9408,Pereira e Filhos,2024-09-28,2024-10-13,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+8bb51b36,Martins Garcia Ltda.,2024-09-03,2024-10-03,2387.2,Boleto,Mensal,True,Recorrente
+a27aa022,Andrade Dias - ME,2024-09-21,2024-10-06,2232.42,Pix,Mensal,True,Recorrente
+423bc2dd,Azevedo,2024-09-06,2024-10-06,723.36,Pix,Mensal,False,Recorrente
+8e63177e,Casa Grande,2024-09-17,2024-09-17,1234.99,Boleto,Mensal,True,Recorrente
+6e75b033,Carvalho,2024-09-27,2024-09-27,918.09,Cartão de Crédito,Mensal,True,Recorrente
+b4fbbd15,Souza,2024-09-10,2024-09-25,598.98,Boleto,Anual,False,Recorrente
+66898aec,Pacheco,2024-09-18,2024-10-03,714.76,Cartão de Crédito,Anual,True,Recorrente
+2789d2bd,Fonseca,2024-09-08,2024-09-23,190.52,Cartão de Crédito,Mensal,False,Recorrente
+b4af62e4,Sá S/A,2024-09-05,2024-09-20,1429.72,Pix,Mensal,True,Recorrente
+a0803650,Cassiano e Filhos,2024-09-30,2024-10-30,539.92,Cartão de Crédito,Mensal,True,Recorrente
+d03bd8d1,Vieira Rodrigues - ME,2024-09-02,2024-10-02,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+baa74b0b,Moura,2024-09-20,2024-09-20,906.18,Boleto,Mensal,True,Recorrente
+a56b3071,Novaes,2024-09-07,2024-09-07,1972.53,Boleto,Mensal,True,Recorrente
+0eed995d,Vargas,2024-09-20,2024-09-20,2296.69,Boleto,Anual,False,Recorrente
+7e83a534,Montenegro,2024-09-20,2024-10-20,339.86,Pix,Mensal,True,Recorrente
+9e206d4a,Montenegro Caldeira e Filhos,2024-09-08,2024-10-08,1637.73,Pix,Mensal,True,Recorrente
+02ccbf12,Cassiano Freitas S.A.,2024-09-13,2024-09-28,1799.18,Pix,Mensal,True,Recorrente
+9f5ca805,Almeida,2024-09-18,2024-09-18,913.21,Pix,Mensal,True,Recorrente
+33b6e6ab,Fonseca Ltda.,2024-09-05,2024-10-05,2134.54,Boleto,Mensal,False,Recorrente
+cf2541d5,Araújo da Costa - EI,2024-09-08,2024-10-08,1080.05,Cartão de Crédito,Anual,False,Recorrente
+287aecfc,Barros e Filhos,2024-09-19,2024-10-19,545.11,Pix,Mensal,False,Recorrente
+159ea10c,Cunha,2024-09-08,2024-09-23,1943.32,Cartão de Crédito,Mensal,True,Recorrente
+f08d8861,Campos,2024-09-22,2024-10-22,2381.25,Boleto,Mensal,True,Recorrente
+3585e101,Pastor - EI,2024-09-14,2024-09-29,1676.47,Boleto,Mensal,False,Recorrente
+63765f82,Pastor Câmara S/A,2024-09-02,2024-10-02,1059.42,Pix,Mensal,True,Recorrente
+488ca9a3,da Conceição S/A,2024-09-21,2024-10-21,811.19,Pix,Mensal,False,Recorrente
+30c11e35,Farias S/A,2024-09-18,2024-10-03,169.22,Boleto,Mensal,True,Recorrente
+6f48a9e0,Nogueira Cardoso e Filhos,2024-09-12,2024-10-12,607.44,Pix,Anual,False,Recorrente
+d319f056,da Cruz,2024-09-26,2024-10-26,1946.35,Cartão de Crédito,Anual,False,Recorrente
+47547f0f,Jesus,2024-09-23,2024-10-08,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+a23feb7d,Siqueira,2024-09-05,2024-09-20,2161.94,Cartão de Crédito,Mensal,False,Recorrente
+03af195f,Rocha e Filhos,2024-09-06,2024-10-06,1722.75,Boleto,Mensal,False,Recorrente
+c69b3006,Araújo - ME,2024-09-05,2024-09-20,679.56,Pix,Mensal,True,Novo/Avulso
+20cef511,Caldeira,2024-09-17,2024-09-17,2424.3,Pix,Anual,False,Novo/Avulso
+2b2e1684,Correia Correia - EI,2024-09-03,2024-09-18,627.84,Pix,Mensal,False,Novo/Avulso
+5977820b,Carvalho,2024-09-02,2024-09-17,1852.77,Boleto,Mensal,False,Novo/Avulso
+92f6d10c,Cirino,2024-09-07,2024-10-07,1566.87,Boleto,Anual,True,Novo/Avulso
+57b8be4b,Martins,2024-09-10,2024-09-10,2193.26,Cartão de Crédito,Mensal,True,Novo/Avulso
+87cc3158,Alves e Filhos,2024-10-31,2024-11-30,208.78,Cartão de Crédito,Anual,True,Recorrente
+33eccab8,Alves S/A,2024-10-25,2024-10-25,655.99,Cartão de Crédito,Mensal,False,Recorrente
+77a9f239,da Conceição Montenegro - EI,2024-10-05,2024-11-04,2141.61,Pix,Mensal,True,Recorrente
+9315ff3d,Câmara,2024-10-03,2024-11-02,984.89,Pix,Mensal,True,Recorrente
+70a2105d,Pastor,2024-10-01,2024-10-01,552.18,Pix,Anual,False,Recorrente
+f8470f00,Abreu,2024-10-12,2024-10-12,478.13,Pix,Mensal,False,Recorrente
+fb47ae11,Ferreira,2024-10-22,2024-11-06,1979.77,Pix,Anual,True,Recorrente
+3a7c8e3e,Aparecida,2024-10-01,2024-10-31,1366.3,Boleto,Mensal,False,Recorrente
+78636c9f,Nascimento,2024-10-01,2024-10-01,1532.53,Boleto,Mensal,False,Recorrente
+b5d40e66,Garcia S/A,2024-10-18,2024-11-02,1633.09,Boleto,Mensal,True,Recorrente
+5fddfa44,Pires,2024-10-17,2024-11-16,2498.31,Boleto,Mensal,False,Recorrente
+8aea62fb,Oliveira,2024-10-26,2024-10-26,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+41c2c78a,Santos Azevedo S/A,2024-10-30,2024-10-30,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+1bcaf454,Vargas da Rocha S/A,2024-10-08,2024-10-08,650.91,Cartão de Crédito,Mensal,False,Recorrente
+aace8084,Porto,2024-10-27,2024-11-11,2470.0,Pix,Anual,False,Recorrente
+9e865e82,Pereira e Filhos,2024-10-26,2024-11-10,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+5c3e0c5d,Martins Garcia Ltda.,2024-10-12,2024-10-27,2387.2,Boleto,Mensal,False,Recorrente
+1bbc9085,Andrade Dias - ME,2024-10-19,2024-10-19,2232.42,Pix,Mensal,True,Recorrente
+ed82eaed,Azevedo,2024-10-10,2024-11-09,723.36,Pix,Mensal,True,Recorrente
+2b9b0992,Casa Grande,2024-10-21,2024-11-20,1234.99,Boleto,Mensal,True,Recorrente
+0dbb758b,Carvalho,2024-10-03,2024-10-18,918.09,Cartão de Crédito,Mensal,False,Recorrente
+a2875e7f,Souza,2024-10-13,2024-11-12,598.98,Boleto,Anual,False,Recorrente
+e278338a,Pacheco,2024-10-02,2024-11-01,714.76,Cartão de Crédito,Anual,True,Recorrente
+08806106,Fonseca,2024-10-23,2024-10-23,190.52,Cartão de Crédito,Mensal,True,Recorrente
+88fcca0d,Sá S/A,2024-10-16,2024-10-31,1429.72,Pix,Mensal,False,Recorrente
+4e570b71,Cassiano e Filhos,2024-10-19,2024-10-19,539.92,Cartão de Crédito,Mensal,True,Recorrente
+6e442d70,Vieira Rodrigues - ME,2024-10-08,2024-10-08,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+6305156e,Moura,2024-10-09,2024-10-09,906.18,Boleto,Mensal,True,Recorrente
+1a42f141,Novaes,2024-10-22,2024-11-06,1972.53,Boleto,Mensal,True,Recorrente
+fa0e347a,Vargas,2024-10-06,2024-10-21,2296.69,Boleto,Anual,True,Recorrente
+2471897b,Montenegro,2024-10-31,2024-10-31,339.86,Pix,Mensal,True,Recorrente
+e29eaf59,Montenegro Caldeira e Filhos,2024-10-25,2024-11-24,1637.73,Pix,Mensal,False,Recorrente
+340f3e40,Cassiano Freitas S.A.,2024-10-30,2024-10-30,1799.18,Pix,Mensal,False,Recorrente
+95fe60b3,Almeida,2024-10-06,2024-11-05,913.21,Pix,Mensal,True,Recorrente
+fbbe8bfe,Fonseca Ltda.,2024-10-19,2024-11-03,2134.54,Boleto,Mensal,False,Recorrente
+08c86610,Araújo da Costa - EI,2024-10-13,2024-11-12,1080.05,Cartão de Crédito,Anual,True,Recorrente
+f2f9a411,Barros e Filhos,2024-10-26,2024-11-25,545.11,Pix,Mensal,True,Recorrente
+feeade1a,Cunha,2024-10-17,2024-11-16,1943.32,Cartão de Crédito,Mensal,False,Recorrente
+81387f89,Campos,2024-10-02,2024-10-02,2381.25,Boleto,Mensal,False,Recorrente
+565017db,Pastor - EI,2024-10-08,2024-10-08,1676.47,Boleto,Mensal,False,Recorrente
+1601621b,Pastor Câmara S/A,2024-10-20,2024-11-19,1059.42,Pix,Mensal,False,Recorrente
+ca1d3a3f,da Conceição S/A,2024-10-25,2024-11-09,811.19,Pix,Mensal,True,Recorrente
+d1ffc9df,Farias S/A,2024-10-21,2024-11-05,169.22,Boleto,Mensal,False,Recorrente
+b9a122f0,Nogueira Cardoso e Filhos,2024-10-16,2024-10-16,607.44,Pix,Anual,False,Recorrente
+f96d0703,da Cruz,2024-10-18,2024-11-02,1946.35,Cartão de Crédito,Anual,False,Recorrente
+d85648d3,Jesus,2024-10-06,2024-11-05,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+3ef73576,Siqueira,2024-10-03,2024-11-02,2161.94,Cartão de Crédito,Mensal,False,Recorrente
+f69f34a3,Rocha e Filhos,2024-10-26,2024-10-26,1722.75,Boleto,Mensal,True,Recorrente
+9d495288,Araújo - ME,2024-10-03,2024-10-18,679.56,Pix,Mensal,True,Recorrente
+d9cefb6f,Caldeira,2024-10-13,2024-11-12,2424.3,Pix,Anual,True,Recorrente
+29416d17,Correia Correia - EI,2024-10-24,2024-11-08,627.84,Pix,Mensal,False,Recorrente
+4701130e,Carvalho,2024-10-12,2024-10-12,1852.77,Boleto,Mensal,True,Recorrente
+7d12a47f,Cirino,2024-10-01,2024-10-16,1566.87,Boleto,Anual,False,Recorrente
+fcea3012,Martins,2024-10-12,2024-10-27,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+389344d7,Barbosa Macedo - EI,2024-10-18,2024-11-17,590.37,Cartão de Crédito,Mensal,False,Novo/Avulso
+294070ec,Aragão e Filhos,2024-10-03,2024-11-02,360.6,Pix,Mensal,False,Novo/Avulso
+3dab4731,Borges S.A.,2024-10-13,2024-10-13,179.0,Cartão de Crédito,Avulso,True,Novo/Avulso
+0f4ecbfa,Jesus Mendonça - ME,2024-10-06,2024-10-06,548.52,Cartão de Crédito,Anual,False,Novo/Avulso
+d393db69,Guerra Araújo S.A.,2024-10-06,2024-10-21,1308.84,Boleto,Mensal,False,Novo/Avulso
+a95847cc,Abreu,2024-10-12,2024-10-27,1287.94,Boleto,Mensal,True,Novo/Avulso
+17e7506a,Alves e Filhos,2024-11-12,2024-12-12,208.78,Cartão de Crédito,Anual,True,Recorrente
+694f766a,Alves S/A,2024-11-04,2024-11-04,655.99,Cartão de Crédito,Mensal,False,Recorrente
+4f3ada8d,da Conceição Montenegro - EI,2024-11-06,2024-12-06,2141.61,Pix,Mensal,True,Recorrente
+c5fa3590,Câmara,2024-11-19,2024-12-19,984.89,Pix,Mensal,False,Recorrente
+02c2b3c3,Pastor,2024-11-25,2024-12-10,552.18,Pix,Anual,False,Recorrente
+fb5e0e29,Ferreira,2024-11-04,2024-11-04,1979.77,Pix,Anual,True,Recorrente
+91a17e05,Aparecida,2024-11-09,2024-11-09,1366.3,Boleto,Mensal,True,Recorrente
+8f014286,Nascimento,2024-11-15,2024-11-30,1532.53,Boleto,Mensal,False,Recorrente
+1ec5a87f,Garcia S/A,2024-11-15,2024-12-15,1633.09,Boleto,Mensal,True,Recorrente
+6d48babb,Pires,2024-11-12,2024-11-12,2498.31,Boleto,Mensal,False,Recorrente
+e27b175d,Oliveira,2024-11-04,2024-11-19,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+fa2bbad9,Santos Azevedo S/A,2024-11-30,2024-11-30,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+285d52de,Vargas da Rocha S/A,2024-11-27,2024-12-27,650.91,Cartão de Crédito,Mensal,True,Recorrente
+5f9b2262,Porto,2024-11-12,2024-11-27,2470.0,Pix,Anual,False,Recorrente
+56d6c84b,Pereira e Filhos,2024-11-15,2024-11-15,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+b5620b70,Martins Garcia Ltda.,2024-11-12,2024-11-27,2387.2,Boleto,Mensal,True,Recorrente
+b4c72908,Andrade Dias - ME,2024-11-15,2024-12-15,2232.42,Pix,Mensal,False,Recorrente
+1a930ba4,Azevedo,2024-11-11,2024-11-11,723.36,Pix,Mensal,False,Recorrente
+129daafd,Casa Grande,2024-11-02,2024-12-02,1234.99,Boleto,Mensal,True,Recorrente
+b296d595,Carvalho,2024-11-01,2024-11-16,918.09,Cartão de Crédito,Mensal,True,Recorrente
+5f1fbc37,Souza,2024-11-22,2024-11-22,598.98,Boleto,Anual,True,Recorrente
+2e762c88,Pacheco,2024-11-17,2024-11-17,714.76,Cartão de Crédito,Anual,True,Recorrente
+c9905730,Fonseca,2024-11-11,2024-12-11,190.52,Cartão de Crédito,Mensal,False,Recorrente
+004e556d,Sá S/A,2024-11-15,2024-11-15,1429.72,Pix,Mensal,False,Recorrente
+45ec4ec5,Cassiano e Filhos,2024-11-21,2024-11-21,539.92,Cartão de Crédito,Mensal,True,Recorrente
+df56d87d,Vieira Rodrigues - ME,2024-11-21,2024-12-21,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+92330e57,Moura,2024-11-13,2024-11-13,906.18,Boleto,Mensal,True,Recorrente
+77be0570,Novaes,2024-11-15,2024-12-15,1972.53,Boleto,Mensal,False,Recorrente
+70db90d0,Vargas,2024-11-13,2024-11-13,2296.69,Boleto,Anual,True,Recorrente
+950db66d,Montenegro,2024-11-07,2024-11-22,339.86,Pix,Mensal,True,Recorrente
+8a2c2880,Montenegro Caldeira e Filhos,2024-11-19,2024-11-19,1637.73,Pix,Mensal,True,Recorrente
+6728004f,Cassiano Freitas S.A.,2024-11-12,2024-11-27,1799.18,Pix,Mensal,True,Recorrente
+3543b34b,Almeida,2024-11-15,2024-11-15,913.21,Pix,Mensal,False,Recorrente
+b2b972ee,Fonseca Ltda.,2024-11-22,2024-12-07,2134.54,Boleto,Mensal,False,Recorrente
+9ab5f119,Barros e Filhos,2024-11-20,2024-12-05,545.11,Pix,Mensal,False,Recorrente
+c3c376ba,Cunha,2024-11-19,2024-11-19,1943.32,Cartão de Crédito,Mensal,False,Recorrente
+13c3a097,Campos,2024-11-12,2024-11-27,2381.25,Boleto,Mensal,True,Recorrente
+a7fd17f1,Pastor - EI,2024-11-27,2024-12-27,1676.47,Boleto,Mensal,False,Recorrente
+bc245b6f,Pastor Câmara S/A,2024-11-30,2024-12-30,1059.42,Pix,Mensal,True,Recorrente
+9c85e702,da Conceição S/A,2024-11-22,2024-11-22,811.19,Pix,Mensal,False,Recorrente
+90f4ae6a,Farias S/A,2024-11-04,2024-11-04,169.22,Boleto,Mensal,False,Recorrente
+67663d73,Nogueira Cardoso e Filhos,2024-11-04,2024-11-04,607.44,Pix,Anual,False,Recorrente
+3f749a35,da Cruz,2024-11-23,2024-11-23,1946.35,Cartão de Crédito,Anual,False,Recorrente
+20a3d103,Jesus,2024-11-14,2024-12-14,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+b563d30a,Siqueira,2024-11-19,2024-12-04,2161.94,Cartão de Crédito,Mensal,False,Recorrente
+7796bf3f,Rocha e Filhos,2024-11-06,2024-11-21,1722.75,Boleto,Mensal,True,Recorrente
+8ac395e5,Araújo - ME,2024-11-18,2024-11-18,679.56,Pix,Mensal,False,Recorrente
+5939c09d,Caldeira,2024-11-10,2024-11-10,2424.3,Pix,Anual,True,Recorrente
+b113c51f,Correia Correia - EI,2024-11-11,2024-11-26,627.84,Pix,Mensal,True,Recorrente
+b0efa4ad,Carvalho,2024-11-28,2024-12-13,1852.77,Boleto,Mensal,True,Recorrente
+5ad397bb,Cirino,2024-11-16,2024-11-16,1566.87,Boleto,Anual,True,Recorrente
+d9830564,Martins,2024-11-27,2024-12-12,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+65c44359,Barbosa Macedo - EI,2024-11-14,2024-12-14,590.37,Cartão de Crédito,Mensal,False,Recorrente
+b1a52cb4,Aragão e Filhos,2024-11-14,2024-12-14,360.6,Pix,Mensal,False,Recorrente
+95b22f21,Jesus Mendonça - ME,2024-11-16,2024-11-16,548.52,Cartão de Crédito,Anual,True,Recorrente
+7c8fdbfd,Guerra Araújo S.A.,2024-11-19,2024-11-19,1308.84,Boleto,Mensal,True,Recorrente
+b2c5c63d,Abreu,2024-11-10,2024-11-10,1287.94,Boleto,Mensal,False,Recorrente
+93b8031a,da Luz,2024-11-19,2024-12-19,828.38,Cartão de Crédito,Mensal,False,Novo/Avulso
+54fa4c9f,da Paz,2024-11-09,2024-12-09,416.05,Boleto,Anual,False,Novo/Avulso
+6ff250f6,Sampaio,2024-11-15,2024-12-15,1928.45,Pix,Anual,True,Novo/Avulso
+c291682a,Cassiano,2024-11-25,2024-11-25,390.68,Pix,Avulso,False,Novo/Avulso
+6827249a,da Rocha Cunha S/A,2024-11-12,2024-11-12,225.74,Cartão de Crédito,Avulso,False,Novo/Avulso
+60844aeb,Souza Ltda.,2024-11-07,2024-12-07,425.86,Boleto,Avulso,False,Novo/Avulso
+a3e9bd80,Alves e Filhos,2024-12-05,2025-01-04,208.78,Cartão de Crédito,Anual,False,Recorrente
+5b7b319b,Alves S/A,2024-12-26,2025-01-10,655.99,Cartão de Crédito,Mensal,True,Recorrente
+e3aaffe5,da Conceição Montenegro - EI,2024-12-02,2024-12-02,2141.61,Pix,Mensal,False,Recorrente
+454d6d99,Câmara,2024-12-01,2024-12-01,984.89,Pix,Mensal,True,Recorrente
+1dfeb698,Pastor,2024-12-15,2024-12-30,552.18,Pix,Anual,True,Recorrente
+29ec674a,Ferreira,2024-12-31,2025-01-15,1979.77,Pix,Anual,True,Recorrente
+0a3350ce,Aparecida,2024-12-23,2024-12-23,1366.3,Boleto,Mensal,False,Recorrente
+c226d265,Nascimento,2024-12-06,2024-12-21,1532.53,Boleto,Mensal,True,Recorrente
+1b4c34cc,Garcia S/A,2024-12-21,2025-01-05,1633.09,Boleto,Mensal,False,Recorrente
+869c5cc6,Pires,2024-12-03,2024-12-18,2498.31,Boleto,Mensal,True,Recorrente
+0484f120,Oliveira,2024-12-02,2024-12-17,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+d02410cd,Santos Azevedo S/A,2024-12-24,2025-01-23,2465.48,Cartão de Crédito,Mensal,True,Recorrente
+466e9b31,Vargas da Rocha S/A,2024-12-14,2025-01-13,650.91,Cartão de Crédito,Mensal,True,Recorrente
+efadc277,Porto,2024-12-23,2024-12-23,2470.0,Pix,Anual,True,Recorrente
+c66a419c,Pereira e Filhos,2024-12-07,2024-12-22,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+6e56c166,Martins Garcia Ltda.,2024-12-05,2025-01-04,2387.2,Boleto,Mensal,True,Recorrente
+ec4c128d,Andrade Dias - ME,2024-12-17,2025-01-16,2232.42,Pix,Mensal,False,Recorrente
+e1aba2ff,Azevedo,2024-12-01,2024-12-01,723.36,Pix,Mensal,False,Recorrente
+8a8fafc5,Casa Grande,2024-12-27,2024-12-27,1234.99,Boleto,Mensal,False,Recorrente
+311c3890,Carvalho,2024-12-23,2024-12-23,918.09,Cartão de Crédito,Mensal,False,Recorrente
+0b5e8e91,Souza,2024-12-03,2024-12-03,598.98,Boleto,Anual,False,Recorrente
+4b9b9705,Pacheco,2024-12-03,2025-01-02,714.76,Cartão de Crédito,Anual,True,Recorrente
+4577e5f8,Fonseca,2024-12-04,2024-12-19,190.52,Cartão de Crédito,Mensal,False,Recorrente
+f0a2cfd1,Sá S/A,2024-12-29,2025-01-13,1429.72,Pix,Mensal,True,Recorrente
+95564a2b,Cassiano e Filhos,2024-12-13,2024-12-13,539.92,Cartão de Crédito,Mensal,True,Recorrente
+868be212,Vieira Rodrigues - ME,2024-12-03,2025-01-02,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+2c87d186,Moura,2024-12-20,2025-01-19,906.18,Boleto,Mensal,True,Recorrente
+85906b78,Novaes,2024-12-15,2024-12-30,1972.53,Boleto,Mensal,True,Recorrente
+535eb85d,Vargas,2024-12-21,2025-01-20,2296.69,Boleto,Anual,True,Recorrente
+83da0ccc,Montenegro,2024-12-30,2025-01-14,339.86,Pix,Mensal,False,Recorrente
+7a5a2b9f,Montenegro Caldeira e Filhos,2024-12-28,2024-12-28,1637.73,Pix,Mensal,True,Recorrente
+e84e1a13,Cassiano Freitas S.A.,2024-12-29,2024-12-29,1799.18,Pix,Mensal,True,Recorrente
+7ddb1952,Almeida,2024-12-25,2024-12-25,913.21,Pix,Mensal,False,Recorrente
+0b005401,Fonseca Ltda.,2024-12-12,2024-12-27,2134.54,Boleto,Mensal,False,Recorrente
+03c2b056,Barros e Filhos,2024-12-26,2024-12-26,545.11,Pix,Mensal,True,Recorrente
+45634985,Cunha,2024-12-09,2025-01-08,1943.32,Cartão de Crédito,Mensal,True,Recorrente
+b08b706f,Campos,2024-12-08,2025-01-07,2381.25,Boleto,Mensal,False,Recorrente
+5f4fec26,Pastor - EI,2024-12-25,2025-01-24,1676.47,Boleto,Mensal,True,Recorrente
+902a7429,Pastor Câmara S/A,2024-12-28,2025-01-27,1059.42,Pix,Mensal,False,Recorrente
+856edbef,da Conceição S/A,2024-12-07,2025-01-06,811.19,Pix,Mensal,True,Recorrente
+e9c22cb5,Farias S/A,2024-12-24,2025-01-08,169.22,Boleto,Mensal,False,Recorrente
+a4811d07,Nogueira Cardoso e Filhos,2024-12-21,2024-12-21,607.44,Pix,Anual,True,Recorrente
+846ce713,da Cruz,2024-12-16,2024-12-31,1946.35,Cartão de Crédito,Anual,True,Recorrente
+a212a49b,Jesus,2024-12-08,2024-12-23,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+25d44466,Siqueira,2024-12-17,2024-12-17,2161.94,Cartão de Crédito,Mensal,False,Recorrente
+b63ab7f9,Rocha e Filhos,2024-12-30,2025-01-14,1722.75,Boleto,Mensal,True,Recorrente
+338d7fd0,Araújo - ME,2024-12-13,2025-01-12,679.56,Pix,Mensal,False,Recorrente
+bfc7f005,Caldeira,2024-12-12,2025-01-11,2424.3,Pix,Anual,True,Recorrente
+6a8e66fe,Correia Correia - EI,2024-12-25,2025-01-09,627.84,Pix,Mensal,True,Recorrente
+2d5a7ecf,Carvalho,2024-12-01,2024-12-31,1852.77,Boleto,Mensal,True,Recorrente
+fdb0cd70,Cirino,2024-12-01,2024-12-16,1566.87,Boleto,Anual,True,Recorrente
+60678249,Martins,2024-12-02,2024-12-02,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+bef7c10d,Barbosa Macedo - EI,2024-12-17,2025-01-01,590.37,Cartão de Crédito,Mensal,False,Recorrente
+5192569c,Aragão e Filhos,2024-12-14,2025-01-13,360.6,Pix,Mensal,False,Recorrente
+34e67ada,Jesus Mendonça - ME,2024-12-03,2025-01-02,548.52,Cartão de Crédito,Anual,True,Recorrente
+8505fb60,Guerra Araújo S.A.,2024-12-09,2024-12-09,1308.84,Boleto,Mensal,False,Recorrente
+d8a3e8b4,Abreu,2024-12-03,2025-01-02,1287.94,Boleto,Mensal,True,Recorrente
+e5978950,da Luz,2024-12-26,2024-12-26,828.38,Cartão de Crédito,Mensal,False,Recorrente
+c275f115,da Paz,2024-12-13,2025-01-12,416.05,Boleto,Anual,True,Recorrente
+2ecf00c3,Sampaio,2024-12-10,2025-01-09,1928.45,Pix,Anual,False,Recorrente
+e02b2e3c,Aragão - EI,2024-12-08,2024-12-08,2139.2,Boleto,Avulso,False,Novo/Avulso
+0c071675,Montenegro,2024-12-10,2025-01-09,1588.9,Boleto,Mensal,True,Novo/Avulso
+6b3f83b0,Araújo Moraes S/A,2024-12-01,2024-12-01,1813.57,Pix,Mensal,False,Novo/Avulso
+b6f95f8a,Azevedo Peixoto S/A,2024-12-09,2024-12-09,1379.06,Pix,Avulso,False,Novo/Avulso
+48c6febe,Guerra Campos - EI,2024-12-24,2024-12-24,1985.64,Cartão de Crédito,Mensal,True,Novo/Avulso
+13fbaf0f,Pacheco Peixoto S/A,2024-12-03,2024-12-18,1158.91,Pix,Mensal,True,Novo/Avulso
+f2d75bed,Leão e Filhos,2024-12-16,2025-01-15,1350.34,Boleto,Mensal,True,Novo/Avulso
+89ac17a3,Alves e Filhos,2025-01-02,2025-01-02,208.78,Cartão de Crédito,Anual,False,Recorrente
+3c6c83cf,Alves S/A,2025-01-03,2025-01-03,655.99,Cartão de Crédito,Mensal,True,Recorrente
+1a98514b,da Conceição Montenegro - EI,2025-01-29,2025-02-28,2141.61,Pix,Mensal,False,Recorrente
+9201c61e,Câmara,2025-01-23,2025-02-07,984.89,Pix,Mensal,False,Recorrente
+a480c970,Pastor,2025-01-24,2025-01-24,552.18,Pix,Anual,True,Recorrente
+581c0ec8,Ferreira,2025-01-17,2025-01-17,1979.77,Pix,Anual,False,Recorrente
+2c1c1fce,Aparecida,2025-01-03,2025-02-02,1366.3,Boleto,Mensal,True,Recorrente
+a19a4adc,Nascimento,2025-01-14,2025-02-13,1532.53,Boleto,Mensal,True,Recorrente
+74aa0dc8,Garcia S/A,2025-01-08,2025-01-23,1633.09,Boleto,Mensal,False,Recorrente
+e0188966,Pires,2025-01-28,2025-02-12,2498.31,Boleto,Mensal,False,Recorrente
+c4ec4c83,Oliveira,2025-01-23,2025-02-22,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+5061b324,Santos Azevedo S/A,2025-01-11,2025-01-26,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+8f7b0056,Vargas da Rocha S/A,2025-01-08,2025-01-08,650.91,Cartão de Crédito,Mensal,True,Recorrente
+dd756d5a,Porto,2025-01-05,2025-02-04,2470.0,Pix,Anual,True,Recorrente
+4e8b77cf,Pereira e Filhos,2025-01-05,2025-01-05,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+b825e3c5,Martins Garcia Ltda.,2025-01-15,2025-01-30,2387.2,Boleto,Mensal,False,Recorrente
+7317dc82,Andrade Dias - ME,2025-01-14,2025-01-14,2232.42,Pix,Mensal,False,Recorrente
+d78074ff,Azevedo,2025-01-31,2025-01-31,723.36,Pix,Mensal,False,Recorrente
+43154b84,Casa Grande,2025-01-10,2025-01-25,1234.99,Boleto,Mensal,False,Recorrente
+a81c8e7e,Carvalho,2025-01-28,2025-01-28,918.09,Cartão de Crédito,Mensal,True,Recorrente
+351bdb32,Souza,2025-01-06,2025-02-05,598.98,Boleto,Anual,False,Recorrente
+7a23e224,Pacheco,2025-01-27,2025-02-26,714.76,Cartão de Crédito,Anual,True,Recorrente
+7452239c,Fonseca,2025-01-07,2025-01-22,190.52,Cartão de Crédito,Mensal,True,Recorrente
+814ae76b,Sá S/A,2025-01-03,2025-02-02,1429.72,Pix,Mensal,True,Recorrente
+c6163d5e,Cassiano e Filhos,2025-01-31,2025-02-15,539.92,Cartão de Crédito,Mensal,False,Recorrente
+166cc650,Vieira Rodrigues - ME,2025-01-17,2025-01-17,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+335682d6,Moura,2025-01-09,2025-01-09,906.18,Boleto,Mensal,True,Recorrente
+349fc7ad,Novaes,2025-01-31,2025-02-15,1972.53,Boleto,Mensal,False,Recorrente
+a24fb56d,Vargas,2025-01-18,2025-02-17,2296.69,Boleto,Anual,True,Recorrente
+197a2590,Montenegro,2025-01-04,2025-01-19,339.86,Pix,Mensal,True,Recorrente
+a1c87fe8,Montenegro Caldeira e Filhos,2025-01-26,2025-01-26,1637.73,Pix,Mensal,True,Recorrente
+02990754,Cassiano Freitas S.A.,2025-01-01,2025-01-01,1799.18,Pix,Mensal,True,Recorrente
+c36d0389,Almeida,2025-01-05,2025-01-05,913.21,Pix,Mensal,False,Recorrente
+9a1d3541,Fonseca Ltda.,2025-01-12,2025-02-11,2134.54,Boleto,Mensal,True,Recorrente
+a32aeb6d,Barros e Filhos,2025-01-19,2025-02-18,545.11,Pix,Mensal,False,Recorrente
+fb86b14f,Cunha,2025-01-30,2025-01-30,1943.32,Cartão de Crédito,Mensal,True,Recorrente
+759b8650,Campos,2025-01-03,2025-01-03,2381.25,Boleto,Mensal,False,Recorrente
+3abcd994,Pastor Câmara S/A,2025-01-26,2025-01-26,1059.42,Pix,Mensal,True,Recorrente
+c8742dd9,da Conceição S/A,2025-01-29,2025-02-13,811.19,Pix,Mensal,True,Recorrente
+869ce785,Farias S/A,2025-01-02,2025-01-17,169.22,Boleto,Mensal,True,Recorrente
+ec53e3ed,Nogueira Cardoso e Filhos,2025-01-06,2025-02-05,607.44,Pix,Anual,False,Recorrente
+f24cea0d,da Cruz,2025-01-27,2025-02-26,1946.35,Cartão de Crédito,Anual,False,Recorrente
+15d1b95a,Jesus,2025-01-16,2025-01-16,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+ee68e886,Siqueira,2025-01-22,2025-02-06,2161.94,Cartão de Crédito,Mensal,True,Recorrente
+299c6c92,Rocha e Filhos,2025-01-12,2025-01-12,1722.75,Boleto,Mensal,True,Recorrente
+ed844c30,Araújo - ME,2025-01-09,2025-01-24,679.56,Pix,Mensal,False,Recorrente
+8715ac9a,Caldeira,2025-01-29,2025-01-29,2424.3,Pix,Anual,True,Recorrente
+2af4f62e,Correia Correia - EI,2025-01-20,2025-02-19,627.84,Pix,Mensal,True,Recorrente
+9c603dd7,Carvalho,2025-01-21,2025-02-05,1852.77,Boleto,Mensal,False,Recorrente
+d87cd09c,Martins,2025-01-14,2025-02-13,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+7f612eec,Barbosa Macedo - EI,2025-01-02,2025-01-02,590.37,Cartão de Crédito,Mensal,False,Recorrente
+20627fe6,Aragão e Filhos,2025-01-13,2025-01-13,360.6,Pix,Mensal,False,Recorrente
+0aa870b1,Jesus Mendonça - ME,2025-01-07,2025-02-06,548.52,Cartão de Crédito,Anual,True,Recorrente
+7766ca24,Guerra Araújo S.A.,2025-01-21,2025-02-20,1308.84,Boleto,Mensal,True,Recorrente
+55e557ca,Abreu,2025-01-13,2025-02-12,1287.94,Boleto,Mensal,False,Recorrente
+b43e4301,da Paz,2025-01-16,2025-02-15,416.05,Boleto,Anual,False,Recorrente
+6fe04a01,Sampaio,2025-01-12,2025-02-11,1928.45,Pix,Anual,False,Recorrente
+99222baa,Montenegro,2025-01-13,2025-01-28,1588.9,Boleto,Mensal,True,Recorrente
+aa39a0bf,Araújo Moraes S/A,2025-01-01,2025-01-16,1813.57,Pix,Mensal,True,Recorrente
+a60e1f6b,Guerra Campos - EI,2025-01-01,2025-01-16,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+b6532361,Pacheco Peixoto S/A,2025-01-26,2025-02-10,1158.91,Pix,Mensal,False,Recorrente
+9a174a8b,Leão e Filhos,2025-01-25,2025-02-24,1350.34,Boleto,Mensal,True,Recorrente
+314a5b29,da Luz,2025-01-08,2025-01-23,385.32,Pix,Avulso,True,Novo/Avulso
+049c3aea,Rios Silva Ltda.,2025-01-28,2025-02-12,2377.34,Pix,Avulso,False,Novo/Avulso
+4ef1e512,da Luz Gonçalves S.A.,2025-01-06,2025-01-06,2480.12,Boleto,Avulso,False,Novo/Avulso
+bb4e9537,Marques,2025-01-01,2025-01-31,1789.42,Pix,Avulso,False,Novo/Avulso
+d6a495f0,Sá,2025-01-31,2025-01-31,1474.48,Pix,Avulso,False,Novo/Avulso
+34c15e49,Albuquerque - ME,2025-01-03,2025-01-03,562.56,Boleto,Anual,True,Novo/Avulso
+34eb8861,Barbosa - EI,2025-01-01,2025-01-16,196.83,Cartão de Crédito,Anual,True,Novo/Avulso
+d8679326,Alves e Filhos,2025-02-02,2025-02-17,208.78,Cartão de Crédito,Anual,False,Recorrente
+0eaa9ea2,Alves S/A,2025-02-24,2025-03-11,655.99,Cartão de Crédito,Mensal,True,Recorrente
+145912c4,da Conceição Montenegro - EI,2025-02-14,2025-03-01,2141.61,Pix,Mensal,False,Recorrente
+76ee5aed,Câmara,2025-02-12,2025-03-14,984.89,Pix,Mensal,False,Recorrente
+c9935277,Pastor,2025-02-04,2025-02-19,552.18,Pix,Anual,True,Recorrente
+2cee52d2,Ferreira,2025-02-06,2025-02-21,1979.77,Pix,Anual,True,Recorrente
+680ec734,Aparecida,2025-02-26,2025-02-26,1366.3,Boleto,Mensal,False,Recorrente
+a97325fc,Nascimento,2025-02-01,2025-02-16,1532.53,Boleto,Mensal,False,Recorrente
+b17f1121,Garcia S/A,2025-02-04,2025-02-04,1633.09,Boleto,Mensal,False,Recorrente
+64c076a7,Pires,2025-02-06,2025-02-21,2498.31,Boleto,Mensal,True,Recorrente
+087cf9ae,Oliveira,2025-02-24,2025-02-24,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+22bfc096,Santos Azevedo S/A,2025-02-11,2025-03-13,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+dbff65cd,Vargas da Rocha S/A,2025-02-23,2025-02-23,650.91,Cartão de Crédito,Mensal,False,Recorrente
+1dc8afa9,Porto,2025-02-21,2025-02-21,2470.0,Pix,Anual,False,Recorrente
+97367df3,Pereira e Filhos,2025-02-06,2025-02-06,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+2573d032,Martins Garcia Ltda.,2025-02-11,2025-02-11,2387.2,Boleto,Mensal,True,Recorrente
+9f96e200,Andrade Dias - ME,2025-02-14,2025-03-16,2232.42,Pix,Mensal,False,Recorrente
+5370ac71,Azevedo,2025-02-22,2025-03-09,723.36,Pix,Mensal,False,Recorrente
+4359bc49,Casa Grande,2025-02-08,2025-02-08,1234.99,Boleto,Mensal,True,Recorrente
+808aed4a,Carvalho,2025-02-13,2025-03-15,918.09,Cartão de Crédito,Mensal,False,Recorrente
+04ba74e4,Souza,2025-02-05,2025-02-05,598.98,Boleto,Anual,False,Recorrente
+8fc2641b,Pacheco,2025-02-01,2025-02-16,714.76,Cartão de Crédito,Anual,True,Recorrente
+1818cbfe,Fonseca,2025-02-10,2025-03-12,190.52,Cartão de Crédito,Mensal,False,Recorrente
+c1cd443e,Sá S/A,2025-02-07,2025-02-07,1429.72,Pix,Mensal,True,Recorrente
+aac4af56,Cassiano e Filhos,2025-02-07,2025-02-07,539.92,Cartão de Crédito,Mensal,False,Recorrente
+dd8d1a1f,Vieira Rodrigues - ME,2025-02-03,2025-02-18,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+7bd9c3c5,Moura,2025-02-10,2025-02-25,906.18,Boleto,Mensal,False,Recorrente
+4dd6b5bb,Novaes,2025-02-16,2025-03-18,1972.53,Boleto,Mensal,False,Recorrente
+bfdf90cd,Vargas,2025-02-03,2025-03-05,2296.69,Boleto,Anual,False,Recorrente
+d9f77859,Montenegro,2025-02-06,2025-02-21,339.86,Pix,Mensal,False,Recorrente
+d9a61bfc,Montenegro Caldeira e Filhos,2025-02-12,2025-02-12,1637.73,Pix,Mensal,False,Recorrente
+33dd7dcd,Cassiano Freitas S.A.,2025-02-02,2025-02-17,1799.18,Pix,Mensal,False,Recorrente
+e36f2cdf,Almeida,2025-02-15,2025-03-02,913.21,Pix,Mensal,True,Recorrente
+279d889e,Fonseca Ltda.,2025-02-27,2025-03-14,2134.54,Boleto,Mensal,True,Recorrente
+57bd2a52,Barros e Filhos,2025-02-05,2025-03-07,545.11,Pix,Mensal,True,Recorrente
+64e640a7,Campos,2025-02-03,2025-03-05,2381.25,Boleto,Mensal,False,Recorrente
+5b8ced82,Pastor Câmara S/A,2025-02-26,2025-03-28,1059.42,Pix,Mensal,False,Recorrente
+19873b13,da Conceição S/A,2025-02-25,2025-03-27,811.19,Pix,Mensal,True,Recorrente
+f1669975,Farias S/A,2025-02-18,2025-02-18,169.22,Boleto,Mensal,False,Recorrente
+be3262a3,Nogueira Cardoso e Filhos,2025-02-27,2025-03-29,607.44,Pix,Anual,False,Recorrente
+b3f99872,da Cruz,2025-02-18,2025-03-20,1946.35,Cartão de Crédito,Anual,False,Recorrente
+7b807d58,Jesus,2025-02-19,2025-02-19,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+06b6e570,Siqueira,2025-02-10,2025-02-10,2161.94,Cartão de Crédito,Mensal,False,Recorrente
+5e34b2da,Rocha e Filhos,2025-02-28,2025-03-30,1722.75,Boleto,Mensal,True,Recorrente
+8f65eb8c,Araújo - ME,2025-02-17,2025-03-19,679.56,Pix,Mensal,True,Recorrente
+b450b92e,Caldeira,2025-02-04,2025-02-19,2424.3,Pix,Anual,True,Recorrente
+33a3a822,Correia Correia - EI,2025-02-06,2025-02-06,627.84,Pix,Mensal,True,Recorrente
+1c0a772f,Carvalho,2025-02-05,2025-02-05,1852.77,Boleto,Mensal,False,Recorrente
+ab7c3d58,Martins,2025-02-03,2025-03-05,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+52456494,Barbosa Macedo - EI,2025-02-07,2025-03-09,590.37,Cartão de Crédito,Mensal,True,Recorrente
+acfd3785,Aragão e Filhos,2025-02-27,2025-03-29,360.6,Pix,Mensal,False,Recorrente
+0e72885a,Jesus Mendonça - ME,2025-02-11,2025-03-13,548.52,Cartão de Crédito,Anual,True,Recorrente
+4cb58533,Guerra Araújo S.A.,2025-02-03,2025-02-18,1308.84,Boleto,Mensal,False,Recorrente
+e9bfefb3,Abreu,2025-02-18,2025-03-05,1287.94,Boleto,Mensal,False,Recorrente
+f3875eae,da Paz,2025-02-17,2025-03-04,416.05,Boleto,Anual,True,Recorrente
+3b977db2,Sampaio,2025-02-26,2025-03-28,1928.45,Pix,Anual,False,Recorrente
+b755b37a,Montenegro,2025-02-04,2025-02-19,1588.9,Boleto,Mensal,True,Recorrente
+d2128ccd,Guerra Campos - EI,2025-02-05,2025-03-07,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+2a1f8c32,Pacheco Peixoto S/A,2025-02-04,2025-03-06,1158.91,Pix,Mensal,True,Recorrente
+3cc35480,Leão e Filhos,2025-02-26,2025-03-13,1350.34,Boleto,Mensal,False,Recorrente
+eee19154,Albuquerque - ME,2025-02-14,2025-03-01,562.56,Boleto,Anual,False,Recorrente
+69549ec6,Barbosa - EI,2025-02-21,2025-03-08,196.83,Cartão de Crédito,Anual,False,Recorrente
+730dc7e0,Montenegro da Luz S.A.,2025-02-20,2025-03-22,797.22,Boleto,Mensal,False,Novo/Avulso
+8ffe3065,Azevedo,2025-02-23,2025-02-23,2240.5,Cartão de Crédito,Mensal,True,Novo/Avulso
+106eb53d,Freitas da Paz S.A.,2025-02-01,2025-02-16,2313.96,Cartão de Crédito,Avulso,False,Novo/Avulso
+21f00912,Nogueira,2025-02-22,2025-02-22,2130.69,Pix,Mensal,True,Novo/Avulso
+a2e01245,Pimenta,2025-02-25,2025-03-12,2439.42,Cartão de Crédito,Mensal,False,Novo/Avulso
+6815a899,Rios - EI,2025-02-07,2025-02-22,1571.7,Boleto,Avulso,True,Novo/Avulso
+c5279a15,Ribeiro,2025-02-25,2025-03-27,1106.85,Cartão de Crédito,Avulso,False,Novo/Avulso
+ea86fecd,Alves e Filhos,2025-03-27,2025-04-11,208.78,Cartão de Crédito,Anual,False,Recorrente
+0f0074f6,Alves S/A,2025-03-10,2025-04-09,655.99,Cartão de Crédito,Mensal,True,Recorrente
+e4be7865,da Conceição Montenegro - EI,2025-03-16,2025-03-16,2141.61,Pix,Mensal,False,Recorrente
+cd9d39a9,Câmara,2025-03-09,2025-04-08,984.89,Pix,Mensal,False,Recorrente
+e7845e91,Pastor,2025-03-28,2025-04-12,552.18,Pix,Anual,False,Recorrente
+77b7e8e5,Ferreira,2025-03-21,2025-04-20,1979.77,Pix,Anual,False,Recorrente
+8fd16781,Aparecida,2025-03-07,2025-03-07,1366.3,Boleto,Mensal,True,Recorrente
+0da01041,Nascimento,2025-03-29,2025-03-29,1532.53,Boleto,Mensal,False,Recorrente
+63e2ea98,Pires,2025-03-22,2025-04-06,2498.31,Boleto,Mensal,True,Recorrente
+17649235,Oliveira,2025-03-24,2025-03-24,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+e393d381,Santos Azevedo S/A,2025-03-10,2025-03-25,2465.48,Cartão de Crédito,Mensal,False,Recorrente
+c50fe2ae,Vargas da Rocha S/A,2025-03-13,2025-03-28,650.91,Cartão de Crédito,Mensal,True,Recorrente
+0a439cf8,Porto,2025-03-19,2025-04-18,2470.0,Pix,Anual,True,Recorrente
+165bb1fd,Pereira e Filhos,2025-03-11,2025-04-10,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+6b9f9d78,Martins Garcia Ltda.,2025-03-22,2025-04-21,2387.2,Boleto,Mensal,False,Recorrente
+2c06e66e,Andrade Dias - ME,2025-03-30,2025-04-29,2232.42,Pix,Mensal,False,Recorrente
+a0de1fd7,Azevedo,2025-03-17,2025-04-01,723.36,Pix,Mensal,True,Recorrente
+68af8cf2,Casa Grande,2025-03-27,2025-04-26,1234.99,Boleto,Mensal,True,Recorrente
+e92186d4,Carvalho,2025-03-10,2025-03-10,918.09,Cartão de Crédito,Mensal,False,Recorrente
+1e839c99,Souza,2025-03-05,2025-04-04,598.98,Boleto,Anual,False,Recorrente
+69580a8e,Pacheco,2025-03-24,2025-04-23,714.76,Cartão de Crédito,Anual,True,Recorrente
+88166206,Fonseca,2025-03-31,2025-04-30,190.52,Cartão de Crédito,Mensal,False,Recorrente
+07af4dc8,Sá S/A,2025-03-21,2025-03-21,1429.72,Pix,Mensal,True,Recorrente
+21595665,Cassiano e Filhos,2025-03-12,2025-03-12,539.92,Cartão de Crédito,Mensal,False,Recorrente
+cbd7fdaf,Vieira Rodrigues - ME,2025-03-14,2025-03-29,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+a18861ca,Moura,2025-03-09,2025-04-08,906.18,Boleto,Mensal,False,Recorrente
+d9850d15,Novaes,2025-03-15,2025-03-15,1972.53,Boleto,Mensal,False,Recorrente
+30d388fa,Vargas,2025-03-02,2025-04-01,2296.69,Boleto,Anual,True,Recorrente
+72d23173,Montenegro,2025-03-16,2025-03-16,339.86,Pix,Mensal,True,Recorrente
+4505c808,Montenegro Caldeira e Filhos,2025-03-28,2025-04-27,1637.73,Pix,Mensal,False,Recorrente
+3aa54f8a,Cassiano Freitas S.A.,2025-03-17,2025-04-01,1799.18,Pix,Mensal,False,Recorrente
+ec493406,Almeida,2025-03-02,2025-03-02,913.21,Pix,Mensal,True,Recorrente
+09a70c98,Fonseca Ltda.,2025-03-07,2025-03-22,2134.54,Boleto,Mensal,False,Recorrente
+352a1561,Barros e Filhos,2025-03-19,2025-04-03,545.11,Pix,Mensal,True,Recorrente
+d82ca651,Campos,2025-03-11,2025-04-10,2381.25,Boleto,Mensal,True,Recorrente
+4af8ecec,Pastor Câmara S/A,2025-03-25,2025-03-25,1059.42,Pix,Mensal,False,Recorrente
+47b9b68d,da Conceição S/A,2025-03-11,2025-04-10,811.19,Pix,Mensal,True,Recorrente
+f505daaf,Farias S/A,2025-03-11,2025-04-10,169.22,Boleto,Mensal,True,Recorrente
+ed4c5891,Nogueira Cardoso e Filhos,2025-03-01,2025-03-16,607.44,Pix,Anual,False,Recorrente
+7750b4d5,da Cruz,2025-03-07,2025-03-07,1946.35,Cartão de Crédito,Anual,True,Recorrente
+91a307c8,Jesus,2025-03-16,2025-03-16,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+83aaa8a5,Rocha e Filhos,2025-03-20,2025-04-04,1722.75,Boleto,Mensal,False,Recorrente
+59e68c49,Araújo - ME,2025-03-13,2025-03-28,679.56,Pix,Mensal,False,Recorrente
+ac33ef16,Correia Correia - EI,2025-03-13,2025-03-13,627.84,Pix,Mensal,True,Recorrente
+3c3e292e,Carvalho,2025-03-18,2025-03-18,1852.77,Boleto,Mensal,False,Recorrente
+452e89ec,Martins,2025-03-31,2025-03-31,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+ece2e976,Aragão e Filhos,2025-03-25,2025-04-24,360.6,Pix,Mensal,True,Recorrente
+cbfdb11b,Jesus Mendonça - ME,2025-03-01,2025-03-31,548.52,Cartão de Crédito,Anual,True,Recorrente
+5b1d6b07,Guerra Araújo S.A.,2025-03-21,2025-04-20,1308.84,Boleto,Mensal,True,Recorrente
+48acd634,Abreu,2025-03-08,2025-04-07,1287.94,Boleto,Mensal,False,Recorrente
+31da9df4,da Paz,2025-03-10,2025-03-10,416.05,Boleto,Anual,True,Recorrente
+4aeaefc2,Sampaio,2025-03-13,2025-04-12,1928.45,Pix,Anual,False,Recorrente
+214536d8,Montenegro,2025-03-06,2025-03-06,1588.9,Boleto,Mensal,True,Recorrente
+2c9a7ec1,Guerra Campos - EI,2025-03-10,2025-03-25,1985.64,Cartão de Crédito,Mensal,False,Recorrente
+4f27027b,Pacheco Peixoto S/A,2025-03-24,2025-04-23,1158.91,Pix,Mensal,False,Recorrente
+aa5caa8e,Leão e Filhos,2025-03-14,2025-04-13,1350.34,Boleto,Mensal,True,Recorrente
+dbe0e1d2,Albuquerque - ME,2025-03-11,2025-03-26,562.56,Boleto,Anual,False,Recorrente
+e0699661,Barbosa - EI,2025-03-25,2025-03-25,196.83,Cartão de Crédito,Anual,True,Recorrente
+dc3ebbcf,Montenegro da Luz S.A.,2025-03-31,2025-04-15,797.22,Boleto,Mensal,True,Recorrente
+e89ff500,Azevedo,2025-03-08,2025-03-08,2240.5,Cartão de Crédito,Mensal,True,Recorrente
+e265335f,Nogueira,2025-03-07,2025-04-06,2130.69,Pix,Mensal,True,Recorrente
+163dd99d,Pimenta,2025-03-19,2025-04-18,2439.42,Cartão de Crédito,Mensal,True,Recorrente
+2380fcaf,Carvalho Ltda.,2025-03-13,2025-04-12,1821.11,Boleto,Mensal,False,Novo/Avulso
+25fd7d5c,Caldeira e Filhos,2025-03-02,2025-04-01,1614.37,Pix,Avulso,True,Novo/Avulso
+ff8b6c23,da Mata da Paz - EI,2025-03-04,2025-03-19,196.39,Pix,Anual,False,Novo/Avulso
+4ed56f73,Silva Fernandes S.A.,2025-03-23,2025-03-23,1436.11,Cartão de Crédito,Mensal,True,Novo/Avulso
+3109ca33,Montenegro,2025-03-14,2025-04-13,1631.23,Cartão de Crédito,Anual,True,Novo/Avulso
+916962d7,da Cunha,2025-03-23,2025-03-23,784.45,Pix,Anual,False,Novo/Avulso
+9ce0de4f,Borges e Filhos,2025-03-20,2025-03-20,396.55,Pix,Avulso,False,Novo/Avulso
+f3f783ec,da Mota,2025-03-20,2025-03-20,399.72,Boleto,Mensal,False,Novo/Avulso
+6affc98f,Alves e Filhos,2025-04-29,2025-04-29,208.78,Cartão de Crédito,Anual,False,Recorrente
+180801ff,Alves S/A,2025-04-30,2025-05-15,655.99,Cartão de Crédito,Mensal,True,Recorrente
+a23dda5e,da Conceição Montenegro - EI,2025-04-29,2025-05-14,2141.61,Pix,Mensal,False,Recorrente
+a01cc07c,Câmara,2025-04-02,2025-04-02,984.89,Pix,Mensal,False,Recorrente
+8dde6e2d,Pastor,2025-04-21,2025-05-06,552.18,Pix,Anual,True,Recorrente
+80bd581f,Ferreira,2025-04-23,2025-05-23,1979.77,Pix,Anual,True,Recorrente
+69533cb1,Aparecida,2025-04-22,2025-05-07,1366.3,Boleto,Mensal,True,Recorrente
+c98b6f19,Nascimento,2025-04-14,2025-05-14,1532.53,Boleto,Mensal,True,Recorrente
+d1fabb0d,Pires,2025-04-16,2025-05-01,2498.31,Boleto,Mensal,False,Recorrente
+4b940d35,Oliveira,2025-04-05,2025-05-05,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+2833b832,Vargas da Rocha S/A,2025-04-01,2025-05-01,650.91,Cartão de Crédito,Mensal,True,Recorrente
+d0fe2f37,Porto,2025-04-17,2025-05-02,2470.0,Pix,Anual,False,Recorrente
+60d07025,Pereira e Filhos,2025-04-28,2025-04-28,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+b6c301f2,Martins Garcia Ltda.,2025-04-25,2025-05-10,2387.2,Boleto,Mensal,False,Recorrente
+9445d3ad,Andrade Dias - ME,2025-04-08,2025-04-23,2232.42,Pix,Mensal,False,Recorrente
+5d2908ce,Azevedo,2025-04-02,2025-05-02,723.36,Pix,Mensal,True,Recorrente
+27b49267,Casa Grande,2025-04-18,2025-05-18,1234.99,Boleto,Mensal,False,Recorrente
+f90daa15,Carvalho,2025-04-13,2025-04-13,918.09,Cartão de Crédito,Mensal,True,Recorrente
+331838cb,Souza,2025-04-15,2025-04-30,598.98,Boleto,Anual,False,Recorrente
+0cedc1e0,Pacheco,2025-04-03,2025-04-18,714.76,Cartão de Crédito,Anual,False,Recorrente
+83681551,Fonseca,2025-04-11,2025-04-11,190.52,Cartão de Crédito,Mensal,False,Recorrente
+d80492ac,Sá S/A,2025-04-24,2025-05-24,1429.72,Pix,Mensal,True,Recorrente
+fdeb508f,Cassiano e Filhos,2025-04-04,2025-04-19,539.92,Cartão de Crédito,Mensal,False,Recorrente
+55c14ee0,Vieira Rodrigues - ME,2025-04-02,2025-05-02,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+e51eb95b,Moura,2025-04-27,2025-04-27,906.18,Boleto,Mensal,False,Recorrente
+e1712175,Novaes,2025-04-29,2025-05-29,1972.53,Boleto,Mensal,True,Recorrente
+e0e7742a,Vargas,2025-04-21,2025-05-21,2296.69,Boleto,Anual,False,Recorrente
+667204ae,Montenegro,2025-04-11,2025-04-26,339.86,Pix,Mensal,True,Recorrente
+31dfc110,Montenegro Caldeira e Filhos,2025-04-27,2025-04-27,1637.73,Pix,Mensal,False,Recorrente
+85b5e9d5,Cassiano Freitas S.A.,2025-04-11,2025-05-11,1799.18,Pix,Mensal,False,Recorrente
+38978eef,Almeida,2025-04-23,2025-05-23,913.21,Pix,Mensal,False,Recorrente
+2c6837a9,Fonseca Ltda.,2025-04-23,2025-05-08,2134.54,Boleto,Mensal,True,Recorrente
+0f0fc696,Barros e Filhos,2025-04-04,2025-05-04,545.11,Pix,Mensal,True,Recorrente
+cc95f7e1,Pastor Câmara S/A,2025-04-01,2025-04-16,1059.42,Pix,Mensal,False,Recorrente
+5814ad63,da Conceição S/A,2025-04-27,2025-05-27,811.19,Pix,Mensal,False,Recorrente
+153aee61,Farias S/A,2025-04-18,2025-05-18,169.22,Boleto,Mensal,False,Recorrente
+4e958eba,Nogueira Cardoso e Filhos,2025-04-23,2025-04-23,607.44,Pix,Anual,True,Recorrente
+be8aa2c4,da Cruz,2025-04-29,2025-04-29,1946.35,Cartão de Crédito,Anual,False,Recorrente
+8faa4228,Jesus,2025-04-05,2025-05-05,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+acefac16,Rocha e Filhos,2025-04-04,2025-04-19,1722.75,Boleto,Mensal,True,Recorrente
+0bf31c74,Araújo - ME,2025-04-07,2025-04-07,679.56,Pix,Mensal,False,Recorrente
+2a5b7480,Correia Correia - EI,2025-04-07,2025-04-22,627.84,Pix,Mensal,True,Recorrente
+94b901c5,Carvalho,2025-04-23,2025-05-08,1852.77,Boleto,Mensal,True,Recorrente
+1e08e1a4,Martins,2025-04-25,2025-05-10,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+06b9ff1a,Aragão e Filhos,2025-04-30,2025-05-30,360.6,Pix,Mensal,True,Recorrente
+3677c5f8,Jesus Mendonça - ME,2025-04-25,2025-05-10,548.52,Cartão de Crédito,Anual,False,Recorrente
+75166410,Guerra Araújo S.A.,2025-04-22,2025-05-22,1308.84,Boleto,Mensal,True,Recorrente
+669265d9,Abreu,2025-04-16,2025-04-16,1287.94,Boleto,Mensal,True,Recorrente
+84858f1f,da Paz,2025-04-18,2025-05-03,416.05,Boleto,Anual,False,Recorrente
+2084c9a6,Sampaio,2025-04-30,2025-05-30,1928.45,Pix,Anual,True,Recorrente
+344fc27b,Montenegro,2025-04-23,2025-05-23,1588.9,Boleto,Mensal,True,Recorrente
+feeefabc,Guerra Campos - EI,2025-04-24,2025-04-24,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+4f4a757c,Pacheco Peixoto S/A,2025-04-13,2025-05-13,1158.91,Pix,Mensal,False,Recorrente
+22581dd3,Leão e Filhos,2025-04-17,2025-05-02,1350.34,Boleto,Mensal,False,Recorrente
+ba6ec4e6,Albuquerque - ME,2025-04-20,2025-05-20,562.56,Boleto,Anual,True,Recorrente
+c25a4b41,Barbosa - EI,2025-04-09,2025-04-24,196.83,Cartão de Crédito,Anual,False,Recorrente
+a9429b21,Montenegro da Luz S.A.,2025-04-10,2025-04-25,797.22,Boleto,Mensal,True,Recorrente
+8b49115f,Azevedo,2025-04-05,2025-04-20,2240.5,Cartão de Crédito,Mensal,False,Recorrente
+3477877f,Nogueira,2025-04-27,2025-05-27,2130.69,Pix,Mensal,False,Recorrente
+2678ca25,Pimenta,2025-04-23,2025-05-23,2439.42,Cartão de Crédito,Mensal,True,Recorrente
+3681eb92,Carvalho Ltda.,2025-04-07,2025-04-07,1821.11,Boleto,Mensal,False,Recorrente
+c7e0a8a6,da Mata da Paz - EI,2025-04-22,2025-05-07,196.39,Pix,Anual,True,Recorrente
+6cfd0a10,Silva Fernandes S.A.,2025-04-23,2025-05-23,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+39a65a71,Montenegro,2025-04-17,2025-05-17,1631.23,Cartão de Crédito,Anual,False,Recorrente
+157e07ff,da Cunha,2025-04-23,2025-04-23,784.45,Pix,Anual,False,Recorrente
+7599bda1,da Mota,2025-04-18,2025-05-03,399.72,Boleto,Mensal,False,Recorrente
+7c387b70,Abreu Ltda.,2025-04-10,2025-04-25,2250.59,Pix,Anual,True,Novo/Avulso
+7d39c655,Porto da Luz S.A.,2025-04-02,2025-05-02,209.39,Boleto,Anual,True,Novo/Avulso
+9c4d55f6,Novaes,2025-04-10,2025-05-10,1912.93,Boleto,Mensal,False,Novo/Avulso
+be19e12c,Novais,2025-04-07,2025-05-07,295.78,Cartão de Crédito,Mensal,True,Novo/Avulso
+adf110fc,Camargo S/A,2025-04-28,2025-05-28,1213.6,Pix,Mensal,True,Novo/Avulso
+e243796e,Nogueira Andrade Ltda.,2025-04-17,2025-05-17,1468.99,Boleto,Avulso,False,Novo/Avulso
+e89f225a,Lopes Cardoso S/A,2025-04-13,2025-04-28,260.4,Cartão de Crédito,Anual,False,Novo/Avulso
+58ed8f93,Fonseca,2025-04-09,2025-04-09,276.44,Pix,Avulso,False,Novo/Avulso
+af38c910,Alves e Filhos,2025-05-29,2025-06-28,208.78,Cartão de Crédito,Anual,True,Recorrente
+8aabd020,Alves S/A,2025-05-11,2025-06-10,655.99,Cartão de Crédito,Mensal,True,Recorrente
+91bfacc8,da Conceição Montenegro - EI,2025-05-31,2025-05-31,2141.61,Pix,Mensal,True,Recorrente
+c9a2f504,Câmara,2025-05-31,2025-06-30,984.89,Pix,Mensal,True,Recorrente
+0553b4cf,Pastor,2025-05-21,2025-05-21,552.18,Pix,Anual,True,Recorrente
+6599836c,Ferreira,2025-05-22,2025-06-21,1979.77,Pix,Anual,True,Recorrente
+c5c3467f,Aparecida,2025-05-28,2025-06-27,1366.3,Boleto,Mensal,False,Recorrente
+a8212a39,Nascimento,2025-05-27,2025-05-27,1532.53,Boleto,Mensal,True,Recorrente
+df4fd8aa,Pires,2025-05-18,2025-06-17,2498.31,Boleto,Mensal,False,Recorrente
+4dbbb5aa,Oliveira,2025-05-21,2025-05-21,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+47bd098b,Vargas da Rocha S/A,2025-05-01,2025-05-16,650.91,Cartão de Crédito,Mensal,False,Recorrente
+7b939d20,Porto,2025-05-02,2025-05-02,2470.0,Pix,Anual,True,Recorrente
+7a214549,Pereira e Filhos,2025-05-02,2025-05-02,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+d01a14e3,Martins Garcia Ltda.,2025-05-18,2025-05-18,2387.2,Boleto,Mensal,True,Recorrente
+f404f55d,Andrade Dias - ME,2025-05-30,2025-06-14,2232.42,Pix,Mensal,False,Recorrente
+f1b67605,Azevedo,2025-05-13,2025-05-28,723.36,Pix,Mensal,False,Recorrente
+ce5bfafb,Casa Grande,2025-05-14,2025-05-29,1234.99,Boleto,Mensal,True,Recorrente
+48935f0a,Carvalho,2025-05-13,2025-06-12,918.09,Cartão de Crédito,Mensal,True,Recorrente
+eca3e67c,Souza,2025-05-18,2025-05-18,598.98,Boleto,Anual,True,Recorrente
+07ea1e87,Pacheco,2025-05-25,2025-06-24,714.76,Cartão de Crédito,Anual,True,Recorrente
+ce57f2e6,Fonseca,2025-05-23,2025-05-23,190.52,Cartão de Crédito,Mensal,False,Recorrente
+b0b61f06,Sá S/A,2025-05-30,2025-06-29,1429.72,Pix,Mensal,True,Recorrente
+bdb24222,Cassiano e Filhos,2025-05-10,2025-06-09,539.92,Cartão de Crédito,Mensal,False,Recorrente
+8226ccf8,Vieira Rodrigues - ME,2025-05-20,2025-05-20,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+eac6a6c1,Moura,2025-05-25,2025-06-09,906.18,Boleto,Mensal,False,Recorrente
+e794af48,Novaes,2025-05-13,2025-06-12,1972.53,Boleto,Mensal,True,Recorrente
+db22f5e0,Vargas,2025-05-16,2025-05-16,2296.69,Boleto,Anual,True,Recorrente
+5e5c8a4a,Montenegro,2025-05-05,2025-06-04,339.86,Pix,Mensal,False,Recorrente
+e06a06dc,Montenegro Caldeira e Filhos,2025-05-26,2025-06-25,1637.73,Pix,Mensal,False,Recorrente
+c6762118,Cassiano Freitas S.A.,2025-05-31,2025-06-30,1799.18,Pix,Mensal,True,Recorrente
+9bd297a3,Almeida,2025-05-10,2025-06-09,913.21,Pix,Mensal,False,Recorrente
+59be4c80,Fonseca Ltda.,2025-05-31,2025-05-31,2134.54,Boleto,Mensal,True,Recorrente
+af7a910c,Barros e Filhos,2025-05-04,2025-05-04,545.11,Pix,Mensal,True,Recorrente
+f226909b,Pastor Câmara S/A,2025-05-19,2025-06-18,1059.42,Pix,Mensal,False,Recorrente
+9c03579d,da Conceição S/A,2025-05-18,2025-06-17,811.19,Pix,Mensal,True,Recorrente
+814283ae,Farias S/A,2025-05-10,2025-05-10,169.22,Boleto,Mensal,False,Recorrente
+4f484ecb,Nogueira Cardoso e Filhos,2025-05-07,2025-05-22,607.44,Pix,Anual,True,Recorrente
+0cb2aa32,da Cruz,2025-05-06,2025-05-06,1946.35,Cartão de Crédito,Anual,True,Recorrente
+49fd4769,Jesus,2025-05-20,2025-06-04,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+c361742b,Rocha e Filhos,2025-05-04,2025-05-04,1722.75,Boleto,Mensal,True,Recorrente
+7c53e7ee,Araújo - ME,2025-05-28,2025-06-27,679.56,Pix,Mensal,False,Recorrente
+913c581e,Correia Correia - EI,2025-05-21,2025-06-20,627.84,Pix,Mensal,True,Recorrente
+f2b143cc,Carvalho,2025-05-10,2025-06-09,1852.77,Boleto,Mensal,True,Recorrente
+e7ab3012,Martins,2025-05-09,2025-05-09,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+6e30160e,Aragão e Filhos,2025-05-24,2025-06-23,360.6,Pix,Mensal,False,Recorrente
+13560086,Jesus Mendonça - ME,2025-05-31,2025-06-15,548.52,Cartão de Crédito,Anual,False,Recorrente
+be64cae3,Guerra Araújo S.A.,2025-05-05,2025-06-04,1308.84,Boleto,Mensal,True,Recorrente
+ddd79785,Abreu,2025-05-04,2025-05-19,1287.94,Boleto,Mensal,True,Recorrente
+a47b2f02,da Paz,2025-05-29,2025-05-29,416.05,Boleto,Anual,False,Recorrente
+1c659c88,Sampaio,2025-05-16,2025-05-31,1928.45,Pix,Anual,False,Recorrente
+c5981e92,Montenegro,2025-05-20,2025-06-19,1588.9,Boleto,Mensal,False,Recorrente
+d8c981f9,Guerra Campos - EI,2025-05-23,2025-06-22,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+f55b9f27,Leão e Filhos,2025-05-19,2025-06-18,1350.34,Boleto,Mensal,False,Recorrente
+3de417e8,Albuquerque - ME,2025-05-26,2025-06-10,562.56,Boleto,Anual,False,Recorrente
+ddb9b6f3,Barbosa - EI,2025-05-06,2025-05-06,196.83,Cartão de Crédito,Anual,False,Recorrente
+4eb2e307,Montenegro da Luz S.A.,2025-05-08,2025-05-08,797.22,Boleto,Mensal,False,Recorrente
+e4a121bb,Azevedo,2025-05-09,2025-05-24,2240.5,Cartão de Crédito,Mensal,True,Recorrente
+4511a27e,Nogueira,2025-05-22,2025-06-21,2130.69,Pix,Mensal,False,Recorrente
+a6fa5314,Pimenta,2025-05-29,2025-06-13,2439.42,Cartão de Crédito,Mensal,False,Recorrente
+42a2fc29,Carvalho Ltda.,2025-05-15,2025-05-30,1821.11,Boleto,Mensal,False,Recorrente
+2db590cb,da Mata da Paz - EI,2025-05-16,2025-06-15,196.39,Pix,Anual,True,Recorrente
+93f9140c,Silva Fernandes S.A.,2025-05-06,2025-06-05,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+00a213fe,Montenegro,2025-05-27,2025-06-11,1631.23,Cartão de Crédito,Anual,True,Recorrente
+94f1ccdf,da Cunha,2025-05-29,2025-06-28,784.45,Pix,Anual,True,Recorrente
+8b32c429,da Mota,2025-05-09,2025-06-08,399.72,Boleto,Mensal,True,Recorrente
+b8610f2d,Abreu Ltda.,2025-05-24,2025-05-24,2250.59,Pix,Anual,True,Recorrente
+be2d083d,Porto da Luz S.A.,2025-05-28,2025-06-27,209.39,Boleto,Anual,True,Recorrente
+7f20ddce,Novaes,2025-05-27,2025-06-26,1912.93,Boleto,Mensal,False,Recorrente
+09200c15,Novais,2025-05-25,2025-06-24,295.78,Cartão de Crédito,Mensal,True,Recorrente
+dd0406c8,Camargo S/A,2025-05-30,2025-05-30,1213.6,Pix,Mensal,False,Recorrente
+73d9a973,Lopes Cardoso S/A,2025-05-18,2025-06-17,260.4,Cartão de Crédito,Anual,False,Recorrente
+89fd835d,Fogaça S.A.,2025-05-08,2025-06-07,499.29,Cartão de Crédito,Anual,False,Novo/Avulso
+749e273a,Rios Caldeira Ltda.,2025-05-13,2025-05-28,1327.64,Boleto,Mensal,True,Novo/Avulso
+e46a5acd,Pinto,2025-05-22,2025-05-22,2142.76,Pix,Anual,True,Novo/Avulso
+92bfe3ca,da Costa Castro S.A.,2025-05-22,2025-05-22,570.99,Pix,Mensal,False,Novo/Avulso
+7d219893,Alves,2025-05-08,2025-05-08,244.99,Cartão de Crédito,Avulso,False,Novo/Avulso
+32aa5503,Sousa Farias - ME,2025-05-17,2025-06-01,250.6,Boleto,Mensal,False,Novo/Avulso
+04b838e1,da Mata Castro e Filhos,2025-05-02,2025-06-01,1218.41,Boleto,Mensal,False,Novo/Avulso
+5bc0fdec,Garcia S/A,2025-05-27,2025-06-11,2425.84,Pix,Mensal,False,Novo/Avulso
+cdb13860,Alves e Filhos,2025-06-29,2025-07-29,208.78,Cartão de Crédito,Anual,True,Recorrente
+514827b7,Alves S/A,2025-06-03,2025-06-18,655.99,Cartão de Crédito,Mensal,True,Recorrente
+2d073720,da Conceição Montenegro - EI,2025-06-29,2025-07-29,2141.61,Pix,Mensal,True,Recorrente
+22061fa4,Câmara,2025-06-29,2025-07-29,984.89,Pix,Mensal,False,Recorrente
+ba00d872,Pastor,2025-06-17,2025-07-02,552.18,Pix,Anual,False,Recorrente
+001f4f02,Ferreira,2025-06-28,2025-06-28,1979.77,Pix,Anual,False,Recorrente
+f570335c,Aparecida,2025-06-08,2025-06-23,1366.3,Boleto,Mensal,False,Recorrente
+17d2c962,Nascimento,2025-06-12,2025-07-12,1532.53,Boleto,Mensal,True,Recorrente
+c58888a2,Pires,2025-06-14,2025-06-14,2498.31,Boleto,Mensal,False,Recorrente
+c43a0886,Oliveira,2025-06-16,2025-06-16,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+10e48bf3,Vargas da Rocha S/A,2025-06-10,2025-07-10,650.91,Cartão de Crédito,Mensal,False,Recorrente
+b00cb56a,Porto,2025-06-09,2025-06-09,2470.0,Pix,Anual,True,Recorrente
+bd6831dd,Pereira e Filhos,2025-06-23,2025-07-23,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+0e18315e,Martins Garcia Ltda.,2025-06-19,2025-07-19,2387.2,Boleto,Mensal,True,Recorrente
+b3c09442,Andrade Dias - ME,2025-06-17,2025-06-17,2232.42,Pix,Mensal,False,Recorrente
+4fd7d366,Casa Grande,2025-06-21,2025-06-21,1234.99,Boleto,Mensal,False,Recorrente
+af8f8590,Carvalho,2025-06-14,2025-06-29,918.09,Cartão de Crédito,Mensal,True,Recorrente
+5633e84a,Souza,2025-06-05,2025-06-20,598.98,Boleto,Anual,False,Recorrente
+b5545c12,Pacheco,2025-06-09,2025-07-09,714.76,Cartão de Crédito,Anual,False,Recorrente
+78d0884e,Fonseca,2025-06-19,2025-07-04,190.52,Cartão de Crédito,Mensal,False,Recorrente
+47970bb1,Sá S/A,2025-06-22,2025-07-07,1429.72,Pix,Mensal,True,Recorrente
+6a984f2b,Cassiano e Filhos,2025-06-14,2025-07-14,539.92,Cartão de Crédito,Mensal,False,Recorrente
+2a6c1bf7,Vieira Rodrigues - ME,2025-06-06,2025-06-21,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+a999cc02,Moura,2025-06-09,2025-06-24,906.18,Boleto,Mensal,False,Recorrente
+4771b8f6,Novaes,2025-06-25,2025-07-25,1972.53,Boleto,Mensal,False,Recorrente
+6ae8bf2c,Vargas,2025-06-24,2025-06-24,2296.69,Boleto,Anual,True,Recorrente
+5cdccf0b,Montenegro,2025-06-24,2025-06-24,339.86,Pix,Mensal,False,Recorrente
+cd7fd508,Montenegro Caldeira e Filhos,2025-06-26,2025-07-26,1637.73,Pix,Mensal,True,Recorrente
+8117bd1e,Cassiano Freitas S.A.,2025-06-04,2025-06-04,1799.18,Pix,Mensal,False,Recorrente
+bfb7f49d,Almeida,2025-06-26,2025-07-11,913.21,Pix,Mensal,True,Recorrente
+36e0a658,Fonseca Ltda.,2025-06-06,2025-06-21,2134.54,Boleto,Mensal,True,Recorrente
+338dd758,Barros e Filhos,2025-06-26,2025-06-26,545.11,Pix,Mensal,True,Recorrente
+4746fb81,Pastor Câmara S/A,2025-06-16,2025-07-16,1059.42,Pix,Mensal,False,Recorrente
+5213be53,da Conceição S/A,2025-06-03,2025-06-03,811.19,Pix,Mensal,False,Recorrente
+48a5f2a9,Farias S/A,2025-06-08,2025-06-23,169.22,Boleto,Mensal,True,Recorrente
+ed846ade,Nogueira Cardoso e Filhos,2025-06-20,2025-06-20,607.44,Pix,Anual,False,Recorrente
+2489dfe3,da Cruz,2025-06-30,2025-07-15,1946.35,Cartão de Crédito,Anual,False,Recorrente
+296fc1af,Jesus,2025-06-23,2025-07-23,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+4c2e1cf6,Rocha e Filhos,2025-06-25,2025-06-25,1722.75,Boleto,Mensal,False,Recorrente
+22202d48,Araújo - ME,2025-06-15,2025-06-15,679.56,Pix,Mensal,True,Recorrente
+e57686a9,Correia Correia - EI,2025-06-28,2025-07-28,627.84,Pix,Mensal,False,Recorrente
+df1d8317,Carvalho,2025-06-07,2025-06-07,1852.77,Boleto,Mensal,True,Recorrente
+edb677c5,Martins,2025-06-20,2025-06-20,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+4dd297cd,Aragão e Filhos,2025-06-12,2025-06-12,360.6,Pix,Mensal,True,Recorrente
+e9c47312,Jesus Mendonça - ME,2025-06-06,2025-06-06,548.52,Cartão de Crédito,Anual,False,Recorrente
+bb68cf07,Guerra Araújo S.A.,2025-06-25,2025-07-10,1308.84,Boleto,Mensal,False,Recorrente
+c5e98ee8,Abreu,2025-06-22,2025-07-07,1287.94,Boleto,Mensal,False,Recorrente
+7ec1d1a2,da Paz,2025-06-19,2025-06-19,416.05,Boleto,Anual,True,Recorrente
+ed7379a6,Sampaio,2025-06-24,2025-07-24,1928.45,Pix,Anual,True,Recorrente
+3cd9a3fa,Montenegro,2025-06-30,2025-06-30,1588.9,Boleto,Mensal,False,Recorrente
+031560fb,Guerra Campos - EI,2025-06-24,2025-07-24,1985.64,Cartão de Crédito,Mensal,False,Recorrente
+69442ec9,Leão e Filhos,2025-06-12,2025-06-27,1350.34,Boleto,Mensal,True,Recorrente
+3eb866a4,Albuquerque - ME,2025-06-20,2025-06-20,562.56,Boleto,Anual,False,Recorrente
+3d9b9fad,Barbosa - EI,2025-06-30,2025-07-15,196.83,Cartão de Crédito,Anual,True,Recorrente
+cd72200f,Montenegro da Luz S.A.,2025-06-09,2025-06-09,797.22,Boleto,Mensal,False,Recorrente
+431d5560,Azevedo,2025-06-17,2025-06-17,2240.5,Cartão de Crédito,Mensal,True,Recorrente
+68aa7b01,Nogueira,2025-06-17,2025-07-02,2130.69,Pix,Mensal,False,Recorrente
+1db51d7f,Pimenta,2025-06-04,2025-07-04,2439.42,Cartão de Crédito,Mensal,False,Recorrente
+cd90b0c3,Carvalho Ltda.,2025-06-29,2025-07-29,1821.11,Boleto,Mensal,False,Recorrente
+626271de,da Mata da Paz - EI,2025-06-23,2025-07-08,196.39,Pix,Anual,False,Recorrente
+fddd7c9b,Silva Fernandes S.A.,2025-06-19,2025-07-04,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+90c55281,Montenegro,2025-06-25,2025-07-10,1631.23,Cartão de Crédito,Anual,False,Recorrente
+ef8ee3d3,da Cunha,2025-06-22,2025-07-07,784.45,Pix,Anual,True,Recorrente
+2bb5697a,da Mota,2025-06-16,2025-06-16,399.72,Boleto,Mensal,False,Recorrente
+5856e48a,Abreu Ltda.,2025-06-03,2025-06-18,2250.59,Pix,Anual,True,Recorrente
+33ec964a,Porto da Luz S.A.,2025-06-22,2025-07-22,209.39,Boleto,Anual,True,Recorrente
+cf61701d,Novaes,2025-06-26,2025-07-11,1912.93,Boleto,Mensal,False,Recorrente
+e55492c4,Novais,2025-06-12,2025-07-12,295.78,Cartão de Crédito,Mensal,True,Recorrente
+36c70e6a,Lopes Cardoso S/A,2025-06-23,2025-07-08,260.4,Cartão de Crédito,Anual,True,Recorrente
+298a7007,Fogaça S.A.,2025-06-10,2025-06-10,499.29,Cartão de Crédito,Anual,False,Recorrente
+31d082ca,Rios Caldeira Ltda.,2025-06-22,2025-07-22,1327.64,Boleto,Mensal,False,Recorrente
+de592710,Pinto,2025-06-03,2025-07-03,2142.76,Pix,Anual,True,Recorrente
+e93a2982,da Costa Castro S.A.,2025-06-16,2025-07-01,570.99,Pix,Mensal,False,Recorrente
+b35ca4f9,Sousa Farias - ME,2025-06-07,2025-07-07,250.6,Boleto,Mensal,False,Recorrente
+b11ddd48,da Mata Castro e Filhos,2025-06-06,2025-07-06,1218.41,Boleto,Mensal,True,Recorrente
+a61cd94c,Garcia S/A,2025-06-16,2025-07-16,2425.84,Pix,Mensal,True,Recorrente
+8e467d08,Câmara,2025-06-07,2025-06-07,718.83,Cartão de Crédito,Mensal,True,Novo/Avulso
+f5ceac95,Marques Ferreira Ltda.,2025-06-05,2025-06-05,2115.39,Cartão de Crédito,Avulso,True,Novo/Avulso
+4db76338,Câmara Alves e Filhos,2025-06-16,2025-07-16,1738.16,Pix,Avulso,True,Novo/Avulso
+5c461cce,Guerra Farias Ltda.,2025-06-28,2025-07-13,1422.46,Boleto,Avulso,False,Novo/Avulso
+bbd909c2,Vargas Ltda.,2025-06-28,2025-07-13,1307.0,Pix,Anual,False,Novo/Avulso
+1ac1b243,Ramos,2025-06-09,2025-06-24,1946.02,Pix,Mensal,True,Novo/Avulso
+3e77e6c4,Rocha,2025-06-26,2025-07-11,451.38,Pix,Avulso,False,Novo/Avulso
+88d79317,Alves,2025-06-13,2025-07-13,226.52,Cartão de Crédito,Avulso,True,Novo/Avulso
+526e7c8a,da Luz S.A.,2025-06-15,2025-06-30,432.87,Pix,Mensal,True,Novo/Avulso
+8a5279df,Alves S/A,2025-07-10,2025-08-09,655.99,Cartão de Crédito,Mensal,False,Recorrente
+4417f2de,da Conceição Montenegro - EI,2025-07-20,2025-08-19,2141.61,Pix,Mensal,False,Recorrente
+1201a220,Câmara,2025-07-09,2025-07-24,984.89,Pix,Mensal,False,Recorrente
+dc44b164,Pastor,2025-07-24,2025-08-23,552.18,Pix,Anual,False,Recorrente
+ee059b97,Ferreira,2025-07-14,2025-07-14,1979.77,Pix,Anual,True,Recorrente
+58861c1b,Aparecida,2025-07-28,2025-07-28,1366.3,Boleto,Mensal,True,Recorrente
+b7ead20e,Nascimento,2025-07-24,2025-07-24,1532.53,Boleto,Mensal,False,Recorrente
+b1efc5db,Pires,2025-07-31,2025-08-30,2498.31,Boleto,Mensal,True,Recorrente
+b2999215,Oliveira,2025-07-07,2025-07-07,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+fda6ea71,Vargas da Rocha S/A,2025-07-04,2025-07-04,650.91,Cartão de Crédito,Mensal,True,Recorrente
+51ccc0e4,Porto,2025-07-30,2025-08-14,2470.0,Pix,Anual,True,Recorrente
+19672e03,Pereira e Filhos,2025-07-01,2025-07-16,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+3d6e7368,Martins Garcia Ltda.,2025-07-04,2025-07-19,2387.2,Boleto,Mensal,True,Recorrente
+17e492b7,Andrade Dias - ME,2025-07-03,2025-08-02,2232.42,Pix,Mensal,False,Recorrente
+82806601,Casa Grande,2025-07-10,2025-07-10,1234.99,Boleto,Mensal,True,Recorrente
+5519a867,Carvalho,2025-07-24,2025-08-08,918.09,Cartão de Crédito,Mensal,False,Recorrente
+bfbdcd86,Souza,2025-07-21,2025-07-21,598.98,Boleto,Anual,True,Recorrente
+83e0c5a5,Pacheco,2025-07-17,2025-07-17,714.76,Cartão de Crédito,Anual,True,Recorrente
+07ee6edc,Fonseca,2025-07-02,2025-08-01,190.52,Cartão de Crédito,Mensal,False,Recorrente
+66bc675e,Sá S/A,2025-07-28,2025-08-12,1429.72,Pix,Mensal,False,Recorrente
+7e1a5eef,Cassiano e Filhos,2025-07-15,2025-08-14,539.92,Cartão de Crédito,Mensal,False,Recorrente
+873cd89e,Vieira Rodrigues - ME,2025-07-18,2025-08-02,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+ce19df60,Moura,2025-07-31,2025-08-30,906.18,Boleto,Mensal,True,Recorrente
+89698613,Novaes,2025-07-19,2025-08-18,1972.53,Boleto,Mensal,False,Recorrente
+641d112b,Vargas,2025-07-21,2025-08-20,2296.69,Boleto,Anual,False,Recorrente
+72659dc4,Montenegro,2025-07-17,2025-08-16,339.86,Pix,Mensal,False,Recorrente
+7b40c6b4,Montenegro Caldeira e Filhos,2025-07-30,2025-08-14,1637.73,Pix,Mensal,False,Recorrente
+2f3a4eb7,Cassiano Freitas S.A.,2025-07-18,2025-07-18,1799.18,Pix,Mensal,True,Recorrente
+153f9caf,Almeida,2025-07-15,2025-07-30,913.21,Pix,Mensal,False,Recorrente
+eee58ca5,Fonseca Ltda.,2025-07-14,2025-07-29,2134.54,Boleto,Mensal,True,Recorrente
+77648f5e,Barros e Filhos,2025-07-10,2025-07-10,545.11,Pix,Mensal,True,Recorrente
+70817f3a,Pastor Câmara S/A,2025-07-17,2025-07-17,1059.42,Pix,Mensal,False,Recorrente
+7a518ad1,da Conceição S/A,2025-07-10,2025-07-25,811.19,Pix,Mensal,True,Recorrente
+20377f4b,Farias S/A,2025-07-23,2025-08-07,169.22,Boleto,Mensal,False,Recorrente
+39cd78f1,Nogueira Cardoso e Filhos,2025-07-10,2025-07-10,607.44,Pix,Anual,False,Recorrente
+33cc469e,da Cruz,2025-07-26,2025-08-10,1946.35,Cartão de Crédito,Anual,True,Recorrente
+c4d68efd,Jesus,2025-07-26,2025-07-26,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+3214ee70,Rocha e Filhos,2025-07-07,2025-07-22,1722.75,Boleto,Mensal,False,Recorrente
+e6fa00e2,Araújo - ME,2025-07-13,2025-07-13,679.56,Pix,Mensal,True,Recorrente
+7d6d76c1,Correia Correia - EI,2025-07-23,2025-08-22,627.84,Pix,Mensal,False,Recorrente
+d3969b09,Carvalho,2025-07-27,2025-08-11,1852.77,Boleto,Mensal,True,Recorrente
+096d479a,Martins,2025-07-09,2025-07-09,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+31a6613a,Aragão e Filhos,2025-07-21,2025-07-21,360.6,Pix,Mensal,False,Recorrente
+db1d905e,Jesus Mendonça - ME,2025-07-10,2025-08-09,548.52,Cartão de Crédito,Anual,False,Recorrente
+dc1405f3,Guerra Araújo S.A.,2025-07-14,2025-07-14,1308.84,Boleto,Mensal,True,Recorrente
+dd2d3b63,Abreu,2025-07-06,2025-07-06,1287.94,Boleto,Mensal,False,Recorrente
+85735627,da Paz,2025-07-04,2025-08-03,416.05,Boleto,Anual,False,Recorrente
+7ada9c25,Sampaio,2025-07-20,2025-08-04,1928.45,Pix,Anual,False,Recorrente
+ed5ce8fc,Montenegro,2025-07-23,2025-08-22,1588.9,Boleto,Mensal,False,Recorrente
+42aa1f06,Guerra Campos - EI,2025-07-07,2025-07-22,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+6cc91e2b,Leão e Filhos,2025-07-05,2025-07-05,1350.34,Boleto,Mensal,True,Recorrente
+4c23bde0,Barbosa - EI,2025-07-06,2025-07-06,196.83,Cartão de Crédito,Anual,False,Recorrente
+37bbe12d,Montenegro da Luz S.A.,2025-07-09,2025-07-09,797.22,Boleto,Mensal,False,Recorrente
+aa64221e,Azevedo,2025-07-24,2025-07-24,2240.5,Cartão de Crédito,Mensal,True,Recorrente
+ae6358a5,Nogueira,2025-07-03,2025-07-03,2130.69,Pix,Mensal,True,Recorrente
+dc842c6e,Pimenta,2025-07-16,2025-07-16,2439.42,Cartão de Crédito,Mensal,False,Recorrente
+7ccce0dc,Carvalho Ltda.,2025-07-14,2025-07-29,1821.11,Boleto,Mensal,False,Recorrente
+37dd1cc2,da Mata da Paz - EI,2025-07-12,2025-07-27,196.39,Pix,Anual,True,Recorrente
+03fef2c6,Silva Fernandes S.A.,2025-07-11,2025-07-11,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+807742ce,Montenegro,2025-07-02,2025-07-17,1631.23,Cartão de Crédito,Anual,False,Recorrente
+ee01ff10,da Cunha,2025-07-03,2025-08-02,784.45,Pix,Anual,False,Recorrente
+12375c0f,da Mota,2025-07-06,2025-07-06,399.72,Boleto,Mensal,False,Recorrente
+f575ae6c,Abreu Ltda.,2025-07-27,2025-08-11,2250.59,Pix,Anual,True,Recorrente
+197527fc,Porto da Luz S.A.,2025-07-04,2025-08-03,209.39,Boleto,Anual,True,Recorrente
+ff92229b,Novaes,2025-07-13,2025-07-28,1912.93,Boleto,Mensal,True,Recorrente
+1b91899f,Novais,2025-07-24,2025-07-24,295.78,Cartão de Crédito,Mensal,True,Recorrente
+8f80e906,Lopes Cardoso S/A,2025-07-15,2025-08-14,260.4,Cartão de Crédito,Anual,True,Recorrente
+32bf5d00,Fogaça S.A.,2025-07-17,2025-08-16,499.29,Cartão de Crédito,Anual,True,Recorrente
+4ec4b743,Rios Caldeira Ltda.,2025-07-16,2025-07-31,1327.64,Boleto,Mensal,False,Recorrente
+7f2c7391,Pinto,2025-07-30,2025-08-14,2142.76,Pix,Anual,True,Recorrente
+eddb4039,da Costa Castro S.A.,2025-07-21,2025-08-20,570.99,Pix,Mensal,True,Recorrente
+73d166f8,Sousa Farias - ME,2025-07-24,2025-08-23,250.6,Boleto,Mensal,True,Recorrente
+69968347,da Mata Castro e Filhos,2025-07-09,2025-07-24,1218.41,Boleto,Mensal,False,Recorrente
+bba11c52,Garcia S/A,2025-07-07,2025-07-22,2425.84,Pix,Mensal,True,Recorrente
+2c8776dd,Câmara,2025-07-28,2025-08-27,718.83,Cartão de Crédito,Mensal,True,Recorrente
+68e5075c,Vargas Ltda.,2025-07-04,2025-07-04,1307.0,Pix,Anual,False,Recorrente
+3c98dcd2,Ramos,2025-07-11,2025-07-11,1946.02,Pix,Mensal,True,Recorrente
+43155fb3,da Luz S.A.,2025-07-26,2025-08-10,432.87,Pix,Mensal,True,Recorrente
+27426856,Andrade,2025-07-19,2025-08-18,721.26,Boleto,Mensal,False,Novo/Avulso
+a20b9fd1,Peixoto - ME,2025-07-08,2025-07-08,514.23,Boleto,Anual,False,Novo/Avulso
+5d8fd85d,Siqueira,2025-07-02,2025-07-02,1603.82,Pix,Mensal,False,Novo/Avulso
+284bb672,Lopes,2025-07-05,2025-07-20,1798.12,Boleto,Anual,True,Novo/Avulso
+cc3d76b8,Gomes - EI,2025-07-25,2025-08-09,1462.12,Pix,Mensal,False,Novo/Avulso
+6fd393b1,da Cunha Aparecida e Filhos,2025-07-12,2025-08-11,200.18,Cartão de Crédito,Avulso,True,Novo/Avulso
+71b7b322,Abreu,2025-07-15,2025-08-14,242.8,Pix,Mensal,False,Novo/Avulso
+864bf02d,Fonseca Lopes S/A,2025-07-06,2025-08-05,1301.72,Pix,Anual,False,Novo/Avulso
+b971ac73,Pinto,2025-07-30,2025-08-29,1250.73,Pix,Mensal,True,Novo/Avulso
+5f2c8f1f,Alves S/A,2025-08-11,2025-08-26,655.99,Cartão de Crédito,Mensal,False,Recorrente
+a4ee6000,da Conceição Montenegro - EI,2025-08-25,2025-09-24,2141.61,Pix,Mensal,False,Recorrente
+fe3e8b6b,Câmara,2025-08-27,2025-09-26,984.89,Pix,Mensal,False,Recorrente
+71be8d56,Pastor,2025-08-20,2025-08-20,552.18,Pix,Anual,True,Recorrente
+6a703f03,Ferreira,2025-08-13,2025-09-12,1979.77,Pix,Anual,False,Recorrente
+bd4b876d,Nascimento,2025-08-12,2025-08-27,1532.53,Boleto,Mensal,False,Recorrente
+afedc5fb,Pires,2025-08-31,2025-09-15,2498.31,Boleto,Mensal,True,Recorrente
+c785873d,Oliveira,2025-08-24,2025-08-24,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+656a450b,Porto,2025-08-20,2025-08-20,2470.0,Pix,Anual,True,Recorrente
+36a6c6e4,Pereira e Filhos,2025-08-29,2025-09-13,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+d86c2a38,Martins Garcia Ltda.,2025-08-10,2025-08-10,2387.2,Boleto,Mensal,True,Recorrente
+93126383,Andrade Dias - ME,2025-08-28,2025-09-12,2232.42,Pix,Mensal,True,Recorrente
+47be5d05,Casa Grande,2025-08-25,2025-09-24,1234.99,Boleto,Mensal,False,Recorrente
+a62b6940,Carvalho,2025-08-30,2025-09-29,918.09,Cartão de Crédito,Mensal,True,Recorrente
+9006bfc0,Souza,2025-08-04,2025-08-04,598.98,Boleto,Anual,False,Recorrente
+683895cc,Pacheco,2025-08-12,2025-08-12,714.76,Cartão de Crédito,Anual,True,Recorrente
+ccddd3c2,Fonseca,2025-08-09,2025-08-24,190.52,Cartão de Crédito,Mensal,True,Recorrente
+6738c917,Sá S/A,2025-08-08,2025-08-23,1429.72,Pix,Mensal,False,Recorrente
+0718b7bd,Cassiano e Filhos,2025-08-03,2025-09-02,539.92,Cartão de Crédito,Mensal,False,Recorrente
+8b1dc67f,Vieira Rodrigues - ME,2025-08-19,2025-08-19,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+cdec2cbc,Moura,2025-08-24,2025-09-08,906.18,Boleto,Mensal,False,Recorrente
+9afd3f06,Novaes,2025-08-06,2025-08-21,1972.53,Boleto,Mensal,True,Recorrente
+7eaca6ed,Vargas,2025-08-20,2025-09-19,2296.69,Boleto,Anual,False,Recorrente
+2bbbbaef,Montenegro,2025-08-02,2025-09-01,339.86,Pix,Mensal,False,Recorrente
+f9a13bf2,Montenegro Caldeira e Filhos,2025-08-03,2025-08-03,1637.73,Pix,Mensal,False,Recorrente
+a7a111c8,Cassiano Freitas S.A.,2025-08-12,2025-08-27,1799.18,Pix,Mensal,False,Recorrente
+dc55367a,Almeida,2025-08-30,2025-08-30,913.21,Pix,Mensal,True,Recorrente
+866a744c,Fonseca Ltda.,2025-08-24,2025-09-23,2134.54,Boleto,Mensal,True,Recorrente
+6319e0c0,Barros e Filhos,2025-08-21,2025-09-20,545.11,Pix,Mensal,False,Recorrente
+43d86c3a,Pastor Câmara S/A,2025-08-02,2025-08-17,1059.42,Pix,Mensal,True,Recorrente
+fe4cbbae,da Conceição S/A,2025-08-11,2025-09-10,811.19,Pix,Mensal,True,Recorrente
+95b6c870,Farias S/A,2025-08-11,2025-09-10,169.22,Boleto,Mensal,True,Recorrente
+b34a30a7,Nogueira Cardoso e Filhos,2025-08-05,2025-08-05,607.44,Pix,Anual,False,Recorrente
+23bde58c,da Cruz,2025-08-15,2025-09-14,1946.35,Cartão de Crédito,Anual,True,Recorrente
+1861eb7d,Jesus,2025-08-08,2025-08-23,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+4a840b7c,Rocha e Filhos,2025-08-26,2025-09-10,1722.75,Boleto,Mensal,True,Recorrente
+561a36c9,Araújo - ME,2025-08-05,2025-08-20,679.56,Pix,Mensal,True,Recorrente
+25556bb1,Correia Correia - EI,2025-08-16,2025-09-15,627.84,Pix,Mensal,True,Recorrente
+590105f8,Carvalho,2025-08-18,2025-09-02,1852.77,Boleto,Mensal,False,Recorrente
+01e0e43f,Martins,2025-08-03,2025-08-18,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+1c442498,Aragão e Filhos,2025-08-25,2025-09-24,360.6,Pix,Mensal,True,Recorrente
+52d09e2d,Jesus Mendonça - ME,2025-08-25,2025-08-25,548.52,Cartão de Crédito,Anual,False,Recorrente
+6bfc2185,Guerra Araújo S.A.,2025-08-18,2025-08-18,1308.84,Boleto,Mensal,False,Recorrente
+b0746531,Abreu,2025-08-13,2025-09-12,1287.94,Boleto,Mensal,True,Recorrente
+3a8a6879,da Paz,2025-08-18,2025-09-17,416.05,Boleto,Anual,True,Recorrente
+0b2dff0b,Sampaio,2025-08-08,2025-08-08,1928.45,Pix,Anual,False,Recorrente
+6a844a44,Montenegro,2025-08-25,2025-09-09,1588.9,Boleto,Mensal,False,Recorrente
+fcbe3500,Guerra Campos - EI,2025-08-22,2025-09-21,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+0cbda643,Leão e Filhos,2025-08-04,2025-09-03,1350.34,Boleto,Mensal,False,Recorrente
+482c9596,Barbosa - EI,2025-08-14,2025-08-29,196.83,Cartão de Crédito,Anual,False,Recorrente
+64645f41,Montenegro da Luz S.A.,2025-08-07,2025-08-22,797.22,Boleto,Mensal,False,Recorrente
+d12d6e42,Azevedo,2025-08-20,2025-09-19,2240.5,Cartão de Crédito,Mensal,True,Recorrente
+0881e333,Nogueira,2025-08-25,2025-09-09,2130.69,Pix,Mensal,True,Recorrente
+2ea41f36,Pimenta,2025-08-12,2025-09-11,2439.42,Cartão de Crédito,Mensal,False,Recorrente
+7cb28a36,Carvalho Ltda.,2025-08-20,2025-08-20,1821.11,Boleto,Mensal,False,Recorrente
+321ce000,da Mata da Paz - EI,2025-08-02,2025-08-02,196.39,Pix,Anual,True,Recorrente
+b98f70e6,Silva Fernandes S.A.,2025-08-22,2025-09-06,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+44c495b5,Montenegro,2025-08-25,2025-09-24,1631.23,Cartão de Crédito,Anual,True,Recorrente
+db7fac49,da Cunha,2025-08-04,2025-09-03,784.45,Pix,Anual,True,Recorrente
+41e1234c,da Mota,2025-08-08,2025-09-07,399.72,Boleto,Mensal,True,Recorrente
+87059636,Abreu Ltda.,2025-08-28,2025-09-12,2250.59,Pix,Anual,True,Recorrente
+4fadc403,Porto da Luz S.A.,2025-08-11,2025-09-10,209.39,Boleto,Anual,True,Recorrente
+4eb855a7,Novaes,2025-08-10,2025-08-25,1912.93,Boleto,Mensal,False,Recorrente
+09ca043c,Novais,2025-08-01,2025-08-16,295.78,Cartão de Crédito,Mensal,True,Recorrente
+c645f8e1,Lopes Cardoso S/A,2025-08-24,2025-09-23,260.4,Cartão de Crédito,Anual,True,Recorrente
+62899029,Fogaça S.A.,2025-08-07,2025-09-06,499.29,Cartão de Crédito,Anual,False,Recorrente
+e1ce114a,Rios Caldeira Ltda.,2025-08-18,2025-09-02,1327.64,Boleto,Mensal,True,Recorrente
+ceb394bc,Pinto,2025-08-23,2025-09-22,2142.76,Pix,Anual,True,Recorrente
+a4edb662,da Costa Castro S.A.,2025-08-13,2025-09-12,570.99,Pix,Mensal,True,Recorrente
+e5e6d022,Sousa Farias - ME,2025-08-09,2025-08-09,250.6,Boleto,Mensal,True,Recorrente
+50bf7ced,da Mata Castro e Filhos,2025-08-10,2025-08-10,1218.41,Boleto,Mensal,False,Recorrente
+abdfc792,Garcia S/A,2025-08-02,2025-08-17,2425.84,Pix,Mensal,True,Recorrente
+0aa76116,Câmara,2025-08-03,2025-08-18,718.83,Cartão de Crédito,Mensal,False,Recorrente
+ca8c4e32,Vargas Ltda.,2025-08-22,2025-09-21,1307.0,Pix,Anual,False,Recorrente
+c91c0dbe,Ramos,2025-08-28,2025-08-28,1946.02,Pix,Mensal,True,Recorrente
+90d7915b,da Luz S.A.,2025-08-10,2025-09-09,432.87,Pix,Mensal,False,Recorrente
+13275e48,Andrade,2025-08-08,2025-08-23,721.26,Boleto,Mensal,True,Recorrente
+657818ad,Peixoto - ME,2025-08-29,2025-09-13,514.23,Boleto,Anual,False,Recorrente
+9d112f65,Siqueira,2025-08-28,2025-09-27,1603.82,Pix,Mensal,True,Recorrente
+70ac919d,Lopes,2025-08-06,2025-08-06,1798.12,Boleto,Anual,False,Recorrente
+ed9c4bc6,Gomes - EI,2025-08-18,2025-09-17,1462.12,Pix,Mensal,True,Recorrente
+7f6c3d50,Abreu,2025-08-02,2025-08-02,242.8,Pix,Mensal,False,Recorrente
+636a9e4d,Fonseca Lopes S/A,2025-08-11,2025-08-26,1301.72,Pix,Anual,False,Recorrente
+ee47746f,Pinto,2025-08-24,2025-08-24,1250.73,Pix,Mensal,True,Recorrente
+7471a448,Ribeiro,2025-08-10,2025-08-10,977.0,Pix,Mensal,False,Novo/Avulso
+87d361e3,Silveira Ltda.,2025-08-29,2025-08-29,1620.61,Cartão de Crédito,Avulso,False,Novo/Avulso
+dd91f01b,Rios,2025-08-22,2025-08-22,953.2,Cartão de Crédito,Mensal,True,Novo/Avulso
+01ebd442,Duarte,2025-08-20,2025-09-19,1373.69,Pix,Avulso,True,Novo/Avulso
+401c9487,Sampaio,2025-08-10,2025-09-09,1496.31,Cartão de Crédito,Mensal,False,Novo/Avulso
+2730fc7c,Novaes,2025-08-05,2025-09-04,459.66,Pix,Mensal,True,Novo/Avulso
+808c32a9,Correia Leão e Filhos,2025-08-29,2025-09-28,876.15,Pix,Avulso,True,Novo/Avulso
+c3bb7c99,Rocha,2025-08-21,2025-09-20,2286.15,Boleto,Mensal,True,Novo/Avulso
+3e9c8873,Pimenta Nunes Ltda.,2025-08-04,2025-08-04,1459.75,Pix,Mensal,False,Novo/Avulso
+129f3882,Alves S/A,2025-09-11,2025-09-26,655.99,Cartão de Crédito,Mensal,True,Recorrente
+e8c004dd,da Conceição Montenegro - EI,2025-09-06,2025-09-21,2141.61,Pix,Mensal,True,Recorrente
+f18dc679,Pastor,2025-09-29,2025-10-14,552.18,Pix,Anual,True,Recorrente
+930bc030,Ferreira,2025-09-09,2025-09-24,1979.77,Pix,Anual,True,Recorrente
+4f512465,Nascimento,2025-09-23,2025-10-23,1532.53,Boleto,Mensal,True,Recorrente
+9f5af36a,Pires,2025-09-03,2025-09-03,2498.31,Boleto,Mensal,False,Recorrente
+3660f46c,Oliveira,2025-09-21,2025-10-06,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+9ab79015,Porto,2025-09-17,2025-10-17,2470.0,Pix,Anual,False,Recorrente
+c06be358,Pereira e Filhos,2025-09-24,2025-10-24,1701.08,Cartão de Crédito,Mensal,True,Recorrente
+1900d2b0,Martins Garcia Ltda.,2025-09-13,2025-10-13,2387.2,Boleto,Mensal,False,Recorrente
+7d769dfe,Andrade Dias - ME,2025-09-02,2025-09-02,2232.42,Pix,Mensal,False,Recorrente
+b3a10401,Casa Grande,2025-09-19,2025-10-19,1234.99,Boleto,Mensal,True,Recorrente
+ac516d50,Carvalho,2025-09-06,2025-09-06,918.09,Cartão de Crédito,Mensal,True,Recorrente
+331fc9ce,Pacheco,2025-09-25,2025-10-25,714.76,Cartão de Crédito,Anual,True,Recorrente
+c621fae4,Fonseca,2025-09-14,2025-09-29,190.52,Cartão de Crédito,Mensal,False,Recorrente
+4635d584,Sá S/A,2025-09-24,2025-10-09,1429.72,Pix,Mensal,False,Recorrente
+23f6299a,Cassiano e Filhos,2025-09-21,2025-09-21,539.92,Cartão de Crédito,Mensal,True,Recorrente
+78b07bc9,Vieira Rodrigues - ME,2025-09-29,2025-09-29,1251.44,Cartão de Crédito,Mensal,True,Recorrente
+4d5c6337,Moura,2025-09-01,2025-10-01,906.18,Boleto,Mensal,False,Recorrente
+176bd8d2,Vargas,2025-09-01,2025-09-16,2296.69,Boleto,Anual,False,Recorrente
+e6fd98a4,Montenegro,2025-09-28,2025-10-13,339.86,Pix,Mensal,True,Recorrente
+bd295b25,Montenegro Caldeira e Filhos,2025-09-20,2025-10-05,1637.73,Pix,Mensal,True,Recorrente
+2c59699d,Cassiano Freitas S.A.,2025-09-07,2025-10-07,1799.18,Pix,Mensal,False,Recorrente
+d066a428,Almeida,2025-09-15,2025-09-30,913.21,Pix,Mensal,False,Recorrente
+5abd6bd5,Fonseca Ltda.,2025-09-03,2025-10-03,2134.54,Boleto,Mensal,True,Recorrente
+e6b5b4a6,Barros e Filhos,2025-09-08,2025-10-08,545.11,Pix,Mensal,False,Recorrente
+3c37beb3,Pastor Câmara S/A,2025-09-20,2025-10-20,1059.42,Pix,Mensal,True,Recorrente
+1e62ec21,da Conceição S/A,2025-09-02,2025-09-02,811.19,Pix,Mensal,True,Recorrente
+89238fc8,Farias S/A,2025-09-02,2025-10-02,169.22,Boleto,Mensal,False,Recorrente
+33eda9e2,Nogueira Cardoso e Filhos,2025-09-02,2025-09-02,607.44,Pix,Anual,True,Recorrente
+585238c7,da Cruz,2025-09-22,2025-10-22,1946.35,Cartão de Crédito,Anual,False,Recorrente
+3c8fe048,Jesus,2025-09-11,2025-09-11,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+fc77899b,Rocha e Filhos,2025-09-04,2025-09-19,1722.75,Boleto,Mensal,True,Recorrente
+88170ccf,Araújo - ME,2025-09-06,2025-10-06,679.56,Pix,Mensal,False,Recorrente
+dbee02ea,Correia Correia - EI,2025-09-20,2025-10-20,627.84,Pix,Mensal,True,Recorrente
+774c5261,Carvalho,2025-09-15,2025-10-15,1852.77,Boleto,Mensal,False,Recorrente
+70ea4c3d,Martins,2025-09-30,2025-09-30,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+51b301a3,Aragão e Filhos,2025-09-25,2025-10-10,360.6,Pix,Mensal,False,Recorrente
+a746259a,Jesus Mendonça - ME,2025-09-12,2025-09-27,548.52,Cartão de Crédito,Anual,True,Recorrente
+ffe94496,Guerra Araújo S.A.,2025-09-25,2025-10-10,1308.84,Boleto,Mensal,True,Recorrente
+01173b8f,Abreu,2025-09-10,2025-09-25,1287.94,Boleto,Mensal,True,Recorrente
+4feea038,da Paz,2025-09-04,2025-10-04,416.05,Boleto,Anual,False,Recorrente
+af7fe6d5,Sampaio,2025-09-11,2025-10-11,1928.45,Pix,Anual,False,Recorrente
+8de1655a,Montenegro,2025-09-17,2025-09-17,1588.9,Boleto,Mensal,True,Recorrente
+9e96dca1,Guerra Campos - EI,2025-09-20,2025-09-20,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+24405241,Leão e Filhos,2025-09-19,2025-10-19,1350.34,Boleto,Mensal,True,Recorrente
+c38b5fa5,Barbosa - EI,2025-09-16,2025-10-16,196.83,Cartão de Crédito,Anual,False,Recorrente
+c8724ce7,Montenegro da Luz S.A.,2025-09-14,2025-10-14,797.22,Boleto,Mensal,False,Recorrente
+84efaad3,Azevedo,2025-09-09,2025-10-09,2240.5,Cartão de Crédito,Mensal,False,Recorrente
+1934afc4,Nogueira,2025-09-30,2025-09-30,2130.69,Pix,Mensal,False,Recorrente
+97b407e3,Pimenta,2025-09-17,2025-10-17,2439.42,Cartão de Crédito,Mensal,False,Recorrente
+df48c86c,Carvalho Ltda.,2025-09-16,2025-09-16,1821.11,Boleto,Mensal,True,Recorrente
+2e61c064,da Mata da Paz - EI,2025-09-23,2025-10-08,196.39,Pix,Anual,True,Recorrente
+f2fd9e1c,Silva Fernandes S.A.,2025-09-01,2025-09-01,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+9b7da936,Montenegro,2025-09-15,2025-10-15,1631.23,Cartão de Crédito,Anual,True,Recorrente
+fbdfedad,da Cunha,2025-09-24,2025-09-24,784.45,Pix,Anual,False,Recorrente
+ad92f499,da Mota,2025-09-14,2025-09-14,399.72,Boleto,Mensal,False,Recorrente
+0db4f76a,Abreu Ltda.,2025-09-12,2025-10-12,2250.59,Pix,Anual,True,Recorrente
+4e49a8b2,Porto da Luz S.A.,2025-09-01,2025-10-01,209.39,Boleto,Anual,True,Recorrente
+eba78a2f,Novaes,2025-09-23,2025-10-08,1912.93,Boleto,Mensal,False,Recorrente
+da6457d0,Novais,2025-09-26,2025-09-26,295.78,Cartão de Crédito,Mensal,False,Recorrente
+3509296e,Lopes Cardoso S/A,2025-09-10,2025-10-10,260.4,Cartão de Crédito,Anual,False,Recorrente
+cbcbb6db,Fogaça S.A.,2025-09-25,2025-09-25,499.29,Cartão de Crédito,Anual,True,Recorrente
+163bf458,Rios Caldeira Ltda.,2025-09-22,2025-10-07,1327.64,Boleto,Mensal,False,Recorrente
+281cb3f1,Pinto,2025-09-13,2025-10-13,2142.76,Pix,Anual,True,Recorrente
+627597da,da Costa Castro S.A.,2025-09-27,2025-09-27,570.99,Pix,Mensal,True,Recorrente
+d35f99d8,Sousa Farias - ME,2025-09-11,2025-09-26,250.6,Boleto,Mensal,False,Recorrente
+fd5789c6,da Mata Castro e Filhos,2025-09-30,2025-10-15,1218.41,Boleto,Mensal,True,Recorrente
+a477a457,Garcia S/A,2025-09-21,2025-09-21,2425.84,Pix,Mensal,False,Recorrente
+3fe1515a,Câmara,2025-09-05,2025-10-05,718.83,Cartão de Crédito,Mensal,False,Recorrente
+d4b50f6b,Vargas Ltda.,2025-09-29,2025-10-29,1307.0,Pix,Anual,False,Recorrente
+efeb7b04,Ramos,2025-09-15,2025-09-30,1946.02,Pix,Mensal,True,Recorrente
+19b7a1c1,da Luz S.A.,2025-09-27,2025-10-27,432.87,Pix,Mensal,False,Recorrente
+2ca7b42e,Andrade,2025-09-19,2025-10-19,721.26,Boleto,Mensal,False,Recorrente
+5eaffca6,Peixoto - ME,2025-09-18,2025-10-18,514.23,Boleto,Anual,True,Recorrente
+ffc20e91,Siqueira,2025-09-07,2025-10-07,1603.82,Pix,Mensal,False,Recorrente
+848ae6bb,Lopes,2025-09-26,2025-10-11,1798.12,Boleto,Anual,True,Recorrente
+29a767b7,Gomes - EI,2025-09-05,2025-09-20,1462.12,Pix,Mensal,True,Recorrente
+f1a07f13,Abreu,2025-09-11,2025-09-26,242.8,Pix,Mensal,True,Recorrente
+0c1da1c4,Fonseca Lopes S/A,2025-09-19,2025-10-19,1301.72,Pix,Anual,False,Recorrente
+b86674e2,Pinto,2025-09-06,2025-10-06,1250.73,Pix,Mensal,True,Recorrente
+e7e642b0,Ribeiro,2025-09-28,2025-10-13,977.0,Pix,Mensal,False,Recorrente
+ac199a0d,Rios,2025-09-23,2025-09-23,953.2,Cartão de Crédito,Mensal,False,Recorrente
+80da075b,Sampaio,2025-09-14,2025-09-14,1496.31,Cartão de Crédito,Mensal,False,Recorrente
+00ede501,Novaes,2025-09-29,2025-09-29,459.66,Pix,Mensal,False,Recorrente
+8ee14268,Rocha,2025-09-15,2025-09-30,2286.15,Boleto,Mensal,True,Recorrente
+d6609f8e,Pimenta Nunes Ltda.,2025-09-17,2025-10-02,1459.75,Pix,Mensal,True,Recorrente
+6ca81846,Novaes,2025-09-30,2025-09-30,1994.62,Boleto,Mensal,False,Novo/Avulso
+006bec10,da Rosa Ltda.,2025-09-05,2025-09-05,2027.71,Pix,Anual,False,Novo/Avulso
+523a5d01,Lopes Viana - EI,2025-09-10,2025-09-25,1871.24,Pix,Avulso,True,Novo/Avulso
+79c0e080,Martins,2025-09-22,2025-09-22,380.89,Pix,Avulso,True,Novo/Avulso
+0258b8ad,Macedo,2025-09-28,2025-10-28,1229.52,Pix,Avulso,True,Novo/Avulso
+fc78be3b,Moraes Melo e Filhos,2025-09-28,2025-10-28,2340.99,Pix,Mensal,True,Novo/Avulso
+d2e965e3,Ribeiro Barros Ltda.,2025-09-17,2025-10-17,2239.59,Boleto,Mensal,False,Novo/Avulso
+027c45fb,Borges,2025-09-29,2025-09-29,1932.46,Pix,Mensal,False,Novo/Avulso
+64731d80,Rocha das Neves S.A.,2025-09-11,2025-09-26,823.43,Pix,Mensal,True,Novo/Avulso
+abe5de20,Casa Grande Alves S/A,2025-09-01,2025-10-01,520.12,Boleto,Mensal,True,Novo/Avulso
+fa95669f,Alves S/A,2025-10-13,2025-10-28,655.99,Cartão de Crédito,Mensal,False,Recorrente
+b9ea9024,da Conceição Montenegro - EI,2025-10-21,2025-11-20,2141.61,Pix,Mensal,True,Recorrente
+fd27f64e,Pastor,2025-10-03,2025-10-03,552.18,Pix,Anual,True,Recorrente
+6c3c760a,Ferreira,2025-10-29,2025-11-28,1979.77,Pix,Anual,True,Recorrente
+172e8faf,Nascimento,2025-10-25,2025-10-25,1532.53,Boleto,Mensal,True,Recorrente
+318e734a,Pires,2025-10-15,2025-11-14,2498.31,Boleto,Mensal,False,Recorrente
+43a3cc85,Oliveira,2025-10-13,2025-11-12,1281.19,Cartão de Crédito,Mensal,False,Recorrente
+7d761e68,Porto,2025-10-07,2025-10-07,2470.0,Pix,Anual,False,Recorrente
+45c61c2a,Pereira e Filhos,2025-10-10,2025-11-09,1701.08,Cartão de Crédito,Mensal,False,Recorrente
+727e53d1,Martins Garcia Ltda.,2025-10-30,2025-11-14,2387.2,Boleto,Mensal,False,Recorrente
+35518993,Andrade Dias - ME,2025-10-03,2025-11-02,2232.42,Pix,Mensal,True,Recorrente
+34613767,Casa Grande,2025-10-20,2025-11-19,1234.99,Boleto,Mensal,False,Recorrente
+cce7f0e1,Carvalho,2025-10-28,2025-10-28,918.09,Cartão de Crédito,Mensal,False,Recorrente
+d571b0f4,Pacheco,2025-10-02,2025-10-17,714.76,Cartão de Crédito,Anual,True,Recorrente
+09236c97,Fonseca,2025-10-01,2025-10-31,190.52,Cartão de Crédito,Mensal,False,Recorrente
+cd77c148,Sá S/A,2025-10-04,2025-10-19,1429.72,Pix,Mensal,True,Recorrente
+d5787dbe,Cassiano e Filhos,2025-10-08,2025-10-23,539.92,Cartão de Crédito,Mensal,False,Recorrente
+063bd4fc,Vieira Rodrigues - ME,2025-10-21,2025-11-05,1251.44,Cartão de Crédito,Mensal,False,Recorrente
+9bbddc6e,Moura,2025-10-13,2025-10-28,906.18,Boleto,Mensal,False,Recorrente
+0802f33d,Vargas,2025-10-18,2025-10-18,2296.69,Boleto,Anual,True,Recorrente
+c6c1f345,Montenegro,2025-10-16,2025-10-16,339.86,Pix,Mensal,True,Recorrente
+d9a3116c,Montenegro Caldeira e Filhos,2025-10-18,2025-11-02,1637.73,Pix,Mensal,False,Recorrente
+99d4e765,Cassiano Freitas S.A.,2025-10-27,2025-11-11,1799.18,Pix,Mensal,True,Recorrente
+2f120d13,Almeida,2025-10-10,2025-11-09,913.21,Pix,Mensal,True,Recorrente
+7bf94878,Fonseca Ltda.,2025-10-05,2025-10-05,2134.54,Boleto,Mensal,True,Recorrente
+566e8924,Barros e Filhos,2025-10-21,2025-10-21,545.11,Pix,Mensal,True,Recorrente
+a1c379fb,Pastor Câmara S/A,2025-10-24,2025-11-08,1059.42,Pix,Mensal,False,Recorrente
+5d089512,da Conceição S/A,2025-10-05,2025-10-05,811.19,Pix,Mensal,True,Recorrente
+fa951c32,Farias S/A,2025-10-21,2025-11-05,169.22,Boleto,Mensal,False,Recorrente
+8d49885a,Nogueira Cardoso e Filhos,2025-10-29,2025-11-28,607.44,Pix,Anual,False,Recorrente
+95d6004c,da Cruz,2025-10-20,2025-10-20,1946.35,Cartão de Crédito,Anual,False,Recorrente
+cb014eed,Jesus,2025-10-17,2025-11-01,1566.54,Cartão de Crédito,Mensal,False,Recorrente
+0b5933db,Rocha e Filhos,2025-10-13,2025-10-28,1722.75,Boleto,Mensal,True,Recorrente
+dc2d1cc4,Araújo - ME,2025-10-06,2025-10-21,679.56,Pix,Mensal,True,Recorrente
+adea4a60,Correia Correia - EI,2025-10-19,2025-11-03,627.84,Pix,Mensal,True,Recorrente
+4d3712e6,Carvalho,2025-10-23,2025-11-22,1852.77,Boleto,Mensal,False,Recorrente
+e6179019,Martins,2025-10-14,2025-11-13,2193.26,Cartão de Crédito,Mensal,False,Recorrente
+e3921181,Aragão e Filhos,2025-10-02,2025-10-02,360.6,Pix,Mensal,False,Recorrente
+900b2d1d,Jesus Mendonça - ME,2025-10-23,2025-11-07,548.52,Cartão de Crédito,Anual,True,Recorrente
+a95db373,Guerra Araújo S.A.,2025-10-19,2025-11-03,1308.84,Boleto,Mensal,True,Recorrente
+c350acc9,Abreu,2025-10-05,2025-11-04,1287.94,Boleto,Mensal,False,Recorrente
+b522a011,da Paz,2025-10-15,2025-11-14,416.05,Boleto,Anual,True,Recorrente
+2918d1ff,Sampaio,2025-10-17,2025-11-16,1928.45,Pix,Anual,True,Recorrente
+e292e330,Montenegro,2025-10-08,2025-10-23,1588.9,Boleto,Mensal,True,Recorrente
+7c1e71e7,Guerra Campos - EI,2025-10-22,2025-11-21,1985.64,Cartão de Crédito,Mensal,False,Recorrente
+06deeef4,Leão e Filhos,2025-10-20,2025-10-20,1350.34,Boleto,Mensal,False,Recorrente
+fbdc2f5c,Barbosa - EI,2025-10-18,2025-10-18,196.83,Cartão de Crédito,Anual,False,Recorrente
+0169c025,Montenegro da Luz S.A.,2025-10-15,2025-11-14,797.22,Boleto,Mensal,False,Recorrente
+760c592a,Azevedo,2025-10-19,2025-11-18,2240.5,Cartão de Crédito,Mensal,False,Recorrente
+3b2c5e04,Nogueira,2025-10-14,2025-10-29,2130.69,Pix,Mensal,False,Recorrente
+b2c29847,Pimenta,2025-10-10,2025-10-10,2439.42,Cartão de Crédito,Mensal,True,Recorrente
+193b09fe,Carvalho Ltda.,2025-10-23,2025-11-22,1821.11,Boleto,Mensal,False,Recorrente
+cafc958d,da Mata da Paz - EI,2025-10-24,2025-11-23,196.39,Pix,Anual,False,Recorrente
+1df7119f,Silva Fernandes S.A.,2025-10-02,2025-11-01,1436.11,Cartão de Crédito,Mensal,False,Recorrente
+5e336bee,Montenegro,2025-10-19,2025-10-19,1631.23,Cartão de Crédito,Anual,True,Recorrente
+62776f1c,da Cunha,2025-10-22,2025-11-06,784.45,Pix,Anual,True,Recorrente
+58388677,da Mota,2025-10-10,2025-10-25,399.72,Boleto,Mensal,True,Recorrente
+0b1cf46e,Abreu Ltda.,2025-10-05,2025-11-04,2250.59,Pix,Anual,True,Recorrente
+353387ee,Porto da Luz S.A.,2025-10-28,2025-11-12,209.39,Boleto,Anual,False,Recorrente
+9eb27b18,Novaes,2025-10-05,2025-11-04,1912.93,Boleto,Mensal,False,Recorrente
+585a20ff,Novais,2025-10-09,2025-10-24,295.78,Cartão de Crédito,Mensal,True,Recorrente
+4ebfa5ee,Lopes Cardoso S/A,2025-10-24,2025-10-24,260.4,Cartão de Crédito,Anual,True,Recorrente
+c01366ae,Fogaça S.A.,2025-10-30,2025-11-29,499.29,Cartão de Crédito,Anual,True,Recorrente
+3e869852,Rios Caldeira Ltda.,2025-10-22,2025-11-06,1327.64,Boleto,Mensal,False,Recorrente
+f0c061e8,Pinto,2025-10-26,2025-10-26,2142.76,Pix,Anual,False,Recorrente
+7b07ab1a,da Costa Castro S.A.,2025-10-26,2025-11-25,570.99,Pix,Mensal,True,Recorrente
+7474cebe,Sousa Farias - ME,2025-10-16,2025-10-16,250.6,Boleto,Mensal,True,Recorrente
+d2e20928,da Mata Castro e Filhos,2025-10-11,2025-10-11,1218.41,Boleto,Mensal,True,Recorrente
+a91666bd,Garcia S/A,2025-10-20,2025-10-20,2425.84,Pix,Mensal,False,Recorrente
+6718cde3,Câmara,2025-10-25,2025-11-09,718.83,Cartão de Crédito,Mensal,False,Recorrente
+a8a7c1bf,Vargas Ltda.,2025-10-08,2025-11-07,1307.0,Pix,Anual,False,Recorrente
+1fce889e,Ramos,2025-10-24,2025-11-23,1946.02,Pix,Mensal,True,Recorrente
+29a8caff,da Luz S.A.,2025-10-07,2025-11-06,432.87,Pix,Mensal,False,Recorrente
+5a37db12,Andrade,2025-10-02,2025-11-01,721.26,Boleto,Mensal,False,Recorrente
+a18b54d6,Peixoto - ME,2025-10-25,2025-10-25,514.23,Boleto,Anual,True,Recorrente
+9b612c57,Siqueira,2025-10-06,2025-10-21,1603.82,Pix,Mensal,False,Recorrente
+ed1c55fc,Lopes,2025-10-16,2025-10-31,1798.12,Boleto,Anual,False,Recorrente
+1f5b6440,Gomes - EI,2025-10-24,2025-11-23,1462.12,Pix,Mensal,True,Recorrente
+c7e929c4,Abreu,2025-10-13,2025-11-12,242.8,Pix,Mensal,False,Recorrente
+48d0dc12,Fonseca Lopes S/A,2025-10-16,2025-10-31,1301.72,Pix,Anual,True,Recorrente
+518530dc,Pinto,2025-10-17,2025-11-01,1250.73,Pix,Mensal,True,Recorrente
+3d797f30,Ribeiro,2025-10-10,2025-10-25,977.0,Pix,Mensal,False,Recorrente
+1dddbb82,Rios,2025-10-22,2025-11-06,953.2,Cartão de Crédito,Mensal,True,Recorrente
+c5cf154d,Sampaio,2025-10-04,2025-11-03,1496.31,Cartão de Crédito,Mensal,False,Recorrente
+b1f89ce0,Novaes,2025-10-31,2025-11-15,459.66,Pix,Mensal,False,Recorrente
+01548b74,Rocha,2025-10-11,2025-10-26,2286.15,Boleto,Mensal,False,Recorrente
+655d6aee,Pimenta Nunes Ltda.,2025-10-26,2025-10-26,1459.75,Pix,Mensal,False,Recorrente
+edb924a9,Novaes,2025-10-21,2025-11-20,1994.62,Boleto,Mensal,False,Recorrente
+c77d9a15,da Rosa Ltda.,2025-10-15,2025-11-14,2027.71,Pix,Anual,True,Recorrente
+8b6c2488,Moraes Melo e Filhos,2025-10-24,2025-11-23,2340.99,Pix,Mensal,True,Recorrente
+15702916,Ribeiro Barros Ltda.,2025-10-17,2025-11-01,2239.59,Boleto,Mensal,True,Recorrente
+b32bbe83,Borges,2025-10-11,2025-11-10,1932.46,Pix,Mensal,True,Recorrente
+9a17e1a8,Rocha das Neves S.A.,2025-10-22,2025-10-22,823.43,Pix,Mensal,True,Recorrente
+c29925d9,Casa Grande Alves S/A,2025-10-01,2025-10-16,520.12,Boleto,Mensal,True,Recorrente
+1cc17f8e,Melo Pimenta S/A,2025-10-08,2025-11-07,1760.92,Cartão de Crédito,Anual,False,Novo/Avulso
+3d78631f,Leão,2025-10-03,2025-10-03,230.0,Pix,Mensal,True,Novo/Avulso
+9967f362,Silva Sampaio - ME,2025-10-31,2025-10-31,1649.49,Pix,Avulso,True,Novo/Avulso
+100c28e5,Guerra,2025-10-25,2025-11-24,455.28,Pix,Avulso,True,Novo/Avulso
+d6ef9ccb,Casa Grande Rezende e Filhos,2025-10-10,2025-10-25,1784.79,Cartão de Crédito,Avulso,True,Novo/Avulso
+5851e19e,Sá S/A,2025-10-25,2025-11-09,2318.33,Cartão de Crédito,Anual,False,Novo/Avulso
+39377e9c,Câmara,2025-10-25,2025-10-25,1984.72,Cartão de Crédito,Mensal,False,Novo/Avulso
+8a0fcba6,Sampaio Moreira - ME,2025-10-31,2025-11-15,2490.5,Cartão de Crédito,Mensal,True,Novo/Avulso
+44bd758b,Novais S.A.,2025-10-20,2025-11-04,1305.55,Boleto,Mensal,True,Novo/Avulso
+32c1e8d1,Marques S.A.,2025-10-25,2025-11-09,404.81,Pix,Anual,True,Novo/Avulso
+5c715182,Alves S/A,2025-11-11,2025-12-11,655.99,Cartão de Crédito,Mensal,False,Recorrente
+3e9972da,da Conceição Montenegro - EI,2025-11-11,2025-11-11,2141.61,Pix,Mensal,True,Recorrente
+286f4f38,Pastor,2025-11-11,2025-11-11,552.18,Pix,Anual,True,Recorrente
+24d4cf59,Ferreira,2025-11-19,2025-11-19,1979.77,Pix,Anual,False,Recorrente
+cd286f37,Nascimento,2025-11-03,2025-11-03,1532.53,Boleto,Mensal,False,Recorrente
+caeb5feb,Pires,2025-11-05,2025-11-20,2498.31,Boleto,Mensal,True,Recorrente
+c4c545e3,Oliveira,2025-11-23,2025-12-08,1281.19,Cartão de Crédito,Mensal,True,Recorrente
+90eb1d6a,Porto,2025-11-15,2025-11-15,2470.0,Pix,Anual,True,Recorrente
+ed5efae6,Martins Garcia Ltda.,2025-11-05,2025-11-05,2387.2,Boleto,Mensal,False,Recorrente
+8ca3b445,Andrade Dias - ME,2025-11-25,2025-11-25,2232.42,Pix,Mensal,True,Recorrente
+ab09a51e,Carvalho,2025-11-29,2025-12-14,918.09,Cartão de Crédito,Mensal,True,Recorrente
+7207c4c5,Pacheco,2025-11-01,2025-11-01,714.76,Cartão de Crédito,Anual,True,Recorrente
+a32525c6,Fonseca,2025-11-30,2025-11-30,190.52,Cartão de Crédito,Mensal,False,Recorrente
+64a6e490,Sá S/A,2025-11-14,2025-12-14,1429.72,Pix,Mensal,False,Recorrente
+328e10ae,Cassiano e Filhos,2025-11-23,2025-11-23,539.92,Cartão de Crédito,Mensal,True,Recorrente
+08c0f720,Moura,2025-11-05,2025-12-05,906.18,Boleto,Mensal,False,Recorrente
+6593ee5b,Vargas,2025-11-17,2025-12-02,2296.69,Boleto,Anual,False,Recorrente
+51744c31,Montenegro,2025-11-08,2025-11-08,339.86,Pix,Mensal,True,Recorrente
+d086a8d7,Montenegro Caldeira e Filhos,2025-11-20,2025-11-20,1637.73,Pix,Mensal,False,Recorrente
+dbdcc78a,Cassiano Freitas S.A.,2025-11-20,2025-11-20,1799.18,Pix,Mensal,False,Recorrente
+8e3dc22f,Almeida,2025-11-12,2025-11-27,913.21,Pix,Mensal,True,Recorrente
+5f1307d8,Fonseca Ltda.,2025-11-18,2025-11-18,2134.54,Boleto,Mensal,True,Recorrente
+5d23f89d,Barros e Filhos,2025-11-04,2025-12-04,545.11,Pix,Mensal,True,Recorrente
+988f046c,Pastor Câmara S/A,2025-11-20,2025-12-05,1059.42,Pix,Mensal,True,Recorrente
+451c2dd3,da Conceição S/A,2025-11-15,2025-12-15,811.19,Pix,Mensal,True,Recorrente
+e88be59f,Farias S/A,2025-11-09,2025-11-09,169.22,Boleto,Mensal,True,Recorrente
+1bfe77d9,Nogueira Cardoso e Filhos,2025-11-04,2025-11-04,607.44,Pix,Anual,False,Recorrente
+4c576489,da Cruz,2025-11-16,2025-11-16,1946.35,Cartão de Crédito,Anual,True,Recorrente
+3c098edc,Jesus,2025-11-22,2025-11-22,1566.54,Cartão de Crédito,Mensal,True,Recorrente
+5d12aadb,Rocha e Filhos,2025-11-21,2025-12-06,1722.75,Boleto,Mensal,False,Recorrente
+fe21d78f,Araújo - ME,2025-11-07,2025-11-22,679.56,Pix,Mensal,False,Recorrente
+1d7a59f9,Correia Correia - EI,2025-11-11,2025-12-11,627.84,Pix,Mensal,False,Recorrente
+7997898b,Carvalho,2025-11-02,2025-11-02,1852.77,Boleto,Mensal,True,Recorrente
+19faee04,Martins,2025-11-30,2025-12-30,2193.26,Cartão de Crédito,Mensal,True,Recorrente
+5ba45c8e,Aragão e Filhos,2025-11-06,2025-11-06,360.6,Pix,Mensal,False,Recorrente
+25d7d83e,Jesus Mendonça - ME,2025-11-17,2025-11-17,548.52,Cartão de Crédito,Anual,True,Recorrente
+383e8db2,Guerra Araújo S.A.,2025-11-29,2025-11-29,1308.84,Boleto,Mensal,False,Recorrente
+fbe340f5,Abreu,2025-11-19,2025-12-19,1287.94,Boleto,Mensal,False,Recorrente
+5aea0b59,da Paz,2025-11-14,2025-11-14,416.05,Boleto,Anual,False,Recorrente
+0005bedb,Sampaio,2025-11-08,2025-11-08,1928.45,Pix,Anual,False,Recorrente
+7eb18103,Montenegro,2025-11-08,2025-11-08,1588.9,Boleto,Mensal,True,Recorrente
+2da59767,Guerra Campos - EI,2025-11-24,2025-12-09,1985.64,Cartão de Crédito,Mensal,True,Recorrente
+107b26c4,Leão e Filhos,2025-11-13,2025-11-13,1350.34,Boleto,Mensal,True,Recorrente
+a0470095,Barbosa - EI,2025-11-16,2025-12-16,196.83,Cartão de Crédito,Anual,False,Recorrente
+2ca34ee3,Montenegro da Luz S.A.,2025-11-02,2025-11-17,797.22,Boleto,Mensal,True,Recorrente
+71d135d9,Azevedo,2025-11-07,2025-12-07,2240.5,Cartão de Crédito,Mensal,False,Recorrente
+acf6a664,Nogueira,2025-11-06,2025-11-21,2130.69,Pix,Mensal,False,Recorrente
+e40a50b6,Pimenta,2025-11-05,2025-11-20,2439.42,Cartão de Crédito,Mensal,True,Recorrente
+f750d80d,Carvalho Ltda.,2025-11-21,2025-12-06,1821.11,Boleto,Mensal,False,Recorrente
+93746d38,da Mata da Paz - EI,2025-11-07,2025-11-22,196.39,Pix,Anual,True,Recorrente
+3a6dc8c7,Silva Fernandes S.A.,2025-11-02,2025-12-02,1436.11,Cartão de Crédito,Mensal,True,Recorrente
+60ffe323,Montenegro,2025-11-09,2025-11-09,1631.23,Cartão de Crédito,Anual,True,Recorrente
+83346c4e,da Cunha,2025-11-28,2025-12-13,784.45,Pix,Anual,False,Recorrente
+e9a91164,Abreu Ltda.,2025-11-14,2025-11-14,2250.59,Pix,Anual,False,Recorrente
+8d32785d,Porto da Luz S.A.,2025-11-08,2025-11-23,209.39,Boleto,Anual,True,Recorrente
+255bc76c,Novaes,2025-11-26,2025-12-26,1912.93,Boleto,Mensal,True,Recorrente
+a953933d,Novais,2025-11-19,2025-12-19,295.78,Cartão de Crédito,Mensal,True,Recorrente
+11545fc2,Lopes Cardoso S/A,2025-11-03,2025-11-18,260.4,Cartão de Crédito,Anual,False,Recorrente
+fed2b2b1,Fogaça S.A.,2025-11-28,2025-11-28,499.29,Cartão de Crédito,Anual,False,Recorrente
+3896a049,Rios Caldeira Ltda.,2025-11-27,2025-12-12,1327.64,Boleto,Mensal,False,Recorrente
+acfe1ea5,Pinto,2025-11-01,2025-12-01,2142.76,Pix,Anual,False,Recorrente
+87b18931,da Costa Castro S.A.,2025-11-24,2025-11-24,570.99,Pix,Mensal,True,Recorrente
+c698816d,da Mata Castro e Filhos,2025-11-11,2025-11-26,1218.41,Boleto,Mensal,True,Recorrente
+29ee853b,Garcia S/A,2025-11-29,2025-12-29,2425.84,Pix,Mensal,True,Recorrente
+87b2e76d,Câmara,2025-11-30,2025-12-30,718.83,Cartão de Crédito,Mensal,True,Recorrente
+ca018f3d,Vargas Ltda.,2025-11-14,2025-11-14,1307.0,Pix,Anual,True,Recorrente
+00478305,Ramos,2025-11-16,2025-12-16,1946.02,Pix,Mensal,True,Recorrente
+e1dc6fc8,da Luz S.A.,2025-11-14,2025-12-14,432.87,Pix,Mensal,False,Recorrente
+1020c746,Andrade,2025-11-16,2025-12-16,721.26,Boleto,Mensal,True,Recorrente
+18689882,Peixoto - ME,2025-11-15,2025-11-30,514.23,Boleto,Anual,True,Recorrente
+6caa0f7e,Siqueira,2025-11-03,2025-12-03,1603.82,Pix,Mensal,True,Recorrente
+de27d310,Lopes,2025-11-23,2025-12-23,1798.12,Boleto,Anual,False,Recorrente
+abe71059,Gomes - EI,2025-11-07,2025-11-07,1462.12,Pix,Mensal,False,Recorrente
+21391903,Abreu,2025-11-10,2025-11-10,242.8,Pix,Mensal,True,Recorrente
+a6b2c06f,Fonseca Lopes S/A,2025-11-01,2025-11-16,1301.72,Pix,Anual,False,Recorrente
+73b5f776,Pinto,2025-11-06,2025-12-06,1250.73,Pix,Mensal,False,Recorrente
+49d4edd3,Ribeiro,2025-11-28,2025-12-28,977.0,Pix,Mensal,True,Recorrente
+25cee156,Sampaio,2025-11-15,2025-11-30,1496.31,Cartão de Crédito,Mensal,True,Recorrente
+67c5121d,Novaes,2025-11-28,2025-12-28,459.66,Pix,Mensal,False,Recorrente
+777374aa,Rocha,2025-11-06,2025-11-21,2286.15,Boleto,Mensal,False,Recorrente
+04471925,Pimenta Nunes Ltda.,2025-11-23,2025-12-23,1459.75,Pix,Mensal,True,Recorrente
+98feee64,da Rosa Ltda.,2025-11-28,2025-12-28,2027.71,Pix,Anual,True,Recorrente
+ba117f81,Moraes Melo e Filhos,2025-11-13,2025-12-13,2340.99,Pix,Mensal,False,Recorrente
+a5aba80e,Ribeiro Barros Ltda.,2025-11-17,2025-11-17,2239.59,Boleto,Mensal,False,Recorrente
+3cf89f10,Borges,2025-11-14,2025-11-29,1932.46,Pix,Mensal,True,Recorrente
+a8083037,Rocha das Neves S.A.,2025-11-26,2025-12-26,823.43,Pix,Mensal,True,Recorrente
+b5ff35f8,Casa Grande Alves S/A,2025-11-20,2025-12-05,520.12,Boleto,Mensal,True,Recorrente
+08b50aae,Melo Pimenta S/A,2025-11-17,2025-12-17,1760.92,Cartão de Crédito,Anual,False,Recorrente
+e4c6d412,Leão,2025-11-29,2025-11-29,230.0,Pix,Mensal,True,Recorrente
+b2b7f00d,Sá S/A,2025-11-13,2025-11-28,2318.33,Cartão de Crédito,Anual,False,Recorrente
+38b5a21d,Câmara,2025-11-20,2025-11-20,1984.72,Cartão de Crédito,Mensal,False,Recorrente
+ce5b0958,Sampaio Moreira - ME,2025-11-12,2025-11-12,2490.5,Cartão de Crédito,Mensal,True,Recorrente
+25114e73,Novais S.A.,2025-11-18,2025-12-18,1305.55,Boleto,Mensal,True,Recorrente
+b891709b,Marques S.A.,2025-11-05,2025-11-20,404.81,Pix,Anual,True,Recorrente
+503d3211,Rios,2025-11-25,2025-12-25,1675.24,Pix,Anual,True,Novo/Avulso
+6f34d237,Sá,2025-11-12,2025-11-27,1938.08,Cartão de Crédito,Avulso,False,Novo/Avulso
+f3ba10d3,Pimenta,2025-11-15,2025-11-30,298.92,Cartão de Crédito,Mensal,True,Novo/Avulso
+f5a923af,Novaes,2025-11-29,2025-12-14,1399.98,Pix,Mensal,False,Novo/Avulso
+87b84ac2,Castro,2025-11-26,2025-11-26,2029.77,Pix,Anual,True,Novo/Avulso
+51c08f9e,Machado,2025-11-13,2025-11-13,1226.0,Boleto,Avulso,False,Novo/Avulso
+377d4c54,Sá,2025-11-09,2025-11-09,330.83,Boleto,Avulso,True,Novo/Avulso
+fa31f91b,Porto da Mota - EI,2025-11-21,2025-11-21,2206.23,Pix,Mensal,False,Novo/Avulso
+f3c9f73d,Pires,2025-11-16,2025-12-01,1753.65,Boleto,Mensal,False,Novo/Avulso
+afbe17f4,da Mota Macedo S/A,2025-11-07,2025-11-07,1665.01,Cartão de Crédito,Mensal,True,Novo/Avulso
+d4a79bb6,da Costa,2025-11-21,2025-12-06,695.97,Pix,Avulso,False,Novo/Avulso
