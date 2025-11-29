@@ -1,3 +1,5 @@
+
+//Gráfico interativo da Demonstração de Resultados
 const ctx = document.getElementById("income-statement-chart");
 
 function getLast12Months() {
@@ -18,6 +20,18 @@ function getLast12Months() {
 }
 
 const labels = getLast12Months()
+
+//criar gráfico com despesas e receitas
+
+const receitas = [];
+fetch("http://localhost:5000/api/ganhos").then((response) => {
+	response.json().then((json) => {
+		for (let i = 0; i <= 11; i++) {
+			receitas.push(json.i['mês'])
+		}
+	})
+	console.log(receitas)
+})
 
 new Chart(ctx, {
 	type: "bar",
